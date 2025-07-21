@@ -1,2 +1,65 @@
-# expired-oneword-domains
-List of expired one word domain names with availability, expiration date, attractiveness, demand score.
+
+# **One-Word Domain Names**: Daily Updated List of Available Domains
+
+This regularly updated dataset includes the latest available one-word domains.
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() 
+
+> [!TIP]
+> This dataset provide you 10,000 high quality **one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.top)**.
+
+# What's Included in the Dataset
+
+- **Domain Name**: High-quality, single-word domains.
+- **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
+- **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
+- **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
+- **Length**: The word length of the domain (without the TLD)
+- **Created**: The date the domain was created.
+- **Expires**: The date the domain expires.
+- **Registrar**: The registrar of the domain.
+- **Buy Link**: Direct link to purchase the domain.
+
+| domain            | status  | attractiveness | demand | length | created          | expires          | registrar                                          | sectors                                       |
+| ----------------- | ------- | -------------- | ------ | ------ | ---------------- | ---------------- | -------------------------------------------------- | --------------------------------------------- |
+| primary.app       | expired | 116            | 84     | 7      | 08/05/2018 16:00 | 08/05/2025 16:00 | Gandi SAS                                          | Business,Education,Media                      |
+| Microsoft.ninja   | expired | 112            | 100    | 9      | 22/04/2014 13:49 | 22/04/2025 13:49 | Nom-iq Ltd. dba COM LAUDE                          | Business,Education,Technology                 |
+| lunch.it          | expired | 111            | 80     | 5      | 26/06/2003 00:00 | 26/06/2025 00:00 |                                                    | Food and Beverage,General,Hospitality,Retail  |
+| radiate.site      | expired | 108            | 84     | 7      | 30/04/2024 13:18 | 30/04/2025 23:59 | Namecheap                                          | Arts,Entertainment,Media                      |
+| trademark.it      | expired | 104            | 92     | 9      | 10/02/1998 00:00 | 02/07/2025 00:00 |                                                    | Business,Law                                  |
+| psychedelic.store | expired | 104            | 80     | 11     | 09/05/2022 17:15 | 09/05/2025 23:59 | Namecheap                                          | Arts,Entertainment,Fashion                    |
+| loco.it           | expired | 102            | 84     | 4      | 27/06/2007 09:43 | 27/06/2025 00:00 |                                                    | Entertainment                                 |
+| wont.it           | expired | 99             | 80     | 4      | 29/06/2012 22:13 | 04/07/2025 00:00 |                                                    | Humanities,Media                              |
+| candidate.so      | expired | 99             | 84     | 9      | 01/05/2023 20:35 | 01/05/2025 20:35 | NameCheap                                          | Business,Education,Politics                   |
+| database.it       | expired | 99             | 76     | 8      | 17/05/1996 00:00 | 07/07/2025 00:00 |                                                    | Education,Finance,Technology                  |
+| employ.it         | expired | 98             | 80     | 6      | 26/01/2000 00:00 | 17/06/2025 00:00 |                                                    | Business                                      |
+| precedent.us      | expired | 98             | 76     | 9      | 23/06/2024 20:18 | 23/06/2025 20:18 | Dynadot Inc                                        | Business,Law,Politics                         |
+| cheep.site        | expired | 98             | 72     | 5      | 06/05/2024 08:23 | 06/05/2025 23:59 | Communigal Communications Ltd                      | Education,Environment,Science                 |
+| cocacola.cloud    | expired | 98             | 88     | 9      | 02/05/2024 12:27 | 02/05/2025 12:27 | Chengdu West Dimension Digital Technology Co., LTD | Food and Beverage,Media,Retail                |
+| kodak.space       | expired | 98             | 92     | 5      | 01/05/2024 10:17 | 01/05/2025 23:59 | Sav.com, LLC- 7                                    | Media,Technology                              |
+| russet.io         | expired | 98             | 72     | 6      | 19/05/2022 13:52 | 19/05/2025 13:52 | Tucows Domains Inc.                                | Arts,Fashion,Food and Beverage                |
+| king.app          | expired | 97             | 88     | 4      | 06/05/2018 07:24 | 06/05/2025 07:24 | Name.com, Inc.                                     | Entertainment,Media                           |
+| guts.me           | expired | 97             | 88     | 4      | 08/05/2024 15:15 | 08/05/2025 15:15 | Sav.com, LLC - 46                                  | Entertainment,Health and Fitness,Sports       |
+| bring.space       | expired | 96             | 96     | 5      | 25/04/2022 06:21 | 25/04/2025 23:59 | Isimtescil Bilisim A.S.                            | Business,Retail,Technology                    |
+| claim.gg          | expired | 96             | 80     | 5      |                  |                  | NameCheap, Inc (https://www.namecheap.com)         | Business,Insurance,Law                        |
+| hourly.it         | expired | 96             | 80     | 6      | 21/04/2010 21:53 | 28/06/2025 00:00 |                                                    | Business,Finance,Retail                       |
+| significant.ai    | expired | 96             | 68     | 11     | 23/04/2019 23:10 | 23/04/2025 23:10 | Key-Systems GmbH                                   | Business,Education,Science                    |
+| debit.app         | expired | 96             | 88     | 5      | 05/05/2018 16:00 | 05/05/2025 16:00 | Namecamp Limited                                   | Banking,Business,Finance                      |
+| unlock.it         | expired | 96             | 88     | 6      | 02/11/2005 00:00 | 07/07/2025 00:00 |                                                    | Finance,Real Estate,Technology                |
+| turk.tech         | expired | 94             | 72     | 4      | 01/06/2022 11:37 | 01/06/2025 23:59 | InternetX GmbH                                     | Geography,Humanities                          |
+| feint.it          | expired | 94             | 84     | 5      | 24/06/2017 16:00 | 25/06/2025 00:00 |                                                    | Arts,Entertainment,General,Sports             |
+| flavor.it         | expired | 94             | 72     | 6      | 06/07/2006 00:00 | 06/07/2025 00:00 |                                                    | Food and Beverage,Hospitality,Retail          |
+| volume.io         | expired | 94             | 84     | 6      | 17/05/2011 14:31 | 17/05/2025 14:31 | 101domain GRS Limited                              | Business,Media,Technology                     |
+| facetoface.app    | expired | 92             | 84     | 12     | 11/05/2018 05:59 | 11/05/2025 05:59 | GoDaddy.com, LLC                                   | Business                                      |
+| detox.cloud       | expired | 92             | 84     | 5      | 23/04/2020 01:26 | 23/04/2025 01:26 | Epik LLC                                           | Health and Fitness,Healthcare,Pharmaceuticals |
+
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.bottom)
+
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/expired-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.image)
+
+Every day, we curate the finest quality brandable domains that are not been buyed yet.
+
+> [!TIP]
+> Like this dataset? Give a star on this repo for supporting our work.
+        
