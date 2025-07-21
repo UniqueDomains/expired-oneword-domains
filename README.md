@@ -1,17 +1,17 @@
 
-# **One-Word Domain Names**: Daily Updated List of Available Domains
+# **Expired One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available one-word domains.
+This regularly updated dataset includes the latest available Expired one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **Expired one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Expired&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word domains.
+- **Domain Name**: High-quality, single-word Expired domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -54,12 +54,90 @@ This regularly updated dataset includes the latest available one-word domains.
 | facetoface.app    | expired | 92             | 84     | 12     | 11/05/2018 05:59 | 11/05/2025 05:59 | GoDaddy.com, LLC                                   | Business                                      |
 | detox.cloud       | expired | 92             | 84     | 5      | 23/04/2020 01:26 | 23/04/2025 01:26 | Epik LLC                                           | Health and Fitness,Healthcare,Pharmaceuticals |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Expired&utm_content=description.bottom)
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/expired-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/expired-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Expired&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
 > [!TIP]
 > Like this dataset? Give a star on this repo for supporting our work.
+
+# More One Word Domains
+
+## General
+
+- [all-oneword-domains One word domains](https://github.com/UniqueDomains/all-oneword-domains): 10,000 domains
+- [expired-oneword-domains One word domains](https://github.com/UniqueDomains/expired-oneword-domains): 1,000 domains
+- [expiring-oneword-domains One word domains](https://github.com/UniqueDomains/expiring-oneword-domains): 1,000 domains
+## By Sector
+
+- [agriculture-oneword-domains One word domains](https://github.com/UniqueDomains/agriculture-oneword-domains): 10,000 domains
+- [arts-oneword-domains One word domains](https://github.com/UniqueDomains/arts-oneword-domains): 10,000 domains
+- [automotive-oneword-domains One word domains](https://github.com/UniqueDomains/automotive-oneword-domains): 10,000 domains
+- [aviation-oneword-domains One word domains](https://github.com/UniqueDomains/aviation-oneword-domains): 6,733 domains
+- [banking-oneword-domains One word domains](https://github.com/UniqueDomains/banking-oneword-domains): 7,958 domains
+- [business-oneword-domains One word domains](https://github.com/UniqueDomains/business-oneword-domains): 10,000 domains
+- [construction-oneword-domains One word domains](https://github.com/UniqueDomains/construction-oneword-domains): 10,000 domains
+- [education-oneword-domains One word domains](https://github.com/UniqueDomains/education-oneword-domains): 10,000 domains
+- [energy-oneword-domains One word domains](https://github.com/UniqueDomains/energy-oneword-domains): 7,067 domains
+- [engineering-oneword-domains One word domains](https://github.com/UniqueDomains/engineering-oneword-domains): 10,000 domains
+- [entertainment-oneword-domains One word domains](https://github.com/UniqueDomains/entertainment-oneword-domains): 10,000 domains
+- [environment-oneword-domains One word domains](https://github.com/UniqueDomains/environment-oneword-domains): 10,000 domains
+- [fashion-oneword-domains One word domains](https://github.com/UniqueDomains/fashion-oneword-domains): 10,000 domains
+- [finance-oneword-domains One word domains](https://github.com/UniqueDomains/finance-oneword-domains): 10,000 domains
+- [food-and-beverage-oneword-domains One word domains](https://github.com/UniqueDomains/food-and-beverage-oneword-domains): 10,000 domains
+- [general-oneword-domains One word domains](https://github.com/UniqueDomains/general-oneword-domains): 10,000 domains
+- [geography-oneword-domains One word domains](https://github.com/UniqueDomains/geography-oneword-domains): 10,000 domains
+- [health-and-fitness-oneword-domains One word domains](https://github.com/UniqueDomains/health-and-fitness-oneword-domains): 10,000 domains
+- [healthcare-oneword-domains One word domains](https://github.com/UniqueDomains/healthcare-oneword-domains): 10,000 domains
+- [hospitality-oneword-domains One word domains](https://github.com/UniqueDomains/hospitality-oneword-domains): 10,000 domains
+- [humanities-oneword-domains One word domains](https://github.com/UniqueDomains/humanities-oneword-domains): 10,000 domains
+- [insurance-oneword-domains One word domains](https://github.com/UniqueDomains/insurance-oneword-domains): 2,447 domains
+- [law-oneword-domains One word domains](https://github.com/UniqueDomains/law-oneword-domains): 10,000 domains
+- [manufacturing-oneword-domains One word domains](https://github.com/UniqueDomains/manufacturing-oneword-domains): 10,000 domains
+- [mathematics-oneword-domains One word domains](https://github.com/UniqueDomains/mathematics-oneword-domains): 10,000 domains
+- [media-oneword-domains One word domains](https://github.com/UniqueDomains/media-oneword-domains): 10,000 domains
+- [medicine-oneword-domains One word domains](https://github.com/UniqueDomains/medicine-oneword-domains): 10,000 domains
+- [military-oneword-domains One word domains](https://github.com/UniqueDomains/military-oneword-domains): 10,000 domains
+- [mining-oneword-domains One word domains](https://github.com/UniqueDomains/mining-oneword-domains): 2,021 domains
+- [pharmaceuticals-oneword-domains One word domains](https://github.com/UniqueDomains/pharmaceuticals-oneword-domains): 10,000 domains
+- [politics-oneword-domains One word domains](https://github.com/UniqueDomains/politics-oneword-domains): 10,000 domains
+- [real-estate-oneword-domains One word domains](https://github.com/UniqueDomains/real-estate-oneword-domains): 10,000 domains
+- [religion-oneword-domains One word domains](https://github.com/UniqueDomains/religion-oneword-domains): 10,000 domains
+- [retail-oneword-domains One word domains](https://github.com/UniqueDomains/retail-oneword-domains): 10,000 domains
+- [science-oneword-domains One word domains](https://github.com/UniqueDomains/science-oneword-domains): 10,000 domains
+- [sports-oneword-domains One word domains](https://github.com/UniqueDomains/sports-oneword-domains): 10,000 domains
+- [technology-oneword-domains One word domains](https://github.com/UniqueDomains/technology-oneword-domains): 10,000 domains
+- [telecommunications-oneword-domains One word domains](https://github.com/UniqueDomains/telecommunications-oneword-domains): 10,000 domains
+- [transportation-oneword-domains One word domains](https://github.com/UniqueDomains/transportation-oneword-domains): 10,000 domains
+- [travel-oneword-domains One word domains](https://github.com/UniqueDomains/travel-oneword-domains): 10,000 domains
+- [utilities-oneword-domains One word domains](https://github.com/UniqueDomains/utilities-oneword-domains): 4,425 domains
+## By TLD
+
+- [ai-oneword-domains One word domains](https://github.com/UniqueDomains/ai-oneword-domains): 10,000 domains
+- [app-oneword-domains One word domains](https://github.com/UniqueDomains/app-oneword-domains): 10,000 domains
+- [at-oneword-domains One word domains](https://github.com/UniqueDomains/at-oneword-domains): 10,000 domains
+- [cloud-oneword-domains One word domains](https://github.com/UniqueDomains/cloud-oneword-domains): 10,000 domains
+- [co-oneword-domains One word domains](https://github.com/UniqueDomains/co-oneword-domains): 10,000 domains
+- [com-oneword-domains One word domains](https://github.com/UniqueDomains/com-oneword-domains): 10,000 domains
+- [dev-oneword-domains One word domains](https://github.com/UniqueDomains/dev-oneword-domains): 10,000 domains
+- [expert-oneword-domains One word domains](https://github.com/UniqueDomains/expert-oneword-domains): 10,000 domains
+- [gg-oneword-domains One word domains](https://github.com/UniqueDomains/gg-oneword-domains): 10,000 domains
+- [io-oneword-domains One word domains](https://github.com/UniqueDomains/io-oneword-domains): 10,000 domains
+- [it-oneword-domains One word domains](https://github.com/UniqueDomains/it-oneword-domains): 10,000 domains
+- [me-oneword-domains One word domains](https://github.com/UniqueDomains/me-oneword-domains): 10,000 domains
+- [net-oneword-domains One word domains](https://github.com/UniqueDomains/net-oneword-domains): 10,000 domains
+- [ninja-oneword-domains One word domains](https://github.com/UniqueDomains/ninja-oneword-domains): 10,000 domains
+- [online-oneword-domains One word domains](https://github.com/UniqueDomains/online-oneword-domains): 10,000 domains
+- [org-oneword-domains One word domains](https://github.com/UniqueDomains/org-oneword-domains): 10,000 domains
+- [pro-oneword-domains One word domains](https://github.com/UniqueDomains/pro-oneword-domains): 10,000 domains
+- [site-oneword-domains One word domains](https://github.com/UniqueDomains/site-oneword-domains): 10,000 domains
+- [so-oneword-domains One word domains](https://github.com/UniqueDomains/so-oneword-domains): 10,000 domains
+- [space-oneword-domains One word domains](https://github.com/UniqueDomains/space-oneword-domains): 10,000 domains
+- [store-oneword-domains One word domains](https://github.com/UniqueDomains/store-oneword-domains): 10,000 domains
+- [tech-oneword-domains One word domains](https://github.com/UniqueDomains/tech-oneword-domains): 10,000 domains
+- [us-oneword-domains One word domains](https://github.com/UniqueDomains/us-oneword-domains): 10,000 domains
+- [xyz-oneword-domains One word domains](https://github.com/UniqueDomains/xyz-oneword-domains): 10,000 domains
+- [zone-oneword-domains One word domains](https://github.com/UniqueDomains/zone-oneword-domains): 10,000 domains
         
