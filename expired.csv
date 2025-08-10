@@ -1,11 +1,11 @@
 Domain,Status,Attractiveness,Demand,Length,Sectors,Created,Expires,Registrar
 primary.app,expired,116,84%,7,"Business,Education,Media",08/05/2018 16:00,08/05/2025 16:00,Gandi SAS
+flush.dev,expired,114,24%,5,"Business,Finance,Media",15/06/2024 19:50,15/06/2025 19:50,"Spaceship, Inc."
 Microsoft.ninja,expired,112,100%,9,"Business,Education,Technology",22/04/2014 13:49,22/04/2025 13:49,Nom-iq Ltd. dba COM LAUDE
 lunch.it,expired,111,80%,5,"Food and Beverage,General,Hospitality,Retail",26/06/2003 00:00,26/06/2025 00:00,
 radiate.site,expired,108,84%,7,"Arts,Entertainment,Media",30/04/2024 13:18,30/04/2025 23:59,Namecheap
 trademark.it,expired,104,92%,9,"Business,Law",10/02/1998 00:00,02/07/2025 00:00,
 psychedelic.store,expired,104,80%,11,"Arts,Entertainment,Fashion",09/05/2022 17:15,09/05/2025 23:59,Namecheap
-loco.it,expired,102,84%,4,Entertainment,27/06/2007 09:43,27/06/2025 00:00,
 wont.it,expired,99,80%,4,"Humanities,Media",29/06/2012 22:13,04/07/2025 00:00,
 candidate.so,expired,99,84%,9,"Business,Education,Politics",01/05/2023 20:35,01/05/2025 20:35,NameCheap
 database.it,expired,99,76%,8,"Education,Finance,Technology",17/05/1996 00:00,07/07/2025 00:00,
@@ -13,6 +13,7 @@ employ.it,expired,98,80%,6,Business,26/01/2000 00:00,17/06/2025 00:00,
 precedent.us,expired,98,76%,9,"Business,Law,Politics",23/06/2024 20:18,23/06/2025 20:18,Dynadot Inc
 cheep.site,expired,98,72%,5,"Education,Environment,Science",06/05/2024 08:23,06/05/2025 23:59,Communigal Communications Ltd
 cocacola.cloud,expired,98,88%,9,"Food and Beverage,Media,Retail",02/05/2024 12:27,02/05/2025 12:27,"Chengdu West Dimension Digital Technology Co., LTD"
+clown.com,expired,98,32%,5,Entertainment,10/08/1995 04:00,09/08/2025 04:00,"Wild West Domains, LLC"
 kodak.space,expired,98,92%,5,"Media,Technology",01/05/2024 10:17,01/05/2025 23:59,"Sav.com, LLC- 7"
 russet.io,expired,98,72%,6,"Arts,Fashion,Food and Beverage",19/05/2022 13:52,19/05/2025 13:52,Tucows Domains Inc.
 king.app,expired,97,88%,4,"Entertainment,Media",06/05/2018 07:24,06/05/2025 07:24,"Name.com, Inc."
@@ -36,7 +37,6 @@ pie.tech,expired,90,88%,3,"Food and Beverage,Retail",04/05/2022 06:40,04/05/2025
 liqueur.ai,expired,90,80%,7,"Food and Beverage,Hospitality,Retail",30/04/2023 08:38,30/04/2025 08:38,united-domains GmbH
 flagship.site,expired,90,88%,8,"Business,Retail,Technology",24/04/2024 01:21,24/04/2025 23:59,Communigal Communications Ltd
 protective.dev,expired,89,80%,10,"Healthcare,Law,Technology",09/05/2024 11:07,09/05/2025 11:07,Namecheap Inc.
-alluring.co,expired,88,20%,8,"Fashion,Retail",28/07/2020 07:37,28/07/2025 07:37,"GoDaddy.com, LLC"
 takeout.us,expired,88,72%,7,"Food and Beverage,Hospitality,Retail",01/06/2004 08:48,31/05/2025 23:59,Key-Systems GmbH
 unexpected.us,expired,88,72%,10,"Business,Media,Technology",05/06/2024 22:07,05/06/2025 22:07,Sav.com LLC
 salient.site,expired,87,80%,7,"Business,Education,Media",01/06/2022 10:26,01/06/2025 23:59,Ascio Technologies Inc. Danmark - filial af Ascio Technologies Inc. USA
@@ -81,7 +81,6 @@ Frankenstein.store,expired,82,80%,12,Media,23/05/2024 08:37,23/05/2025 23:59,Com
 chunky.app,expired,82,84%,6,"Fashion,Food and Beverage,Retail",08/05/2018 17:07,08/05/2025 17:07,Squarespace Domains II LLC.
 repack.store,expired,82,88%,6,"Manufacturing,Retail",17/05/2023 06:59,17/05/2025 23:59,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 stoop.us,expired,82,76%,5,"Construction,Real Estate",27/04/2024 20:18,27/04/2025 20:18,Sav.com LLC
-arctic.co,expired,82,52%,6,Geography,21/07/2010 21:18,20/07/2025 23:59,"GoDaddy.com, LLC"
 freespirit.so,expired,82,88%,11,"Arts,Health and Fitness,Media",,,
 holepunch.net,expired,82,88%,10,"Education,Retail",06/05/2015 17:38,06/05/2025 17:38,"GoDaddy.com, LLC"
 floorboard.net,expired,82,76%,10,"Construction,Real Estate,Retail",03/07/2013 18:13,03/07/2025 18:13,Dynadot Inc
@@ -118,13 +117,13 @@ skite.io,expired,78,72%,5,Entertainment,08/05/2020 07:09,08/05/2025 07:09,"NameC
 deliverable.tech,expired,78,84%,11,"Business,Media,Technology",13/05/2021 12:02,13/05/2025 23:59,Squarespace Domains II LLC
 seance.dev,expired,78,80%,6,"Entertainment,Humanities,Religion",10/05/2020 04:49,10/05/2025 04:49,Namecheap Inc.
 minimalist.online,expired,78,84%,10,"Arts,Fashion,Technology",16/05/2024 02:10,16/05/2025 23:59,Communigal Communications Ltd
-adorable.us,expired,78,32%,8,"Entertainment,Fashion,Retail",14/07/2019 00:02,14/07/2025 00:02,Dynadot Inc
-foreign.co,expired,78,32%,7,"Science,Technology",20/07/2010 18:05,19/07/2025 23:59,"GoDaddy.com, LLC"
+foreign.co,expired,78,24%,7,"Science,Technology",20/07/2010 18:05,19/07/2025 23:59,"GoDaddy.com, LLC"
 keynote.it,expired,78,72%,7,"Business,Media,Technology",06/07/2024 16:00,06/07/2025 00:00,
 golfing.expert,expired,78,76%,7,"Entertainment,Health and Fitness,Sports",14/05/2024 21:33,14/05/2025 21:33,Porkbun LLC
 Kramer.at,expired,78,84%,6,"Entertainment,Media",,,"GoDaddy.com, LLC ( https://nic.at/registrar/693 )"
 bloodred.it,expired,78,68%,9,"Fashion,Health and Fitness,Retail",,,
 completion.tech,expired,78,84%,10,"Business,Construction,Education",22/05/2024 03:48,22/05/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
+helping.store,expired,78,84%,7,Healthcare,17/05/2024 02:35,17/05/2025 23:59,"Sav.com, LLC- 3"
 purist.online,expired,77,84%,6,"Arts,Humanities",12/05/2024 00:01,12/05/2025 23:59,"Xiamen ChinaSource Internet Service Co., Ltd"
 fascinating.tech,expired,76,76%,11,"Education,Media",29/05/2024 02:22,29/05/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 favored.it,expired,76,76%,7,"Business,Entertainment,Media",06/07/2020 16:00,07/07/2025 00:00,
@@ -149,15 +148,17 @@ diversity.expert,expired,76,72%,9,"Business,Education,Media",14/05/2014 16:00,14
 toffy.app,expired,76,80%,5,"Food and Beverage,Hospitality,Retail",19/05/2024 22:43,19/05/2025 22:43,"Name.com, Inc."
 confess.tech,expired,76,80%,7,"Humanities,Law,Religion",01/06/2024 00:45,01/06/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 tangent.it,expired,76,88%,7,Mathematics,02/07/2010 09:48,06/07/2025 00:00,
+ague.me,expired,76,12%,4,"Geography,Medicine,Science",26/06/2010 19:54,26/06/2025 19:54,"Network Solutions, LLC"
 Slurpee.us,expired,76,80%,7,"Entertainment,Food and Beverage,Retail",03/07/2018 16:31,03/07/2025 16:31,"GoDaddy.com, LLC"
 spliff.me,expired,76,84%,6,"Health and Fitness,Law,Medicine",15/05/2024 01:54,15/05/2025 01:54,Dynadot Inc
 balenciaga.cloud,expired,76,84%,10,"Fashion,Retail",11/05/2024 10:45,11/05/2025 10:45,"HOSTINGER operations, UAB"
 biomechanical.co,expired,76,72%,14,"Engineering,Healthcare,Technology",10/05/2024 17:00,10/05/2025 17:00,Dynadot Inc
-allied.expert,expired,74,44%,6,"Business,Manufacturing",04/06/2022 14:03,04/06/2025 14:03,"HOSTINGER operations, UAB"
+allied.expert,expired,74,40%,6,"Business,Manufacturing",04/06/2022 14:03,04/06/2025 14:03,"HOSTINGER operations, UAB"
 him.ninja,expired,74,88%,3,"Business,Education,Humanities",01/05/2024 00:46,01/05/2025 00:46,"NameCheap, Inc."
 adorientem.org,expired,74,72%,11,General,21/05/2019 14:12,21/05/2025 14:12,Tucows Domains Inc.
 getwet.store,expired,74,72%,7,General,15/06/2023 21:53,15/06/2025 23:59,"Go Daddy, LLC"
 keystroke.online,expired,74,92%,9,"Media,Technology,Telecommunications",21/04/2023 17:35,21/04/2025 23:59,Domeneshop AS
+ascending.me,expired,74,28%,9,"Sports,Travel",30/05/2016 23:12,30/05/2025 23:12,"GoDaddy.com, LLC"
 testimonial.store,expired,74,84%,11,Business,15/05/2020 16:39,15/05/2025 23:59,"Go Daddy, LLC"
 stubby.it,expired,74,76%,6,"Arts,Fashion,Retail",,,
 PDF.app,expired,74,88%,3,"Business,Media,Technology",05/05/2018 16:02,05/05/2025 16:02,1API GmbH
@@ -168,7 +169,7 @@ marigold.it,expired,74,84%,8,"Environment,Retail",05/07/2001 00:00,29/06/2025 00
 doughy.xyz,expired,74,76%,6,"Food and Beverage,Health and Fitness,Medicine",12/05/2024 03:23,12/05/2025 23:59,Namecheap
 coolly.co,expired,74,76%,6,"Arts,Entertainment,Fashion",28/06/2024 05:59,28/06/2025 05:59,"NameCheap, Inc."
 colourcode.online,expired,74,80%,11,"Manufacturing,Media,Technology",19/04/2024 06:28,19/04/2025 23:59,Communigal Communications Ltd
-adamant.me,expired,74,48%,7,Religion,12/06/2024 02:53,12/06/2025 02:53,"Chengdu West Dimension Digital Technology Co., Ltd."
+adsorbent.so,expired,74,4%,9,"Energy,Manufacturing,Technology",,,
 prevail.us,expired,74,88%,7,"Business,Media,Politics",04/07/2007 18:14,03/07/2025 23:59,1API GmbH
 equanimity.us,expired,74,76%,10,"Health and Fitness,Humanities,Medicine",08/06/2018 01:51,08/06/2025 01:51,IONOS SE
 patina.me,expired,74,80%,6,"Arts,Construction,Manufacturing",06/05/2024 15:15,06/05/2025 15:15,"Sav.com, LLC - 8"
@@ -193,6 +194,7 @@ getinto.co,expired,72,72%,8,"Fashion,Media,Retail",15/05/2024 17:00,15/05/2025 1
 waitingroom.dev,expired,72,88%,12,"Healthcare,Hospitality,Medicine",24/04/2024 12:58,24/04/2025 12:58,Porkbun LLC
 modelling.ai,expired,72,76%,9,"Arts,Media,Technology",28/04/2021 05:08,28/04/2025 05:08,"NameCheap, Inc."
 postmodern.site,expired,72,76%,10,"Arts,Humanities",24/04/2024 11:53,24/04/2025 23:59,"Registrar of Domain Names REG.RU, LLC"
+kookie.ai,expired,72,28%,6,Entertainment,20/06/2023 23:53,20/06/2025 23:53,"GoDaddy.com, LLC"
 tory.us,expired,72,84%,4,Politics,02/07/2019 00:03,02/07/2025 00:03,"Spaceship, Inc."
 wonderboy.co,expired,72,84%,10,"Entertainment,Media,Sports",07/06/2024 04:30,07/06/2025 04:30,"NameCheap, Inc."
 softness.it,expired,72,80%,8,"Healthcare,Pharmaceuticals,Retail",06/07/2022 09:00,06/07/2025 00:00,
@@ -240,6 +242,7 @@ eurekaeffect.com,expired,70,72%,13,"Education,Media,Science",16/05/2008 14:53,16
 fruitsalad.us,expired,70,72%,11,Food and Beverage,31/05/2024 00:39,31/05/2025 00:39,"GoDaddy.com, LLC"
 iota.at,expired,70,88%,4,"Arts,Media",,,VIM Internetdienstleistungen GmbH ( https://nic.at/registrar/21 )
 commodity.it,expired,70,84%,9,"Agriculture,Finance,Retail",21/06/2020 16:00,07/07/2025 00:00,
+creator.pro,expired,70,56%,7,"Arts,Religion",09/07/2007 00:00,09/07/2025 00:00,"EnCirca, Inc."
 yogini.us,expired,70,88%,6,"Health and Fitness,Media",30/04/2024 17:11,30/04/2025 17:11,"Spaceship, Inc."
 susu.us,expired,70,88%,4,"Food and Beverage,Retail",22/06/2023 00:00,22/06/2025 00:00,"Spaceship, Inc."
 chased.dev,expired,70,84%,6,"Entertainment,Media,Sports",18/05/2024 00:27,18/05/2025 00:27,Namecheap Inc.
@@ -253,6 +256,7 @@ swimsuit.expert,expired,68,72%,8,"Fashion,Retail,Sports",14/05/2014 16:00,14/05/
 liven.pro,expired,68,80%,5,"Entertainment,Health and Fitness,Media",24/04/2024 17:00,24/04/2025 17:00,"Sav.com, LLC - 7"
 jobbing.us,expired,68,76%,7,"Business,Entertainment,Media",18/06/2024 07:59,18/06/2025 07:59,Sav.com LLC
 focusgroup.pro,expired,68,88%,11,"Business,Media",04/05/2017 02:31,04/05/2025 02:31,"GoDaddy.com, LLC"
+amenable.net,expired,68,28%,8,Law,22/06/2018 18:13,22/06/2025 18:13,DropCatch.com 1148 LLC
 haya.it,expired,68,76%,4,"Humanities,Religion",10/06/2021 08:23,10/06/2025 00:00,
 mile.it,expired,68,88%,4,"Geography,Sports,Transportation",10/08/2000 00:00,29/06/2025 00:00,
 muggle.us,expired,68,76%,6,"Entertainment,Media",03/07/2024 15:00,03/07/2025 15:00,"OwnRegistrar, Inc."
@@ -260,7 +264,6 @@ longbow.online,expired,68,80%,7,"Entertainment,Sports",28/04/2024 03:39,28/04/20
 SaintBernard.io,expired,68,76%,13,"Entertainment,Healthcare,Media",21/05/2022 04:27,21/05/2025 04:27,"Sav.com, LLC"
 muggle.pro,expired,68,76%,6,"Entertainment,Media",22/05/2024 02:25,22/05/2025 02:25,"NameCheap, Inc."
 secondlanguage.co,expired,68,72%,15,"Education,Humanities,Travel",04/05/2024 10:53,04/05/2025 10:53,"GoDaddy.com, LLC"
-backed.pro,expired,68,76%,6,Business,30/04/2024 21:50,30/04/2025 21:50,Porkbun LLC
 littleone.us,expired,68,76%,10,"Healthcare,Media,Retail",29/06/2022 00:00,29/06/2025 00:00,Dynadot Inc
 mice.app,expired,68,88%,4,"Environment,Science,Technology",08/05/2018 16:40,08/05/2025 16:40,Key-Systems LLC
 enrapture.us,expired,68,80%,9,"Arts,Entertainment,Media",23/06/2023 10:14,23/06/2025 10:14,Mesh Digital Limited
@@ -285,7 +288,6 @@ goodLord.us,expired,66,84%,9,"Arts,Media,Religion",22/06/2023 14:46,22/06/2025 1
 caliph.pro,expired,66,76%,6,"Politics,Religion",11/05/2024 11:58,11/05/2025 11:58,"NameCheap, Inc."
 concerned.site,expired,66,84%,9,Healthcare,23/05/2024 14:05,23/05/2025 23:59,"Name.com, Inc"
 summery.it,expired,66,76%,7,"Fashion,Retail,Travel",01/07/2022 01:52,01/07/2025 00:00,
-armored.it,expired,66,76%,7,"Automotive,Military,Technology",19/06/2019 09:00,05/07/2025 00:00,
 tremendous.online,expired,66,76%,10,"Business,Entertainment,Media",15/05/2024 17:24,15/05/2025 23:59,"Go Daddy, LLC"
 diversion.pro,expired,66,68%,9,"Entertainment,Media,Travel",06/05/2024 18:21,06/05/2025 18:21,"NameCheap, Inc."
 bravissimo.org,expired,66,76%,10,"Arts,Entertainment,Media",28/04/2004 20:00,28/04/2025 20:00,Annulet LLC
@@ -295,12 +297,12 @@ osmosis.it,expired,66,88%,7,"Healthcare,Pharmaceuticals,Science",10/08/2006 00:0
 chatting.store,expired,66,60%,8,"Entertainment,General,Media",26/05/2024 15:35,26/05/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 Women.it,expired,66,80%,5,General,25/03/1996 00:00,25/06/2025 00:00,
 economize.app,expired,66,76%,9,"Business,Environment,Finance",09/05/2018 06:01,09/05/2025 06:01,Namecheap Inc.
+century.expert,expired,66,36%,7,Education,25/06/2024 12:41,25/06/2025 12:41,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság
 supremacy.co,expired,66,84%,9,"Law,Politics",05/07/2020 06:44,05/07/2025 06:44,"Spaceship, Inc."
 mountainbike.ai,expired,66,84%,13,"Retail,Sports,Travel",10/04/2023 21:37,10/04/2025 21:37,"NameCheap, Inc."
 longitude.so,expired,66,84%,9,"Geography,Science,Technology",,,
 postage.app,expired,66,84%,7,"Business,Retail,Telecommunications",08/05/2018 16:00,08/05/2025 16:00,Squarespace Domains II LLC.
 coralreef.site,expired,66,84%,10,"Environment,Science,Travel",19/04/2024 15:26,19/04/2025 23:59,Namecheap
-ardent.online,expired,66,60%,6,"Arts,Humanities",19/05/2024 23:49,19/05/2025 23:59,"Xiamen ChinaSource Internet Service Co., Ltd"
 biggame.it,expired,66,84%,8,"Entertainment,Media,Sports",25/02/2000 00:00,29/06/2025 00:00,
 attendance.pro,expired,66,80%,10,"Business,Education,Healthcare",18/05/2013 06:31,18/05/2025 06:31,"DNSPod, Inc."
 hamilton.dev,expired,66,92%,8,"Business,Humanities",13/05/2019 18:03,13/05/2025 18:03,Squarespace Domains II LLC.
@@ -376,7 +378,6 @@ Eastercandle.it,expired,64,68%,13,"Arts,Media,Religion",,,
 enabling.us,expired,64,76%,8,"Business,Education,Technology",24/06/2024 20:16,24/06/2025 20:16,Sav.com LLC
 homebuying.online,expired,64,80%,10,"Finance,Real Estate",16/05/2024 03:09,16/05/2025 23:59,"Go Daddy, LLC"
 footgear.xyz,expired,64,72%,8,"Fashion,Retail",21/04/2024 00:29,21/04/2025 23:59,"Go Daddy, LLC"
-auburn.it,expired,64,76%,6,Fashion,14/06/2012 23:02,30/06/2025 00:00,
 datawarehousing.site,expired,64,24%,16,"Education,General,Technology",06/05/2024 13:53,06/05/2025 23:59,"Go Daddy, LLC"
 elephants.it,expired,64,36%,9,General,17/04/2001 00:00,21/06/2025 00:00,
 funnyman.org,expired,64,72%,9,Entertainment,21/05/2024 15:15,21/05/2025 15:15,Edomains LLC
@@ -405,6 +406,7 @@ machoman.online,expired,62,80%,9,"Entertainment,Fashion,Media",02/05/2024 20:01,
 watersport.site,expired,62,76%,10,"Entertainment,Sports,Travel",19/04/2024 00:11,19/04/2025 23:59,Communigal Communications Ltd
 artdirector.us,expired,62,76%,12,"Arts,Entertainment,Media",02/07/2024 16:06,02/07/2025 16:06,Sav.com LLC
 washingmachine.online,expired,62,80%,15,"Retail,Technology",02/09/2015 05:18,02/09/2016 23:59,PDR Ltd. d/b/a PublicDomainRegistry.com
+avenged.xyz,expired,62,12%,7,Entertainment,17/06/2024 06:26,17/06/2025 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 lama.so,expired,62,88%,4,"Religion,Science",11/05/2023 12:35,11/05/2025 12:35,NameCheap
 thiamin.so,expired,62,72%,7,"Healthcare,Medicine,Pharmaceuticals",,,
 groupleader.online,expired,62,80%,12,Business,01/07/2022 12:49,01/07/2025 23:59,Key-Systems LLC
@@ -434,6 +436,7 @@ footballclub.it,expired,62,80%,13,"Entertainment,Media,Sports",24/06/2010 00:57,
 Alizay.it,expired,62,68%,6,General,,,
 verso.store,expired,62,88%,5,"Arts,Humanities",04/05/2024 01:33,04/05/2025 23:59,"Sav.com, LLC- 3"
 sugarcube.co,expired,62,84%,10,"Food and Beverage,Hospitality,Retail",30/06/2017 12:43,29/06/2025 23:59,"Spaceship, Inc."
+concluded.xyz,expired,62,24%,9,"Business,Law",16/06/2024 22:58,16/06/2025 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 correlated.pro,expired,62,84%,10,"Education,Science,Technology",20/05/2024 14:48,20/05/2025 14:48,"Sav.com, LLC"
 breather.io,expired,62,80%,8,"Health and Fitness,Medicine,Science",16/05/2018 15:48,16/05/2025 15:48,Gandi SAS
 spermbank.us,expired,62,80%,10,"Healthcare,Medicine,Science",02/06/2004 19:47,01/06/2025 23:59,InternetX GmbH
@@ -444,6 +447,7 @@ bratwurst.it,expired,62,76%,9,"Food and Beverage,Hospitality,Retail",07/07/2022 
 impactful.pro,expired,62,84%,9,"Business,Media",16/05/2024 17:00,16/05/2025 17:00,"Sav.com, LLC - 47"
 airbox.me,expired,62,84%,7,"General,Retail,Technology",12/06/2024 02:58,12/06/2025 02:58,"Chengdu West Dimension Digital Technology Co., Ltd."
 turbocharge.cloud,expired,62,80%,11,"Automotive,Media,Technology",17/05/2024 09:35,17/05/2025 09:35,NAMECHEAP
+assuming.it,expired,62,8%,8,Religion,21/06/2010 19:36,26/07/2025 00:00,
 exporting.store,expired,61,76%,9,"Business,Finance,Technology",11/05/2024 16:42,11/05/2025 23:59,"Go Daddy, LLC"
 TeamGB.pro,expired,60,76%,7,Sports,03/05/2024 17:51,03/05/2025 17:51,"NameCheap, Inc."
 highcost.co,expired,60,68%,9,"Business,Finance,General",25/04/2021 04:03,25/04/2025 04:03,"GoDaddy.com, LLC"
@@ -492,7 +496,6 @@ cropped.store,expired,60,80%,7,"Arts,Fashion,Media",01/05/2024 08:27,01/05/2025 
 Blist.io,expired,60,72%,6,"Entertainment,Fashion,Media",03/05/2024 17:00,03/05/2025 17:00,CommuniGal Communication Ltd.
 fry.pro,expired,60,80%,3,"Food and Beverage,Healthcare,Retail",17/05/2024 13:14,17/05/2025 13:14,101domain GRS Limited
 drinkingwater.expert,expired,60,80%,14,General,20/05/2014 04:22,20/05/2025 04:22,"GoDaddy.com, LLC"
-awestruck.store,expired,60,84%,9,Humanities,09/05/2023 10:17,09/05/2025 23:59,Tucows.com Co.
 improver.store,expired,60,76%,8,"Business,Education,Technology",27/05/2024 11:02,27/05/2025 23:59,"Registrar of Domain Names REG.RU, LLC"
 watertaxi.io,expired,60,76%,10,"Hospitality,Transportation,Travel",01/05/2024 06:49,01/05/2025 06:49,"Sav.com, LLC"
 Pudsey.xyz,expired,60,76%,6,General,26/04/2024 02:12,26/04/2025 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
@@ -664,7 +667,6 @@ strongroom.xyz,expired,54,84%,10,"Banking,Real Estate",16/05/2024 10:31,16/05/20
 babyspace.io,expired,54,72%,10,General,09/05/2024 12:24,09/05/2025 12:24,"Sav.com, LLC"
 schoolday.online,expired,54,76%,10,Education,09/05/2024 05:29,09/05/2025 23:59,Squarespace Domains II LLC
 goldfever.us,expired,54,76%,10,"Entertainment,Media",05/07/2024 14:25,05/07/2025 14:25,CommuniGal Communication Ltd.
-fulgid.xyz,expired,54,12%,6,"Arts,Fashion",10/05/2024 16:22,10/05/2025 23:59,Namecheap
 northeast.cloud,expired,54,84%,9,"Environment,Geography,Travel",04/05/2024 12:08,04/05/2025 12:08,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD."
 dujour.store,expired,54,36%,7,General,29/04/2023 12:31,29/04/2025 23:59,"Go Daddy, LLC"
 dressclothes.net,expired,54,68%,13,"Fashion,General",03/05/2024 13:03,03/05/2025 13:03,ODTU Gelistirme Vakfi Bilgi Teknolojileri Sanayi Ve Ticaret Anonim Sirketi
@@ -713,7 +715,6 @@ minos.online,expired,52,80%,5,Humanities,15/05/2024 08:27,15/05/2025 23:59,Commu
 leigh.ai,expired,52,84%,5,"Arts,Geography",22/04/2023 15:42,22/04/2025 15:42,"GoDaddy.com, LLC"
 rhinoceroslike.it,expired,52,72%,14,"Environment,Science",,,
 lorelei.me,expired,52,88%,7,"Arts,Entertainment",05/05/2024 11:12,05/05/2025 11:12,Hosting Concepts B.V. d/b/a Registrar.eu
-sixtyfour.org,expired,52,24%,10,Mathematics,22/05/2023 15:15,22/05/2025 15:15,"Spaceship, Inc."
 stylograph.co,expired,52,72%,10,"Arts,Education,Technology",27/06/2017 19:29,26/06/2025 23:59,"GoDaddy.com, LLC"
 horace.dev,expired,52,84%,6,"Education,Media",09/05/2023 11:27,09/05/2025 11:27,Gandi SAS
 doolittle.cloud,expired,52,84%,9,"Arts,Entertainment,Media",11/05/2024 23:11,11/05/2025 23:11,NAMECHEAP
@@ -738,7 +739,7 @@ unhurried.it,expired,52,88%,9,"Health and Fitness,Travel",06/06/2024 11:27,06/06
 usps.io,expired,52,84%,4,Business,28/05/2020 21:45,28/05/2025 21:45,"Cloudflare, Inc"
 bracketing.so,expired,52,72%,10,"Construction,Engineering",,,
 quay.pro,expired,52,92%,4,"Real Estate,Transportation,Travel",12/05/2024 17:00,12/05/2025 17:00,"Sav.com, LLC - 33"
-adenoidal.it,expired,52,4%,9,"Health and Fitness,Medicine,Science",,,
+adenoidal.it,expired,52,8%,9,"Health and Fitness,Medicine,Science",,,
 backpage.site,expired,52,80%,9,"Media,Technology",26/04/2024 16:37,26/04/2025 23:59,"Go Daddy, LLC"
 devoting.it,expired,52,8%,8,General,,,
 Germanvice.it,expired,52,68%,11,"General,Politics",,,
@@ -756,8 +757,7 @@ fulldriven.so,expired,50,72%,11,General,,,
 hypes.app,expired,50,52%,5,Media,02/05/2024 13:57,02/05/2025 13:57,Namecheap Inc.
 USS.ai,expired,50,76%,3,General,13/04/2019 11:20,13/04/2025 11:20,"NameCheap, Inc."
 linguafranca.online,expired,50,80%,13,Humanities,27/04/2024 16:07,27/04/2025 23:59,"Go Daddy, LLC"
-formless.app,expired,50,40%,8,Science,14/05/2018 19:35,14/05/2025 19:35,Namecheap Inc.
-formless.store,expired,50,40%,8,Science,29/05/2020 17:37,29/05/2025 23:59,Namecheap
+formless.store,expired,50,32%,8,Science,29/05/2020 17:37,29/05/2025 23:59,Namecheap
 infor.site,expired,50,84%,6,Business,08/05/2024 01:21,08/05/2025 23:59,"Sav.com, LLC- 7"
 attn.site,expired,50,68%,4,General,03/05/2024 09:55,03/05/2025 23:59,"Registrar of Domain Names REG.RU, LLC"
 draco.it,expired,50,84%,5,"Arts,Entertainment,Media",09/09/1999 00:00,07/07/2025 00:00,
@@ -780,6 +780,7 @@ Whangaehu.so,expired,50,72%,9,General,,,
 polyprotic.net,expired,50,72%,10,Science,18/05/2024 12:33,18/05/2025 12:33,"GoDaddy.com, LLC"
 Putonghua.so,expired,48,76%,9,General,,,
 GreenThursday.co,expired,48,12%,14,Religion,19/06/2024 11:31,19/06/2025 11:31,Tucows Domains Inc.
+assumed.me,expired,48,12%,7,Arts,25/06/2024 16:47,25/06/2025 16:47,"NameCheap, Inc."
 dipinto.ai,expired,48,72%,8,"Business,Education,Science",22/05/2023 06:04,22/05/2025 06:04,"GoDaddy.com, LLC"
 cometopapa.net,expired,48,72%,12,General,30/04/2011 18:50,30/04/2025 18:50,"Name.com, Inc."
 Kingstree.us,expired,48,72%,9,General,08/05/2023 13:29,08/05/2025 13:29,"GoDaddy.com, LLC"
@@ -793,7 +794,6 @@ Goyder.it,expired,48,76%,6,General,,,
 almondblossom.online,expired,48,80%,14,Food and Beverage,11/05/2020 13:15,11/05/2025 23:59,Domeneshop AS
 beamish.cloud,expired,48,72%,7,Entertainment,10/05/2023 09:54,10/05/2025 09:54,NAMECHEAP
 misen.io,expired,48,32%,6,Food and Beverage,01/05/2024 09:51,01/05/2025 09:51,"Sav.com, LLC"
-associate.expert,expired,48,68%,9,Retail,14/05/2014 16:00,14/05/2025 16:00,Nom-iq Ltd. dba COM LAUDE
 hinges.xyz,expired,48,40%,6,"Construction,General",01/05/2021 19:45,01/05/2025 23:59,"Sav.com, LLC"
 FrenchRiviera.store,expired,48,80%,14,Geography,29/04/2024 20:41,29/04/2025 23:59,Tucows.com Co.
 inwardly.co,expired,48,80%,8,"Education,Media",08/06/2021 14:08,08/06/2025 14:08,"NameCheap, Inc."
