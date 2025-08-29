@@ -1,46 +1,46 @@
 
-# List of Available expired One Word Domain Names | 17,990
+# List of Available expired One Word Domain Names | 17,991
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() [![17,990 expired one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-17%2C990-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() [![17,991 expired one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-17%2C991-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential expired one-word domains still available to buy.
 
 This dataset contains an extract of 1,000 expired one word domains.
 
-If you need more, access the complete database of 17,990 **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.top)**.
+If you need more, access the complete database of 17,991 **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.top)**.
 
-| Domain                                                                                   | Status  | Attract. | Demand | Length | Created          | Expires          | Actions                                                                       |
-| ---------------------------------------------------------------------------------------- | ------- | -------- | ------ | ------ | ---------------- | ---------------- | ----------------------------------------------------------------------------- |
-| [a.buzz](https://unique.domains/domain/631dde33-d263-4c46-b29e-3ea19827b595)             | expired | 58       | 5%     | 5      | 15/08/2017 14:25 | 15/08/2025 14:25 | [Analyse](https://unique.domains/domain/631dde33-d263-4c46-b29e-3ea19827b595) |
-| [aardvark.online](https://unique.domains/domain/f0ab239a-c85b-4694-ba13-bf13a90611dd)    | expired | 64       | 92%    | 8      | 18/05/2024 08:40 | 18/05/2025 23:59 | [Analyse](https://unique.domains/domain/f0ab239a-c85b-4694-ba13-bf13a90611dd) |
-| [aardvark.tech](https://unique.domains/domain/40204a61-25f8-4142-bcd8-3f4797a8ec82)      | expired | 64       | 92%    | 8      | 05/06/2016 17:26 | 05/06/2025 23:59 | [Analyse](https://unique.domains/domain/40204a61-25f8-4142-bcd8-3f4797a8ec82) |
-| [aardwolf.ai](https://unique.domains/domain/dd81b0d2-dcec-4cf6-8d54-1dbf920cf6d1)        | expired | 54       | 84%    | 8      | 15/05/2023 22:52 | 15/05/2025 22:52 | [Analyse](https://unique.domains/domain/dd81b0d2-dcec-4cf6-8d54-1dbf920cf6d1) |
-| [aarp.it](https://unique.domains/domain/aabf5930-5926-4de6-b25f-1c10add51ab4)            | expired | 58       | 76%    | 4      | 14/06/2012 23:01 | 30/06/2025 00:00 | [Analyse](https://unique.domains/domain/aabf5930-5926-4de6-b25f-1c10add51ab4) |
-| [aback.cloud](https://unique.domains/domain/9e17000c-ffd2-4de7-8f25-dcf7e4219725)        | expired | 76       | 80%    | 5      | 05/05/2024 09:18 | 05/05/2025 09:18 | [Analyse](https://unique.domains/domain/9e17000c-ffd2-4de7-8f25-dcf7e4219725) |
-| [abacus.pro](https://unique.domains/domain/a7361a0a-dd70-4ea9-9ded-fd785c84b104)         | expired | 68       | 84%    | 6      | 19/05/2015 14:26 | 19/05/2025 14:26 | [Analyse](https://unique.domains/domain/a7361a0a-dd70-4ea9-9ded-fd785c84b104) |
-| [abandoned.world](https://unique.domains/domain/013b2317-debc-4b8a-b316-5b2ee13aa496)    | expired | 58       | 10%    | 9      | 07/07/2015 00:51 | 07/07/2025 00:51 | [Analyse](https://unique.domains/domain/013b2317-debc-4b8a-b316-5b2ee13aa496) |
-| [abate.it](https://unique.domains/domain/240ce85c-6c20-4749-9309-2b6ff78231dd)           | expired | 52       | 84%    | 5      | 04/10/1999 00:00 | 07/07/2025 00:00 | [Analyse](https://unique.domains/domain/240ce85c-6c20-4749-9309-2b6ff78231dd) |
-| [abatement.it](https://unique.domains/domain/26b89e8b-ac95-409f-bea8-efe12ea8134c)       | expired | 52       | 80%    | 9      |                  |                  | [Analyse](https://unique.domains/domain/26b89e8b-ac95-409f-bea8-efe12ea8134c) |
-| [abaya.cloud](https://unique.domains/domain/ba60f428-49ab-49c9-b0ca-008a42b2cd8e)        | expired | 50       | 88%    | 5      | 24/05/2024 05:16 | 24/05/2025 05:16 | [Analyse](https://unique.domains/domain/ba60f428-49ab-49c9-b0ca-008a42b2cd8e) |
-| [abaya.so](https://unique.domains/domain/0b57a795-585c-4db3-80ee-a74bc6d39304)           | expired | 50       | 88%    | 5      | 08/08/2015 00:00 | 08/08/2019 00:00 | [Analyse](https://unique.domains/domain/0b57a795-585c-4db3-80ee-a74bc6d39304) |
-| [abaya.tech](https://unique.domains/domain/30728235-dd1b-4e3e-b76d-529f706d0670)         | expired | 50       | 88%    | 5      | 01/06/2024 00:45 | 01/06/2025 23:59 | [Analyse](https://unique.domains/domain/30728235-dd1b-4e3e-b76d-529f706d0670) |
-| [abaya.zone](https://unique.domains/domain/f1670e3f-9e70-423f-9b9e-9a8e5b1aeb41)         | expired | 50       | 88%    | 5      | 23/05/2024 08:17 | 23/05/2025 08:17 | [Analyse](https://unique.domains/domain/f1670e3f-9e70-423f-9b9e-9a8e5b1aeb41) |
-| [Abbott.ai](https://unique.domains/domain/4fc1e32a-ac8e-44d6-a4d8-2a0a1e922f3d)          | expired | 52       | 96%    | 6      | 16/12/2017 01:08 | 29/04/2025 01:08 | [Analyse](https://unique.domains/domain/4fc1e32a-ac8e-44d6-a4d8-2a0a1e922f3d) |
-| [abc.it](https://unique.domains/domain/5b8a39af-b776-4623-aa7e-ebb664873346)             | expired | 102      | 92%    | 3      | 29/01/1996 00:00 | 02/07/2025 00:00 | [Analyse](https://unique.domains/domain/5b8a39af-b776-4623-aa7e-ebb664873346) |
-| [ABCguide.net](https://unique.domains/domain/57477680-8b7c-4587-848e-dda1daf35e03)       | expired | 48       | 72%    | 9      | 15/05/2003 14:54 | 15/05/2025 14:54 | [Analyse](https://unique.domains/domain/57477680-8b7c-4587-848e-dda1daf35e03) |
-| [Abdulaziz.app](https://unique.domains/domain/dbd94bda-f597-41de-9dab-30b625f124da)      | expired | 50       | 88%    | 9      | 15/05/2024 19:01 | 15/05/2025 19:01 | [Analyse](https://unique.domains/domain/dbd94bda-f597-41de-9dab-30b625f124da) |
-| [Abdulaziz.pro](https://unique.domains/domain/acd1cd3d-be62-45cb-825c-0bb76e94a93c)      | expired | 50       | 88%    | 9      | 28/04/2024 14:12 | 28/04/2025 14:12 | [Analyse](https://unique.domains/domain/acd1cd3d-be62-45cb-825c-0bb76e94a93c) |
-| [Abe.app](https://unique.domains/domain/e80e0301-929f-4b3e-95bc-b4b602c2b196)            | expired | 62       | 92%    | 3      | 08/05/2018 06:34 | 08/05/2025 06:34 | [Analyse](https://unique.domains/domain/e80e0301-929f-4b3e-95bc-b4b602c2b196) |
-| [abed.it](https://unique.domains/domain/e9066644-15c9-47ab-b54a-d04dea543b05)            | expired | 60       | 80%    | 4      | 13/06/2022 16:24 | 13/06/2025 00:00 | [Analyse](https://unique.domains/domain/e9066644-15c9-47ab-b54a-d04dea543b05) |
-| [abel.zone](https://unique.domains/domain/9bc22b1f-f9b7-4852-9e10-5d8ad0fde518)          | expired | 50       | 92%    | 4      | 11/06/2024 10:54 | 11/06/2025 10:54 | [Analyse](https://unique.domains/domain/9bc22b1f-f9b7-4852-9e10-5d8ad0fde518) |
-| [Abell.it](https://unique.domains/domain/27c9fce4-9151-493c-a487-aa70dfe8a912)           | expired | 50       | 88%    | 5      | 02/07/2024 11:33 | 02/07/2025 00:00 | [Analyse](https://unique.domains/domain/27c9fce4-9151-493c-a487-aa70dfe8a912) |
-| [Aberystwyth.online](https://unique.domains/domain/e61feed1-fc05-49fd-a9a5-6616ecc438a3) | expired | 46       | 80%    | 11     | 30/04/2016 12:02 | 30/04/2025 23:59 | [Analyse](https://unique.domains/domain/e61feed1-fc05-49fd-a9a5-6616ecc438a3) |
-| [abides.xyz](https://unique.domains/domain/10b349a4-ad58-49bb-b9f2-91fb575f49cb)         | expired | 70       | 20%    | 6      | 16/05/2023 17:12 | 16/05/2025 23:59 | [Analyse](https://unique.domains/domain/10b349a4-ad58-49bb-b9f2-91fb575f49cb) |
-| [abigail.app](https://unique.domains/domain/6427d30d-cac0-45a6-bbce-e657fb871651)        | expired | 54       | 76%    | 7      | 11/05/2018 00:35 | 11/05/2025 00:35 | [Analyse](https://unique.domains/domain/6427d30d-cac0-45a6-bbce-e657fb871651) |
-| [abilities.net](https://unique.domains/domain/79bf8fbe-2f8a-41af-bc90-93fa891ad111)      | expired | 70       | 48%    | 9      | 05/07/2004 18:38 | 05/07/2025 18:38 | [Analyse](https://unique.domains/domain/79bf8fbe-2f8a-41af-bc90-93fa891ad111) |
-| [abirritating.com](https://unique.domains/domain/087a16e2-d63f-47d8-b5e0-75c9fb57f47e)   | expired | 46       | 4%     | 12     | 26/04/2024 12:43 | 26/04/2025 12:43 | [Analyse](https://unique.domains/domain/087a16e2-d63f-47d8-b5e0-75c9fb57f47e) |
-| [abit.it](https://unique.domains/domain/92e35fc0-af5a-4afe-9216-20a67c686afb)            | expired | 66       | 80%    | 5      | 16/06/2020 09:00 | 02/07/2025 00:00 | [Analyse](https://unique.domains/domain/92e35fc0-af5a-4afe-9216-20a67c686afb) |
-| [abit.store](https://unique.domains/domain/bfe7caa8-9419-47e9-8ab3-4f4ed3ecf131)         | expired | 66       | 80%    | 5      | 13/05/2024 01:40 | 13/05/2025 23:59 | [Analyse](https://unique.domains/domain/bfe7caa8-9419-47e9-8ab3-4f4ed3ecf131) |
+| Domain                                                                                                                                                                                           | Status  | Attract. | Demand | Length | Created          | Expires          | Actions                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [a.buzz](https://unique.domains/domain/631dde33-d263-4c46-b29e-3ea19827b595?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)             | expired | 58       | 5%     | 5      | 15/08/2017 14:25 | 15/08/2025 14:25 | [Analyse](https://unique.domains/domain/631dde33-d263-4c46-b29e-3ea19827b595?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [aardvark.online](https://unique.domains/domain/f0ab239a-c85b-4694-ba13-bf13a90611dd?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)    | expired | 64       | 92%    | 8      | 18/05/2024 08:40 | 18/05/2025 23:59 | [Analyse](https://unique.domains/domain/f0ab239a-c85b-4694-ba13-bf13a90611dd?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [aardvark.tech](https://unique.domains/domain/40204a61-25f8-4142-bcd8-3f4797a8ec82?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)      | expired | 64       | 92%    | 8      | 05/06/2016 17:26 | 05/06/2025 23:59 | [Analyse](https://unique.domains/domain/40204a61-25f8-4142-bcd8-3f4797a8ec82?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [aardwolf.ai](https://unique.domains/domain/dd81b0d2-dcec-4cf6-8d54-1dbf920cf6d1?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)        | expired | 54       | 84%    | 8      | 15/05/2023 22:52 | 15/05/2025 22:52 | [Analyse](https://unique.domains/domain/dd81b0d2-dcec-4cf6-8d54-1dbf920cf6d1?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [aarp.it](https://unique.domains/domain/aabf5930-5926-4de6-b25f-1c10add51ab4?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)            | expired | 58       | 76%    | 4      | 14/06/2012 23:01 | 30/06/2025 00:00 | [Analyse](https://unique.domains/domain/aabf5930-5926-4de6-b25f-1c10add51ab4?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [aback.cloud](https://unique.domains/domain/9e17000c-ffd2-4de7-8f25-dcf7e4219725?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)        | expired | 76       | 80%    | 5      | 05/05/2024 09:18 | 05/05/2025 09:18 | [Analyse](https://unique.domains/domain/9e17000c-ffd2-4de7-8f25-dcf7e4219725?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abacus.pro](https://unique.domains/domain/a7361a0a-dd70-4ea9-9ded-fd785c84b104?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)         | expired | 68       | 84%    | 6      | 19/05/2015 14:26 | 19/05/2025 14:26 | [Analyse](https://unique.domains/domain/a7361a0a-dd70-4ea9-9ded-fd785c84b104?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abandoned.world](https://unique.domains/domain/013b2317-debc-4b8a-b316-5b2ee13aa496?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)    | expired | 58       | 10%    | 9      | 07/07/2015 00:51 | 07/07/2025 00:51 | [Analyse](https://unique.domains/domain/013b2317-debc-4b8a-b316-5b2ee13aa496?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abate.it](https://unique.domains/domain/240ce85c-6c20-4749-9309-2b6ff78231dd?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)           | expired | 52       | 84%    | 5      | 04/10/1999 00:00 | 07/07/2025 00:00 | [Analyse](https://unique.domains/domain/240ce85c-6c20-4749-9309-2b6ff78231dd?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abatement.it](https://unique.domains/domain/26b89e8b-ac95-409f-bea8-efe12ea8134c?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)       | expired | 52       | 80%    | 9      |                  |                  | [Analyse](https://unique.domains/domain/26b89e8b-ac95-409f-bea8-efe12ea8134c?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abaya.cloud](https://unique.domains/domain/ba60f428-49ab-49c9-b0ca-008a42b2cd8e?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)        | expired | 50       | 88%    | 5      | 24/05/2024 05:16 | 24/05/2025 05:16 | [Analyse](https://unique.domains/domain/ba60f428-49ab-49c9-b0ca-008a42b2cd8e?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abaya.so](https://unique.domains/domain/0b57a795-585c-4db3-80ee-a74bc6d39304?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)           | expired | 50       | 88%    | 5      | 08/08/2015 00:00 | 08/08/2019 00:00 | [Analyse](https://unique.domains/domain/0b57a795-585c-4db3-80ee-a74bc6d39304?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abaya.tech](https://unique.domains/domain/30728235-dd1b-4e3e-b76d-529f706d0670?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)         | expired | 50       | 88%    | 5      | 01/06/2024 00:45 | 01/06/2025 23:59 | [Analyse](https://unique.domains/domain/30728235-dd1b-4e3e-b76d-529f706d0670?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abaya.zone](https://unique.domains/domain/f1670e3f-9e70-423f-9b9e-9a8e5b1aeb41?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)         | expired | 50       | 88%    | 5      | 23/05/2024 08:17 | 23/05/2025 08:17 | [Analyse](https://unique.domains/domain/f1670e3f-9e70-423f-9b9e-9a8e5b1aeb41?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [Abbott.ai](https://unique.domains/domain/4fc1e32a-ac8e-44d6-a4d8-2a0a1e922f3d?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)          | expired | 52       | 96%    | 6      | 16/12/2017 01:08 | 29/04/2025 01:08 | [Analyse](https://unique.domains/domain/4fc1e32a-ac8e-44d6-a4d8-2a0a1e922f3d?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abc.it](https://unique.domains/domain/5b8a39af-b776-4623-aa7e-ebb664873346?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)             | expired | 102      | 92%    | 3      | 29/01/1996 00:00 | 02/07/2025 00:00 | [Analyse](https://unique.domains/domain/5b8a39af-b776-4623-aa7e-ebb664873346?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [ABCguide.net](https://unique.domains/domain/57477680-8b7c-4587-848e-dda1daf35e03?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)       | expired | 48       | 72%    | 9      | 15/05/2003 14:54 | 15/05/2025 14:54 | [Analyse](https://unique.domains/domain/57477680-8b7c-4587-848e-dda1daf35e03?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [Abdulaziz.app](https://unique.domains/domain/dbd94bda-f597-41de-9dab-30b625f124da?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)      | expired | 50       | 88%    | 9      | 15/05/2024 19:01 | 15/05/2025 19:01 | [Analyse](https://unique.domains/domain/dbd94bda-f597-41de-9dab-30b625f124da?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [Abdulaziz.pro](https://unique.domains/domain/acd1cd3d-be62-45cb-825c-0bb76e94a93c?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)      | expired | 50       | 88%    | 9      | 28/04/2024 14:12 | 28/04/2025 14:12 | [Analyse](https://unique.domains/domain/acd1cd3d-be62-45cb-825c-0bb76e94a93c?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [Abe.app](https://unique.domains/domain/e80e0301-929f-4b3e-95bc-b4b602c2b196?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)            | expired | 62       | 92%    | 3      | 08/05/2018 06:34 | 08/05/2025 06:34 | [Analyse](https://unique.domains/domain/e80e0301-929f-4b3e-95bc-b4b602c2b196?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abed.it](https://unique.domains/domain/e9066644-15c9-47ab-b54a-d04dea543b05?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)            | expired | 60       | 80%    | 4      | 13/06/2022 16:24 | 13/06/2025 00:00 | [Analyse](https://unique.domains/domain/e9066644-15c9-47ab-b54a-d04dea543b05?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abel.zone](https://unique.domains/domain/9bc22b1f-f9b7-4852-9e10-5d8ad0fde518?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)          | expired | 50       | 92%    | 4      | 11/06/2024 10:54 | 11/06/2025 10:54 | [Analyse](https://unique.domains/domain/9bc22b1f-f9b7-4852-9e10-5d8ad0fde518?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [Abell.it](https://unique.domains/domain/27c9fce4-9151-493c-a487-aa70dfe8a912?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)           | expired | 50       | 88%    | 5      | 02/07/2024 11:33 | 02/07/2025 00:00 | [Analyse](https://unique.domains/domain/27c9fce4-9151-493c-a487-aa70dfe8a912?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [Aberystwyth.online](https://unique.domains/domain/e61feed1-fc05-49fd-a9a5-6616ecc438a3?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name) | expired | 46       | 80%    | 11     | 30/04/2016 12:02 | 30/04/2025 23:59 | [Analyse](https://unique.domains/domain/e61feed1-fc05-49fd-a9a5-6616ecc438a3?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abides.xyz](https://unique.domains/domain/10b349a4-ad58-49bb-b9f2-91fb575f49cb?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)         | expired | 70       | 20%    | 6      | 16/05/2023 17:12 | 16/05/2025 23:59 | [Analyse](https://unique.domains/domain/10b349a4-ad58-49bb-b9f2-91fb575f49cb?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abigail.app](https://unique.domains/domain/6427d30d-cac0-45a6-bbce-e657fb871651?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)        | expired | 54       | 76%    | 7      | 11/05/2018 00:35 | 11/05/2025 00:35 | [Analyse](https://unique.domains/domain/6427d30d-cac0-45a6-bbce-e657fb871651?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abilities.net](https://unique.domains/domain/79bf8fbe-2f8a-41af-bc90-93fa891ad111?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)      | expired | 70       | 48%    | 9      | 05/07/2004 18:38 | 05/07/2025 18:38 | [Analyse](https://unique.domains/domain/79bf8fbe-2f8a-41af-bc90-93fa891ad111?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abirritating.com](https://unique.domains/domain/087a16e2-d63f-47d8-b5e0-75c9fb57f47e?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)   | expired | 46       | 4%     | 12     | 26/04/2024 12:43 | 26/04/2025 12:43 | [Analyse](https://unique.domains/domain/087a16e2-d63f-47d8-b5e0-75c9fb57f47e?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abit.it](https://unique.domains/domain/92e35fc0-af5a-4afe-9216-20a67c686afb?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)            | expired | 66       | 80%    | 5      | 16/06/2020 09:00 | 02/07/2025 00:00 | [Analyse](https://unique.domains/domain/92e35fc0-af5a-4afe-9216-20a67c686afb?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
+| [abit.store](https://unique.domains/domain/bfe7caa8-9419-47e9-8ab3-4f4ed3ecf131?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.name)         | expired | 66       | 80%    | 5      | 13/05/2024 01:40 | 13/05/2025 23:59 | [Analyse](https://unique.domains/domain/bfe7caa8-9419-47e9-8ab3-4f4ed3ecf131?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.domain.analyze) |
 
 # Which data do we provide?
 
@@ -68,556 +68,562 @@ Spot short, memorable domain names that earn trust, dominate search engines, and
 
 ## General
 
-- [expired One word domains](https://github.com/UniqueDomains/expired-oneword-domains): 17,990 domains
-- [expiring One word domains](https://github.com/UniqueDomains/expiring-oneword-domains): 42,224 domains
-- [All One word domains](https://github.com/UniqueDomains/oneword-domains): 2,654,086 domains
+| Name     | Total Number | Extract                                                              | Full Database                                                                                                                        |
+| -------- | ------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| expired  | 17,991       | [Extract](https://github.com/UniqueDomains/expired-oneword-domains)  | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| expiring | 42,224       | [Extract](https://github.com/UniqueDomains/expiring-oneword-domains) | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,654,086    | [Extract](https://github.com/UniqueDomains/oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
-- [.AC One word domains](https://github.com/UniqueDomains/ac-oneword-domains): 2,652 domains
-- [.ACADEMY One word domains](https://github.com/UniqueDomains/academy-oneword-domains): 2,422 domains
-- [.ACCOUNTANT One word domains](https://github.com/UniqueDomains/accountant-oneword-domains): 2,718 domains
-- [.ACCOUNTANTS One word domains](https://github.com/UniqueDomains/accountants-oneword-domains): 2,693 domains
-- [.ACTOR One word domains](https://github.com/UniqueDomains/actor-oneword-domains): 2,688 domains
-- [.ADULT One word domains](https://github.com/UniqueDomains/adult-oneword-domains): 2,700 domains
-- [.AG One word domains](https://github.com/UniqueDomains/ag-oneword-domains): 2,657 domains
-- [.AGENCY One word domains](https://github.com/UniqueDomains/agency-oneword-domains): 2,169 domains
-- [.AI One word domains](https://github.com/UniqueDomains/ai-oneword-domains): 53,500 domains
-- [.AIRFORCE One word domains](https://github.com/UniqueDomains/airforce-oneword-domains): 2,719 domains
-- [.APARTMENTS One word domains](https://github.com/UniqueDomains/apartments-oneword-domains): 2,681 domains
-- [.APP One word domains](https://github.com/UniqueDomains/app-oneword-domains): 1,433 domains
-- [.ARCHI One word domains](https://github.com/UniqueDomains/archi-oneword-domains): 1 domains
-- [.ARMY One word domains](https://github.com/UniqueDomains/army-oneword-domains): 1 domains
-- [.ART One word domains](https://github.com/UniqueDomains/art-oneword-domains): 1 domains
-- [.ASIA One word domains](https://github.com/UniqueDomains/asia-oneword-domains): 0 domains
-- [.ASSOCIATES One word domains](https://github.com/UniqueDomains/associates-oneword-domains): 0 domains
-- [.AT One word domains](https://github.com/UniqueDomains/at-oneword-domains): 3,552 domains
-- [.ATTORNEY One word domains](https://github.com/UniqueDomains/attorney-oneword-domains): 1 domains
-- [.AUCTION One word domains](https://github.com/UniqueDomains/auction-oneword-domains): 0 domains
-- [.AUDIO One word domains](https://github.com/UniqueDomains/audio-oneword-domains): 0 domains
-- [.AUTO One word domains](https://github.com/UniqueDomains/auto-oneword-domains): 1 domains
-- [.AUTOS One word domains](https://github.com/UniqueDomains/autos-oneword-domains): 0 domains
-- [.BABY One word domains](https://github.com/UniqueDomains/baby-oneword-domains): 1 domains
-- [.BAND One word domains](https://github.com/UniqueDomains/band-oneword-domains): 1 domains
-- [.BAR One word domains](https://github.com/UniqueDomains/bar-oneword-domains): 0 domains
-- [.BARGAINS One word domains](https://github.com/UniqueDomains/bargains-oneword-domains): 1 domains
-- [.BAYERN One word domains](https://github.com/UniqueDomains/bayern-oneword-domains): 1 domains
-- [.BEAUTY One word domains](https://github.com/UniqueDomains/beauty-oneword-domains): 1 domains
-- [.BEER One word domains](https://github.com/UniqueDomains/beer-oneword-domains): 0 domains
-- [.BERLIN One word domains](https://github.com/UniqueDomains/berlin-oneword-domains): 1 domains
-- [.BEST One word domains](https://github.com/UniqueDomains/best-oneword-domains): 0 domains
-- [.BET One word domains](https://github.com/UniqueDomains/bet-oneword-domains): 0 domains
-- [.BID One word domains](https://github.com/UniqueDomains/bid-oneword-domains): 1 domains
-- [.BIKE One word domains](https://github.com/UniqueDomains/bike-oneword-domains): 0 domains
-- [.BINGO One word domains](https://github.com/UniqueDomains/bingo-oneword-domains): 1 domains
-- [.BIO One word domains](https://github.com/UniqueDomains/bio-oneword-domains): 0 domains
-- [.BIZ One word domains](https://github.com/UniqueDomains/biz-oneword-domains): 0 domains
-- [.BLACK One word domains](https://github.com/UniqueDomains/black-oneword-domains): 1 domains
-- [.BLACKFRIDAY One word domains](https://github.com/UniqueDomains/blackfriday-oneword-domains): 1 domains
-- [.BLOG One word domains](https://github.com/UniqueDomains/blog-oneword-domains): 1 domains
-- [.BLUE One word domains](https://github.com/UniqueDomains/blue-oneword-domains): 1 domains
-- [.BOATS One word domains](https://github.com/UniqueDomains/boats-oneword-domains): 0 domains
-- [.BOND One word domains](https://github.com/UniqueDomains/bond-oneword-domains): 0 domains
-- [.BOO One word domains](https://github.com/UniqueDomains/boo-oneword-domains): 1 domains
-- [.BOSTON One word domains](https://github.com/UniqueDomains/boston-oneword-domains): 1 domains
-- [.BOUTIQUE One word domains](https://github.com/UniqueDomains/boutique-oneword-domains): 1 domains
-- [.BR.COM One word domains](https://github.com/UniqueDomains/br.com-oneword-domains): 0 domains
-- [.BUILD One word domains](https://github.com/UniqueDomains/build-oneword-domains): 0 domains
-- [.BUILDERS One word domains](https://github.com/UniqueDomains/builders-oneword-domains): 0 domains
-- [.BUSINESS One word domains](https://github.com/UniqueDomains/business-oneword-domains): 0 domains
-- [.BUZZ One word domains](https://github.com/UniqueDomains/buzz-oneword-domains): 1 domains
-- [.BZ One word domains](https://github.com/UniqueDomains/bz-oneword-domains): 5 domains
-- [.CA One word domains](https://github.com/UniqueDomains/ca-oneword-domains): 0 domains
-- [.CAB One word domains](https://github.com/UniqueDomains/cab-oneword-domains): 0 domains
-- [.CAFE One word domains](https://github.com/UniqueDomains/cafe-oneword-domains): 0 domains
-- [.CAM One word domains](https://github.com/UniqueDomains/cam-oneword-domains): 1 domains
-- [.CAMERA One word domains](https://github.com/UniqueDomains/camera-oneword-domains): 0 domains
-- [.CAMP One word domains](https://github.com/UniqueDomains/camp-oneword-domains): 0 domains
-- [.CAPITAL One word domains](https://github.com/UniqueDomains/capital-oneword-domains): 0 domains
-- [.CAR One word domains](https://github.com/UniqueDomains/car-oneword-domains): 1 domains
-- [.CARDS One word domains](https://github.com/UniqueDomains/cards-oneword-domains): 0 domains
-- [.CARE One word domains](https://github.com/UniqueDomains/care-oneword-domains): 0 domains
-- [.CAREERS One word domains](https://github.com/UniqueDomains/careers-oneword-domains): 1 domains
-- [.CARS One word domains](https://github.com/UniqueDomains/cars-oneword-domains): 1 domains
-- [.CASA One word domains](https://github.com/UniqueDomains/casa-oneword-domains): 0 domains
-- [.CASH One word domains](https://github.com/UniqueDomains/cash-oneword-domains): 0 domains
-- [.CASINO One word domains](https://github.com/UniqueDomains/casino-oneword-domains): 1 domains
-- [.CATERING One word domains](https://github.com/UniqueDomains/catering-oneword-domains): 0 domains
-- [.CC One word domains](https://github.com/UniqueDomains/cc-oneword-domains): 0 domains
-- [.CENTER One word domains](https://github.com/UniqueDomains/center-oneword-domains): 0 domains
-- [.CEO One word domains](https://github.com/UniqueDomains/ceo-oneword-domains): 1 domains
-- [.CFD One word domains](https://github.com/UniqueDomains/cfd-oneword-domains): 0 domains
-- [.CHARITY One word domains](https://github.com/UniqueDomains/charity-oneword-domains): 0 domains
-- [.CHAT One word domains](https://github.com/UniqueDomains/chat-oneword-domains): 0 domains
-- [.CHEAP One word domains](https://github.com/UniqueDomains/cheap-oneword-domains): 1 domains
-- [.CHRISTMAS One word domains](https://github.com/UniqueDomains/christmas-oneword-domains): 0 domains
-- [.CHURCH One word domains](https://github.com/UniqueDomains/church-oneword-domains): 0 domains
-- [.CITY One word domains](https://github.com/UniqueDomains/city-oneword-domains): 0 domains
-- [.CLAIMS One word domains](https://github.com/UniqueDomains/claims-oneword-domains): 0 domains
-- [.CLEANING One word domains](https://github.com/UniqueDomains/cleaning-oneword-domains): 1 domains
-- [.CLICK One word domains](https://github.com/UniqueDomains/click-oneword-domains): 0 domains
-- [.CLINIC One word domains](https://github.com/UniqueDomains/clinic-oneword-domains): 0 domains
-- [.CLOTHING One word domains](https://github.com/UniqueDomains/clothing-oneword-domains): 1 domains
-- [.CLOUD One word domains](https://github.com/UniqueDomains/cloud-oneword-domains): 2,958 domains
-- [.CLUB One word domains](https://github.com/UniqueDomains/club-oneword-domains): 1 domains
-- [.CN.COM One word domains](https://github.com/UniqueDomains/cn.com-oneword-domains): 0 domains
-- [.CO.COM One word domains](https://github.com/UniqueDomains/co.com-oneword-domains): 0 domains
-- [.CO.UK One word domains](https://github.com/UniqueDomains/co.uk-oneword-domains): 0 domains
-- [.CO One word domains](https://github.com/UniqueDomains/co-oneword-domains): 1,428 domains
-- [.COACH One word domains](https://github.com/UniqueDomains/coach-oneword-domains): 0 domains
-- [.CODES One word domains](https://github.com/UniqueDomains/codes-oneword-domains): 0 domains
-- [.COFFEE One word domains](https://github.com/UniqueDomains/coffee-oneword-domains): 0 domains
-- [.COLLEGE One word domains](https://github.com/UniqueDomains/college-oneword-domains): 1 domains
-- [.COM.CO One word domains](https://github.com/UniqueDomains/com.co-oneword-domains): 0 domains
-- [.COM.MX One word domains](https://github.com/UniqueDomains/com.mx-oneword-domains): 0 domains
-- [.COM One word domains](https://github.com/UniqueDomains/com-oneword-domains): 526 domains
-- [.COMMUNITY One word domains](https://github.com/UniqueDomains/community-oneword-domains): 0 domains
-- [.COMPANY One word domains](https://github.com/UniqueDomains/company-oneword-domains): 0 domains
-- [.COMPUTER One word domains](https://github.com/UniqueDomains/computer-oneword-domains): 0 domains
-- [.CONDOS One word domains](https://github.com/UniqueDomains/condos-oneword-domains): 1 domains
-- [.CONSTRUCTION One word domains](https://github.com/UniqueDomains/construction-oneword-domains): 0 domains
-- [.CONSULTING One word domains](https://github.com/UniqueDomains/consulting-oneword-domains): 1 domains
-- [.CONTACT One word domains](https://github.com/UniqueDomains/contact-oneword-domains): 1 domains
-- [.CONTRACTORS One word domains](https://github.com/UniqueDomains/contractors-oneword-domains): 0 domains
-- [.COOKING One word domains](https://github.com/UniqueDomains/cooking-oneword-domains): 1 domains
-- [.COOL One word domains](https://github.com/UniqueDomains/cool-oneword-domains): 0 domains
-- [.COUNTRY One word domains](https://github.com/UniqueDomains/country-oneword-domains): 1 domains
-- [.COUPONS One word domains](https://github.com/UniqueDomains/coupons-oneword-domains): 0 domains
-- [.COURSES One word domains](https://github.com/UniqueDomains/courses-oneword-domains): 0 domains
-- [.CREDIT One word domains](https://github.com/UniqueDomains/credit-oneword-domains): 0 domains
-- [.CREDITCARD One word domains](https://github.com/UniqueDomains/creditcard-oneword-domains): 0 domains
-- [.CRICKET One word domains](https://github.com/UniqueDomains/cricket-oneword-domains): 1 domains
-- [.CRUISES One word domains](https://github.com/UniqueDomains/cruises-oneword-domains): 0 domains
-- [.CV One word domains](https://github.com/UniqueDomains/cv-oneword-domains): 0 domains
-- [.CX One word domains](https://github.com/UniqueDomains/cx-oneword-domains): 0 domains
-- [.CYOU One word domains](https://github.com/UniqueDomains/cyou-oneword-domains): 0 domains
-- [.DAD One word domains](https://github.com/UniqueDomains/dad-oneword-domains): 1 domains
-- [.DANCE One word domains](https://github.com/UniqueDomains/dance-oneword-domains): 1 domains
-- [.DATE One word domains](https://github.com/UniqueDomains/date-oneword-domains): 1 domains
-- [.DATING One word domains](https://github.com/UniqueDomains/dating-oneword-domains): 1 domains
-- [.DAY One word domains](https://github.com/UniqueDomains/day-oneword-domains): 0 domains
-- [.DE.COM One word domains](https://github.com/UniqueDomains/de.com-oneword-domains): 0 domains
-- [.DE One word domains](https://github.com/UniqueDomains/de-oneword-domains): 2 domains
-- [.DEALER One word domains](https://github.com/UniqueDomains/dealer-oneword-domains): 1 domains
-- [.DEALS One word domains](https://github.com/UniqueDomains/deals-oneword-domains): 0 domains
-- [.DEGREE One word domains](https://github.com/UniqueDomains/degree-oneword-domains): 1 domains
-- [.DELIVERY One word domains](https://github.com/UniqueDomains/delivery-oneword-domains): 1 domains
-- [.DEMOCRAT One word domains](https://github.com/UniqueDomains/democrat-oneword-domains): 0 domains
-- [.DENTAL One word domains](https://github.com/UniqueDomains/dental-oneword-domains): 1 domains
-- [.DENTIST One word domains](https://github.com/UniqueDomains/dentist-oneword-domains): 1 domains
-- [.DESIGN One word domains](https://github.com/UniqueDomains/design-oneword-domains): 0 domains
-- [.DEV One word domains](https://github.com/UniqueDomains/dev-oneword-domains): 2,127 domains
-- [.DIAMONDS One word domains](https://github.com/UniqueDomains/diamonds-oneword-domains): 0 domains
-- [.DIET One word domains](https://github.com/UniqueDomains/diet-oneword-domains): 0 domains
-- [.DIGITAL One word domains](https://github.com/UniqueDomains/digital-oneword-domains): 1 domains
-- [.DIRECT One word domains](https://github.com/UniqueDomains/direct-oneword-domains): 0 domains
-- [.DIRECTORY One word domains](https://github.com/UniqueDomains/directory-oneword-domains): 0 domains
-- [.DISCOUNT One word domains](https://github.com/UniqueDomains/discount-oneword-domains): 0 domains
-- [.DIY One word domains](https://github.com/UniqueDomains/diy-oneword-domains): 1 domains
-- [.DOCTOR One word domains](https://github.com/UniqueDomains/doctor-oneword-domains): 1 domains
-- [.DOG One word domains](https://github.com/UniqueDomains/dog-oneword-domains): 0 domains
-- [.DOMAINS One word domains](https://github.com/UniqueDomains/domains-oneword-domains): 0 domains
-- [.DOWNLOAD One word domains](https://github.com/UniqueDomains/download-oneword-domains): 1 domains
-- [.EARTH One word domains](https://github.com/UniqueDomains/earth-oneword-domains): 0 domains
-- [.EDUCATION One word domains](https://github.com/UniqueDomains/education-oneword-domains): 1 domains
-- [.EMAIL One word domains](https://github.com/UniqueDomains/email-oneword-domains): 0 domains
-- [.ENERGY One word domains](https://github.com/UniqueDomains/energy-oneword-domains): 1 domains
-- [.ENGINEER One word domains](https://github.com/UniqueDomains/engineer-oneword-domains): 1 domains
-- [.ENGINEERING One word domains](https://github.com/UniqueDomains/engineering-oneword-domains): 1 domains
-- [.ENTERPRISES One word domains](https://github.com/UniqueDomains/enterprises-oneword-domains): 0 domains
-- [.EQUIPMENT One word domains](https://github.com/UniqueDomains/equipment-oneword-domains): 0 domains
-- [.ESQ One word domains](https://github.com/UniqueDomains/esq-oneword-domains): 1 domains
-- [.ESTATE One word domains](https://github.com/UniqueDomains/estate-oneword-domains): 0 domains
-- [.EU.COM One word domains](https://github.com/UniqueDomains/eu.com-oneword-domains): 0 domains
-- [.EU One word domains](https://github.com/UniqueDomains/eu-oneword-domains): 1 domains
-- [.EVENTS One word domains](https://github.com/UniqueDomains/events-oneword-domains): 1 domains
-- [.EXCHANGE One word domains](https://github.com/UniqueDomains/exchange-oneword-domains): 0 domains
-- [.EXPERT One word domains](https://github.com/UniqueDomains/expert-oneword-domains): 4,270 domains
-- [.EXPOSED One word domains](https://github.com/UniqueDomains/exposed-oneword-domains): 1 domains
-- [.EXPRESS One word domains](https://github.com/UniqueDomains/express-oneword-domains): 0 domains
-- [.FAIL One word domains](https://github.com/UniqueDomains/fail-oneword-domains): 0 domains
-- [.FAITH One word domains](https://github.com/UniqueDomains/faith-oneword-domains): 1 domains
-- [.FAMILY One word domains](https://github.com/UniqueDomains/family-oneword-domains): 1 domains
-- [.FAN One word domains](https://github.com/UniqueDomains/fan-oneword-domains): 1 domains
-- [.FANS One word domains](https://github.com/UniqueDomains/fans-oneword-domains): 1 domains
-- [.FARM One word domains](https://github.com/UniqueDomains/farm-oneword-domains): 0 domains
-- [.FASHION One word domains](https://github.com/UniqueDomains/fashion-oneword-domains): 0 domains
-- [.FEEDBACK One word domains](https://github.com/UniqueDomains/feedback-oneword-domains): 0 domains
-- [.FILM One word domains](https://github.com/UniqueDomains/film-oneword-domains): 0 domains
-- [.FINANCE One word domains](https://github.com/UniqueDomains/finance-oneword-domains): 1 domains
-- [.FINANCIAL One word domains](https://github.com/UniqueDomains/financial-oneword-domains): 0 domains
-- [.FISH One word domains](https://github.com/UniqueDomains/fish-oneword-domains): 0 domains
-- [.FISHING One word domains](https://github.com/UniqueDomains/fishing-oneword-domains): 1 domains
-- [.FIT One word domains](https://github.com/UniqueDomains/fit-oneword-domains): 1 domains
-- [.FITNESS One word domains](https://github.com/UniqueDomains/fitness-oneword-domains): 1 domains
-- [.FLIGHTS One word domains](https://github.com/UniqueDomains/flights-oneword-domains): 1 domains
-- [.FLORIST One word domains](https://github.com/UniqueDomains/florist-oneword-domains): 1 domains
-- [.FLOWERS One word domains](https://github.com/UniqueDomains/flowers-oneword-domains): 1 domains
-- [.FM One word domains](https://github.com/UniqueDomains/fm-oneword-domains): 0 domains
-- [.FOO One word domains](https://github.com/UniqueDomains/foo-oneword-domains): 1 domains
-- [.FOOD One word domains](https://github.com/UniqueDomains/food-oneword-domains): 1 domains
-- [.FOOTBALL One word domains](https://github.com/UniqueDomains/football-oneword-domains): 1 domains
-- [.FORSALE One word domains](https://github.com/UniqueDomains/forsale-oneword-domains): 1 domains
-- [.FORUM One word domains](https://github.com/UniqueDomains/forum-oneword-domains): 1 domains
-- [.FOUNDATION One word domains](https://github.com/UniqueDomains/foundation-oneword-domains): 0 domains
-- [.FUN One word domains](https://github.com/UniqueDomains/fun-oneword-domains): 0 domains
-- [.FUND One word domains](https://github.com/UniqueDomains/fund-oneword-domains): 1 domains
-- [.FURNITURE One word domains](https://github.com/UniqueDomains/furniture-oneword-domains): 1 domains
-- [.FUTBOL One word domains](https://github.com/UniqueDomains/futbol-oneword-domains): 1 domains
-- [.FYI One word domains](https://github.com/UniqueDomains/fyi-oneword-domains): 0 domains
-- [.GALLERY One word domains](https://github.com/UniqueDomains/gallery-oneword-domains): 0 domains
-- [.GAME One word domains](https://github.com/UniqueDomains/game-oneword-domains): 0 domains
-- [.GAMES One word domains](https://github.com/UniqueDomains/games-oneword-domains): 1 domains
-- [.GARDEN One word domains](https://github.com/UniqueDomains/garden-oneword-domains): 0 domains
-- [.GAY One word domains](https://github.com/UniqueDomains/gay-oneword-domains): 0 domains
-- [.GG One word domains](https://github.com/UniqueDomains/gg-oneword-domains): 3,716 domains
-- [.GIFT One word domains](https://github.com/UniqueDomains/gift-oneword-domains): 0 domains
-- [.GIFTS One word domains](https://github.com/UniqueDomains/gifts-oneword-domains): 1 domains
-- [.GIVES One word domains](https://github.com/UniqueDomains/gives-oneword-domains): 1 domains
-- [.GIVING One word domains](https://github.com/UniqueDomains/giving-oneword-domains): 1 domains
-- [.GLASS One word domains](https://github.com/UniqueDomains/glass-oneword-domains): 0 domains
-- [.GLOBAL One word domains](https://github.com/UniqueDomains/global-oneword-domains): 1 domains
-- [.GMBH One word domains](https://github.com/UniqueDomains/gmbh-oneword-domains): 0 domains
-- [.GOLD One word domains](https://github.com/UniqueDomains/gold-oneword-domains): 1 domains
-- [.GOLF One word domains](https://github.com/UniqueDomains/golf-oneword-domains): 1 domains
-- [.GR.COM One word domains](https://github.com/UniqueDomains/gr.com-oneword-domains): 0 domains
-- [.GRAPHICS One word domains](https://github.com/UniqueDomains/graphics-oneword-domains): 0 domains
-- [.GRATIS One word domains](https://github.com/UniqueDomains/gratis-oneword-domains): 0 domains
-- [.GREEN One word domains](https://github.com/UniqueDomains/green-oneword-domains): 1 domains
-- [.GRIPE One word domains](https://github.com/UniqueDomains/gripe-oneword-domains): 0 domains
-- [.GROUP One word domains](https://github.com/UniqueDomains/group-oneword-domains): 1 domains
-- [.GUIDE One word domains](https://github.com/UniqueDomains/guide-oneword-domains): 0 domains
-- [.GUITARS One word domains](https://github.com/UniqueDomains/guitars-oneword-domains): 1 domains
-- [.GURU One word domains](https://github.com/UniqueDomains/guru-oneword-domains): 0 domains
-- [.HAIR One word domains](https://github.com/UniqueDomains/hair-oneword-domains): 0 domains
-- [.HAUS One word domains](https://github.com/UniqueDomains/haus-oneword-domains): 0 domains
-- [.HEALTH One word domains](https://github.com/UniqueDomains/health-oneword-domains): 0 domains
-- [.HEALTHCARE One word domains](https://github.com/UniqueDomains/healthcare-oneword-domains): 0 domains
-- [.HELP One word domains](https://github.com/UniqueDomains/help-oneword-domains): 0 domains
-- [.HIPHOP One word domains](https://github.com/UniqueDomains/hiphop-oneword-domains): 0 domains
-- [.HIV One word domains](https://github.com/UniqueDomains/hiv-oneword-domains): 1 domains
-- [.HOCKEY One word domains](https://github.com/UniqueDomains/hockey-oneword-domains): 1 domains
-- [.HOLDINGS One word domains](https://github.com/UniqueDomains/holdings-oneword-domains): 0 domains
-- [.HOLIDAY One word domains](https://github.com/UniqueDomains/holiday-oneword-domains): 0 domains
-- [.HOMES One word domains](https://github.com/UniqueDomains/homes-oneword-domains): 1 domains
-- [.HORSE One word domains](https://github.com/UniqueDomains/horse-oneword-domains): 1 domains
-- [.HOSPITAL One word domains](https://github.com/UniqueDomains/hospital-oneword-domains): 1 domains
-- [.HOST One word domains](https://github.com/UniqueDomains/host-oneword-domains): 1 domains
-- [.HOSTING One word domains](https://github.com/UniqueDomains/hosting-oneword-domains): 1 domains
-- [.HOT One word domains](https://github.com/UniqueDomains/hot-oneword-domains): 1 domains
-- [.HOUSE One word domains](https://github.com/UniqueDomains/house-oneword-domains): 1 domains
-- [.HOW One word domains](https://github.com/UniqueDomains/how-oneword-domains): 1 domains
-- [.ICU One word domains](https://github.com/UniqueDomains/icu-oneword-domains): 1 domains
-- [.IM One word domains](https://github.com/UniqueDomains/im-oneword-domains): 8 domains
-- [.IMMO One word domains](https://github.com/UniqueDomains/immo-oneword-domains): 0 domains
-- [.IMMOBILIEN One word domains](https://github.com/UniqueDomains/immobilien-oneword-domains): 1 domains
-- [.IN One word domains](https://github.com/UniqueDomains/in-oneword-domains): 0 domains
-- [.INC One word domains](https://github.com/UniqueDomains/inc-oneword-domains): 0 domains
-- [.INDUSTRIES One word domains](https://github.com/UniqueDomains/industries-oneword-domains): 0 domains
-- [.INFO One word domains](https://github.com/UniqueDomains/info-oneword-domains): 0 domains
-- [.ING One word domains](https://github.com/UniqueDomains/ing-oneword-domains): 1 domains
-- [.INK One word domains](https://github.com/UniqueDomains/ink-oneword-domains): 0 domains
-- [.INSTITUTE One word domains](https://github.com/UniqueDomains/institute-oneword-domains): 0 domains
-- [.INSURE One word domains](https://github.com/UniqueDomains/insure-oneword-domains): 1 domains
-- [.INTERNATIONAL One word domains](https://github.com/UniqueDomains/international-oneword-domains): 0 domains
-- [.INVESTMENTS One word domains](https://github.com/UniqueDomains/investments-oneword-domains): 1 domains
-- [.IO One word domains](https://github.com/UniqueDomains/io-oneword-domains): 1,538 domains
-- [.IRISH One word domains](https://github.com/UniqueDomains/irish-oneword-domains): 1 domains
-- [.IT One word domains](https://github.com/UniqueDomains/it-oneword-domains): 1,702 domains
-- [.JETZT One word domains](https://github.com/UniqueDomains/jetzt-oneword-domains): 1 domains
-- [.JEWELRY One word domains](https://github.com/UniqueDomains/jewelry-oneword-domains): 1 domains
-- [.JPN.COM One word domains](https://github.com/UniqueDomains/jpn.com-oneword-domains): 0 domains
-- [.JUEGOS One word domains](https://github.com/UniqueDomains/juegos-oneword-domains): 1 domains
-- [.KAUFEN One word domains](https://github.com/UniqueDomains/kaufen-oneword-domains): 1 domains
-- [.KIDS One word domains](https://github.com/UniqueDomains/kids-oneword-domains): 1 domains
-- [.KIM One word domains](https://github.com/UniqueDomains/kim-oneword-domains): 0 domains
-- [.KITCHEN One word domains](https://github.com/UniqueDomains/kitchen-oneword-domains): 1 domains
-- [.LA One word domains](https://github.com/UniqueDomains/la-oneword-domains): 7 domains
-- [.LAND One word domains](https://github.com/UniqueDomains/land-oneword-domains): 0 domains
-- [.LAT One word domains](https://github.com/UniqueDomains/lat-oneword-domains): 0 domains
-- [.LAW One word domains](https://github.com/UniqueDomains/law-oneword-domains): 1 domains
-- [.LAWYER One word domains](https://github.com/UniqueDomains/lawyer-oneword-domains): 1 domains
-- [.LEASE One word domains](https://github.com/UniqueDomains/lease-oneword-domains): 0 domains
-- [.LEGAL One word domains](https://github.com/UniqueDomains/legal-oneword-domains): 0 domains
-- [.LGBT One word domains](https://github.com/UniqueDomains/lgbt-oneword-domains): 0 domains
-- [.LIFE One word domains](https://github.com/UniqueDomains/life-oneword-domains): 1 domains
-- [.LIFESTYLE One word domains](https://github.com/UniqueDomains/lifestyle-oneword-domains): 1 domains
-- [.LIGHTING One word domains](https://github.com/UniqueDomains/lighting-oneword-domains): 1 domains
-- [.LIMITED One word domains](https://github.com/UniqueDomains/limited-oneword-domains): 0 domains
-- [.LIMO One word domains](https://github.com/UniqueDomains/limo-oneword-domains): 0 domains
-- [.LINK One word domains](https://github.com/UniqueDomains/link-oneword-domains): 0 domains
-- [.LIVE One word domains](https://github.com/UniqueDomains/live-oneword-domains): 1 domains
-- [.LIVING One word domains](https://github.com/UniqueDomains/living-oneword-domains): 1 domains
-- [.LLC One word domains](https://github.com/UniqueDomains/llc-oneword-domains): 0 domains
-- [.LOAN One word domains](https://github.com/UniqueDomains/loan-oneword-domains): 1 domains
-- [.LOANS One word domains](https://github.com/UniqueDomains/loans-oneword-domains): 0 domains
-- [.LOCKER One word domains](https://github.com/UniqueDomains/locker-oneword-domains): 1 domains
-- [.LOL One word domains](https://github.com/UniqueDomains/lol-oneword-domains): 0 domains
-- [.LONDON One word domains](https://github.com/UniqueDomains/london-oneword-domains): 0 domains
-- [.LOVE One word domains](https://github.com/UniqueDomains/love-oneword-domains): 0 domains
-- [.LTD One word domains](https://github.com/UniqueDomains/ltd-oneword-domains): 0 domains
-- [.LTDA One word domains](https://github.com/UniqueDomains/ltda-oneword-domains): 1 domains
-- [.LUXE One word domains](https://github.com/UniqueDomains/luxe-oneword-domains): 1 domains
-- [.LUXURY One word domains](https://github.com/UniqueDomains/luxury-oneword-domains): 0 domains
-- [.MAISON One word domains](https://github.com/UniqueDomains/maison-oneword-domains): 1 domains
-- [.MAKEUP One word domains](https://github.com/UniqueDomains/makeup-oneword-domains): 0 domains
-- [.MANAGEMENT One word domains](https://github.com/UniqueDomains/management-oneword-domains): 0 domains
-- [.MARKET One word domains](https://github.com/UniqueDomains/market-oneword-domains): 0 domains
-- [.MARKETING One word domains](https://github.com/UniqueDomains/marketing-oneword-domains): 1 domains
-- [.MBA One word domains](https://github.com/UniqueDomains/mba-oneword-domains): 1 domains
-- [.ME One word domains](https://github.com/UniqueDomains/me-oneword-domains): 1,868 domains
-- [.MEDIA One word domains](https://github.com/UniqueDomains/media-oneword-domains): 0 domains
-- [.MELBOURNE One word domains](https://github.com/UniqueDomains/melbourne-oneword-domains): 1 domains
-- [.MEME One word domains](https://github.com/UniqueDomains/meme-oneword-domains): 1 domains
-- [.MEMORIAL One word domains](https://github.com/UniqueDomains/memorial-oneword-domains): 1 domains
-- [.MEN One word domains](https://github.com/UniqueDomains/men-oneword-domains): 1 domains
-- [.MENU One word domains](https://github.com/UniqueDomains/menu-oneword-domains): 1 domains
-- [.MIAMI One word domains](https://github.com/UniqueDomains/miami-oneword-domains): 0 domains
-- [.MOBI One word domains](https://github.com/UniqueDomains/mobi-oneword-domains): 1 domains
-- [.MODA One word domains](https://github.com/UniqueDomains/moda-oneword-domains): 0 domains
-- [.MOE One word domains](https://github.com/UniqueDomains/moe-oneword-domains): 0 domains
-- [.MOM One word domains](https://github.com/UniqueDomains/mom-oneword-domains): 0 domains
-- [.MONEY One word domains](https://github.com/UniqueDomains/money-oneword-domains): 1 domains
-- [.MONSTER One word domains](https://github.com/UniqueDomains/monster-oneword-domains): 0 domains
-- [.MORTGAGE One word domains](https://github.com/UniqueDomains/mortgage-oneword-domains): 1 domains
-- [.MOTORCYCLES One word domains](https://github.com/UniqueDomains/motorcycles-oneword-domains): 0 domains
-- [.MOV One word domains](https://github.com/UniqueDomains/mov-oneword-domains): 1 domains
-- [.MOVIE One word domains](https://github.com/UniqueDomains/movie-oneword-domains): 1 domains
-- [.MUSIC One word domains](https://github.com/UniqueDomains/music-oneword-domains): 1 domains
-- [.MX One word domains](https://github.com/UniqueDomains/mx-oneword-domains): 7 domains
-- [.MY One word domains](https://github.com/UniqueDomains/my-oneword-domains): 5 domains
-- [.NAGOYA One word domains](https://github.com/UniqueDomains/nagoya-oneword-domains): 0 domains
-- [.NAME One word domains](https://github.com/UniqueDomains/name-oneword-domains): 0 domains
-- [.NAVY One word domains](https://github.com/UniqueDomains/navy-oneword-domains): 1 domains
-- [.NET One word domains](https://github.com/UniqueDomains/net-oneword-domains): 906 domains
-- [.NETWORK One word domains](https://github.com/UniqueDomains/network-oneword-domains): 0 domains
-- [.NEWS One word domains](https://github.com/UniqueDomains/news-oneword-domains): 0 domains
-- [.NEXUS One word domains](https://github.com/UniqueDomains/nexus-oneword-domains): 0 domains
-- [.NGO One word domains](https://github.com/UniqueDomains/ngo-oneword-domains): 0 domains
-- [.NINJA One word domains](https://github.com/UniqueDomains/ninja-oneword-domains): 3,961 domains
-- [.NYC One word domains](https://github.com/UniqueDomains/nyc-oneword-domains): 0 domains
-- [.OBSERVER One word domains](https://github.com/UniqueDomains/observer-oneword-domains): 2 domains
-- [.OKINAWA One word domains](https://github.com/UniqueDomains/okinawa-oneword-domains): 3 domains
-- [.ONE One word domains](https://github.com/UniqueDomains/one-oneword-domains): 0 domains
-- [.ONG One word domains](https://github.com/UniqueDomains/ong-oneword-domains): 0 domains
-- [.ONL One word domains](https://github.com/UniqueDomains/onl-oneword-domains): 0 domains
-- [.ONLINE One word domains](https://github.com/UniqueDomains/online-oneword-domains): 3,605 domains
-- [.OOO One word domains](https://github.com/UniqueDomains/ooo-oneword-domains): 0 domains
-- [.ORG One word domains](https://github.com/UniqueDomains/org-oneword-domains): 874 domains
-- [.ORGANIC One word domains](https://github.com/UniqueDomains/organic-oneword-domains): 0 domains
-- [.OSAKA One word domains](https://github.com/UniqueDomains/osaka-oneword-domains): 1 domains
-- [.PAGE One word domains](https://github.com/UniqueDomains/page-oneword-domains): 0 domains
-- [.PARTNERS One word domains](https://github.com/UniqueDomains/partners-oneword-domains): 0 domains
-- [.PARTS One word domains](https://github.com/UniqueDomains/parts-oneword-domains): 1 domains
-- [.PARTY One word domains](https://github.com/UniqueDomains/party-oneword-domains): 1 domains
-- [.PET One word domains](https://github.com/UniqueDomains/pet-oneword-domains): 0 domains
-- [.PH One word domains](https://github.com/UniqueDomains/ph-oneword-domains): 0 domains
-- [.PHD One word domains](https://github.com/UniqueDomains/phd-oneword-domains): 1 domains
-- [.PHOTO One word domains](https://github.com/UniqueDomains/photo-oneword-domains): 0 domains
-- [.PHOTOGRAPHY One word domains](https://github.com/UniqueDomains/photography-oneword-domains): 0 domains
-- [.PHOTOS One word domains](https://github.com/UniqueDomains/photos-oneword-domains): 0 domains
-- [.PICS One word domains](https://github.com/UniqueDomains/pics-oneword-domains): 0 domains
-- [.PICTURES One word domains](https://github.com/UniqueDomains/pictures-oneword-domains): 0 domains
-- [.PINK One word domains](https://github.com/UniqueDomains/pink-oneword-domains): 0 domains
-- [.PIZZA One word domains](https://github.com/UniqueDomains/pizza-oneword-domains): 0 domains
-- [.PLACE One word domains](https://github.com/UniqueDomains/place-oneword-domains): 0 domains
-- [.PLUMBING One word domains](https://github.com/UniqueDomains/plumbing-oneword-domains): 1 domains
-- [.PLUS One word domains](https://github.com/UniqueDomains/plus-oneword-domains): 1 domains
-- [.POKER One word domains](https://github.com/UniqueDomains/poker-oneword-domains): 0 domains
-- [.PORN One word domains](https://github.com/UniqueDomains/porn-oneword-domains): 0 domains
-- [.PRESS One word domains](https://github.com/UniqueDomains/press-oneword-domains): 1 domains
-- [.PRO One word domains](https://github.com/UniqueDomains/pro-oneword-domains): 2,369 domains
-- [.PRODUCTIONS One word domains](https://github.com/UniqueDomains/productions-oneword-domains): 0 domains
-- [.PROF One word domains](https://github.com/UniqueDomains/prof-oneword-domains): 1 domains
-- [.PROMO One word domains](https://github.com/UniqueDomains/promo-oneword-domains): 0 domains
-- [.PROPERTIES One word domains](https://github.com/UniqueDomains/properties-oneword-domains): 0 domains
-- [.PROPERTY One word domains](https://github.com/UniqueDomains/property-oneword-domains): 1 domains
-- [.PROTECTION One word domains](https://github.com/UniqueDomains/protection-oneword-domains): 1 domains
-- [.PUB One word domains](https://github.com/UniqueDomains/pub-oneword-domains): 0 domains
-- [.PW One word domains](https://github.com/UniqueDomains/pw-oneword-domains): 1 domains
-- [.QPON One word domains](https://github.com/UniqueDomains/qpon-oneword-domains): 1 domains
-- [.QUEST One word domains](https://github.com/UniqueDomains/quest-oneword-domains): 0 domains
-- [.RACING One word domains](https://github.com/UniqueDomains/racing-oneword-domains): 0 domains
-- [.REALTY One word domains](https://github.com/UniqueDomains/realty-oneword-domains): 1 domains
-- [.RECIPES One word domains](https://github.com/UniqueDomains/recipes-oneword-domains): 0 domains
-- [.RED One word domains](https://github.com/UniqueDomains/red-oneword-domains): 0 domains
-- [.REHAB One word domains](https://github.com/UniqueDomains/rehab-oneword-domains): 1 domains
-- [.REISE One word domains](https://github.com/UniqueDomains/reise-oneword-domains): 1 domains
-- [.REISEN One word domains](https://github.com/UniqueDomains/reisen-oneword-domains): 0 domains
-- [.RENT One word domains](https://github.com/UniqueDomains/rent-oneword-domains): 0 domains
-- [.RENTALS One word domains](https://github.com/UniqueDomains/rentals-oneword-domains): 0 domains
-- [.REPAIR One word domains](https://github.com/UniqueDomains/repair-oneword-domains): 0 domains
-- [.REPORT One word domains](https://github.com/UniqueDomains/report-oneword-domains): 0 domains
-- [.REPUBLICAN One word domains](https://github.com/UniqueDomains/republican-oneword-domains): 0 domains
-- [.REST One word domains](https://github.com/UniqueDomains/rest-oneword-domains): 0 domains
-- [.RESTAURANT One word domains](https://github.com/UniqueDomains/restaurant-oneword-domains): 0 domains
-- [.REVIEW One word domains](https://github.com/UniqueDomains/review-oneword-domains): 0 domains
-- [.REVIEWS One word domains](https://github.com/UniqueDomains/reviews-oneword-domains): 0 domains
-- [.RICH One word domains](https://github.com/UniqueDomains/rich-oneword-domains): 0 domains
-- [.RIP One word domains](https://github.com/UniqueDomains/rip-oneword-domains): 0 domains
-- [.ROCKS One word domains](https://github.com/UniqueDomains/rocks-oneword-domains): 0 domains
-- [.RODEO One word domains](https://github.com/UniqueDomains/rodeo-oneword-domains): 0 domains
-- [.RSVP One word domains](https://github.com/UniqueDomains/rsvp-oneword-domains): 0 domains
-- [.RU.COM One word domains](https://github.com/UniqueDomains/ru.com-oneword-domains): 0 domains
-- [.RUN One word domains](https://github.com/UniqueDomains/run-oneword-domains): 0 domains
-- [.RYUKYU One word domains](https://github.com/UniqueDomains/ryukyu-oneword-domains): 2 domains
-- [.SA.COM One word domains](https://github.com/UniqueDomains/sa.com-oneword-domains): 0 domains
-- [.SALE One word domains](https://github.com/UniqueDomains/sale-oneword-domains): 0 domains
-- [.SALON One word domains](https://github.com/UniqueDomains/salon-oneword-domains): 0 domains
-- [.SARL One word domains](https://github.com/UniqueDomains/sarl-oneword-domains): 0 domains
-- [.SBS One word domains](https://github.com/UniqueDomains/sbs-oneword-domains): 0 domains
-- [.SCHOOL One word domains](https://github.com/UniqueDomains/school-oneword-domains): 0 domains
-- [.SCHULE One word domains](https://github.com/UniqueDomains/schule-oneword-domains): 0 domains
-- [.SCIENCE One word domains](https://github.com/UniqueDomains/science-oneword-domains): 0 domains
-- [.SE.NET One word domains](https://github.com/UniqueDomains/se.net-oneword-domains): 0 domains
-- [.SECURITY One word domains](https://github.com/UniqueDomains/security-oneword-domains): 0 domains
-- [.SERVICES One word domains](https://github.com/UniqueDomains/services-oneword-domains): 0 domains
-- [.SEXY One word domains](https://github.com/UniqueDomains/sexy-oneword-domains): 0 domains
-- [.SH One word domains](https://github.com/UniqueDomains/sh-oneword-domains): 4 domains
-- [.SHIKSHA One word domains](https://github.com/UniqueDomains/shiksha-oneword-domains): 0 domains
-- [.SHOES One word domains](https://github.com/UniqueDomains/shoes-oneword-domains): 0 domains
-- [.SHOP One word domains](https://github.com/UniqueDomains/shop-oneword-domains): 224 domains
-- [.SHOPPING One word domains](https://github.com/UniqueDomains/shopping-oneword-domains): 0 domains
-- [.SHOW One word domains](https://github.com/UniqueDomains/show-oneword-domains): 0 domains
-- [.SINGLES One word domains](https://github.com/UniqueDomains/singles-oneword-domains): 0 domains
-- [.SITE One word domains](https://github.com/UniqueDomains/site-oneword-domains): 3,972 domains
-- [.SKI One word domains](https://github.com/UniqueDomains/ski-oneword-domains): 0 domains
-- [.SKIN One word domains](https://github.com/UniqueDomains/skin-oneword-domains): 0 domains
-- [.SO One word domains](https://github.com/UniqueDomains/so-oneword-domains): 3,760 domains
-- [.SOCCER One word domains](https://github.com/UniqueDomains/soccer-oneword-domains): 0 domains
-- [.SOCIAL One word domains](https://github.com/UniqueDomains/social-oneword-domains): 0 domains
-- [.SOFTWARE One word domains](https://github.com/UniqueDomains/software-oneword-domains): 0 domains
-- [.SOLAR One word domains](https://github.com/UniqueDomains/solar-oneword-domains): 0 domains
-- [.SOLUTIONS One word domains](https://github.com/UniqueDomains/solutions-oneword-domains): 0 domains
-- [.SOY One word domains](https://github.com/UniqueDomains/soy-oneword-domains): 0 domains
-- [.SPACE One word domains](https://github.com/UniqueDomains/space-oneword-domains): 4,045 domains
-- [.SPOT One word domains](https://github.com/UniqueDomains/spot-oneword-domains): 0 domains
-- [.SRL One word domains](https://github.com/UniqueDomains/srl-oneword-domains): 0 domains
-- [.STORAGE One word domains](https://github.com/UniqueDomains/storage-oneword-domains): 0 domains
-- [.STORE One word domains](https://github.com/UniqueDomains/store-oneword-domains): 3,504 domains
-- [.STREAM One word domains](https://github.com/UniqueDomains/stream-oneword-domains): 0 domains
-- [.STUDIO One word domains](https://github.com/UniqueDomains/studio-oneword-domains): 0 domains
-- [.STUDY One word domains](https://github.com/UniqueDomains/study-oneword-domains): 0 domains
-- [.STYLE One word domains](https://github.com/UniqueDomains/style-oneword-domains): 0 domains
-- [.SUCKS One word domains](https://github.com/UniqueDomains/sucks-oneword-domains): 0 domains
-- [.SUPPLIES One word domains](https://github.com/UniqueDomains/supplies-oneword-domains): 0 domains
-- [.SUPPLY One word domains](https://github.com/UniqueDomains/supply-oneword-domains): 0 domains
-- [.SUPPORT One word domains](https://github.com/UniqueDomains/support-oneword-domains): 0 domains
-- [.SURF One word domains](https://github.com/UniqueDomains/surf-oneword-domains): 0 domains
-- [.SURGERY One word domains](https://github.com/UniqueDomains/surgery-oneword-domains): 0 domains
-- [.SYDNEY One word domains](https://github.com/UniqueDomains/sydney-oneword-domains): 0 domains
-- [.SYSTEMS One word domains](https://github.com/UniqueDomains/systems-oneword-domains): 0 domains
-- [.TATTOO One word domains](https://github.com/UniqueDomains/tattoo-oneword-domains): 0 domains
-- [.TAX One word domains](https://github.com/UniqueDomains/tax-oneword-domains): 0 domains
-- [.TAXI One word domains](https://github.com/UniqueDomains/taxi-oneword-domains): 0 domains
-- [.TEAM One word domains](https://github.com/UniqueDomains/team-oneword-domains): 0 domains
-- [.TECH One word domains](https://github.com/UniqueDomains/tech-oneword-domains): 3,148 domains
-- [.TECHNOLOGY One word domains](https://github.com/UniqueDomains/technology-oneword-domains): 0 domains
-- [.TEL One word domains](https://github.com/UniqueDomains/tel-oneword-domains): 0 domains
-- [.TENNIS One word domains](https://github.com/UniqueDomains/tennis-oneword-domains): 0 domains
-- [.THEATER One word domains](https://github.com/UniqueDomains/theater-oneword-domains): 0 domains
-- [.THEATRE One word domains](https://github.com/UniqueDomains/theatre-oneword-domains): 0 domains
-- [.TICKETS One word domains](https://github.com/UniqueDomains/tickets-oneword-domains): 0 domains
-- [.TIENDA One word domains](https://github.com/UniqueDomains/tienda-oneword-domains): 0 domains
-- [.TIPS One word domains](https://github.com/UniqueDomains/tips-oneword-domains): 0 domains
-- [.TIRES One word domains](https://github.com/UniqueDomains/tires-oneword-domains): 0 domains
-- [.TODAY One word domains](https://github.com/UniqueDomains/today-oneword-domains): 0 domains
-- [.TOKYO One word domains](https://github.com/UniqueDomains/tokyo-oneword-domains): 0 domains
-- [.TOOLS One word domains](https://github.com/UniqueDomains/tools-oneword-domains): 0 domains
-- [.TOP One word domains](https://github.com/UniqueDomains/top-oneword-domains): 0 domains
-- [.TOURS One word domains](https://github.com/UniqueDomains/tours-oneword-domains): 0 domains
-- [.TOWN One word domains](https://github.com/UniqueDomains/town-oneword-domains): 0 domains
-- [.TOYS One word domains](https://github.com/UniqueDomains/toys-oneword-domains): 0 domains
-- [.TRADE One word domains](https://github.com/UniqueDomains/trade-oneword-domains): 0 domains
-- [.TRAINING One word domains](https://github.com/UniqueDomains/training-oneword-domains): 0 domains
-- [.TRAVEL One word domains](https://github.com/UniqueDomains/travel-oneword-domains): 0 domains
-- [.TUBE One word domains](https://github.com/UniqueDomains/tube-oneword-domains): 0 domains
-- [.TV One word domains](https://github.com/UniqueDomains/tv-oneword-domains): 0 domains
-- [.UK.COM One word domains](https://github.com/UniqueDomains/uk.com-oneword-domains): 0 domains
-- [.UK.NET One word domains](https://github.com/UniqueDomains/uk.net-oneword-domains): 0 domains
-- [.UK One word domains](https://github.com/UniqueDomains/uk-oneword-domains): 0 domains
-- [.UNIVERSITY One word domains](https://github.com/UniqueDomains/university-oneword-domains): 0 domains
-- [.UNO One word domains](https://github.com/UniqueDomains/uno-oneword-domains): 0 domains
-- [.US.COM One word domains](https://github.com/UniqueDomains/us.com-oneword-domains): 0 domains
-- [.US One word domains](https://github.com/UniqueDomains/us-oneword-domains): 1,595 domains
-- [.VACATIONS One word domains](https://github.com/UniqueDomains/vacations-oneword-domains): 0 domains
-- [.VANA One word domains](https://github.com/UniqueDomains/vana-oneword-domains): 0 domains
-- [.VC One word domains](https://github.com/UniqueDomains/vc-oneword-domains): 3 domains
-- [.VEGAS One word domains](https://github.com/UniqueDomains/vegas-oneword-domains): 0 domains
-- [.VENTURES One word domains](https://github.com/UniqueDomains/ventures-oneword-domains): 0 domains
-- [.VET One word domains](https://github.com/UniqueDomains/vet-oneword-domains): 0 domains
-- [.VIAJES One word domains](https://github.com/UniqueDomains/viajes-oneword-domains): 0 domains
-- [.VIDEO One word domains](https://github.com/UniqueDomains/video-oneword-domains): 0 domains
-- [.VILLAS One word domains](https://github.com/UniqueDomains/villas-oneword-domains): 0 domains
-- [.VIN One word domains](https://github.com/UniqueDomains/vin-oneword-domains): 0 domains
-- [.VIP One word domains](https://github.com/UniqueDomains/vip-oneword-domains): 0 domains
-- [.VISION One word domains](https://github.com/UniqueDomains/vision-oneword-domains): 0 domains
-- [.VODKA One word domains](https://github.com/UniqueDomains/vodka-oneword-domains): 0 domains
-- [.VOTE One word domains](https://github.com/UniqueDomains/vote-oneword-domains): 0 domains
-- [.VOTING One word domains](https://github.com/UniqueDomains/voting-oneword-domains): 0 domains
-- [.VOTO One word domains](https://github.com/UniqueDomains/voto-oneword-domains): 0 domains
-- [.VOYAGE One word domains](https://github.com/UniqueDomains/voyage-oneword-domains): 0 domains
-- [.WATCH One word domains](https://github.com/UniqueDomains/watch-oneword-domains): 0 domains
-- [.WEBCAM One word domains](https://github.com/UniqueDomains/webcam-oneword-domains): 0 domains
-- [.WEBSITE One word domains](https://github.com/UniqueDomains/website-oneword-domains): 0 domains
-- [.WEDDING One word domains](https://github.com/UniqueDomains/wedding-oneword-domains): 0 domains
-- [.WIKI One word domains](https://github.com/UniqueDomains/wiki-oneword-domains): 0 domains
-- [.WIN One word domains](https://github.com/UniqueDomains/win-oneword-domains): 0 domains
-- [.WINE One word domains](https://github.com/UniqueDomains/wine-oneword-domains): 0 domains
-- [.WORK One word domains](https://github.com/UniqueDomains/work-oneword-domains): 0 domains
-- [.WORKS One word domains](https://github.com/UniqueDomains/works-oneword-domains): 0 domains
-- [.WORLD One word domains](https://github.com/UniqueDomains/world-oneword-domains): 0 domains
-- [.WS One word domains](https://github.com/UniqueDomains/ws-oneword-domains): 4 domains
-- [.WTF One word domains](https://github.com/UniqueDomains/wtf-oneword-domains): 0 domains
-- [.XN--3DS443G One word domains](https://github.com/UniqueDomains/xn--3ds443g-oneword-domains): 0 domains
-- [.XN--6FRZ82G One word domains](https://github.com/UniqueDomains/xn--6frz82g-oneword-domains): 0 domains
-- [.XYZ One word domains](https://github.com/UniqueDomains/xyz-oneword-domains): 1,876 domains
-- [.YACHTS One word domains](https://github.com/UniqueDomains/yachts-oneword-domains): 0 domains
-- [.YOGA One word domains](https://github.com/UniqueDomains/yoga-oneword-domains): 0 domains
-- [.YOKOHAMA One word domains](https://github.com/UniqueDomains/yokohama-oneword-domains): 0 domains
-- [.ZA.COM One word domains](https://github.com/UniqueDomains/za.com-oneword-domains): 0 domains
-- [.ZIP One word domains](https://github.com/UniqueDomains/zip-oneword-domains): 0 domains
-- [.ZONE One word domains](https://github.com/UniqueDomains/zone-oneword-domains): 3,537 domains
+| Name           | Total Number | Extract                                                                   | Full Database                                                                                                                             |
+| -------------- | ------------ | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| .AC            | 2,652        | [Extract](https://github.com/UniqueDomains/ac-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,422        | [Extract](https://github.com/UniqueDomains/academy-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 2,718        | [Extract](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 2,693        | [Extract](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 2,688        | [Extract](https://github.com/UniqueDomains/actor-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .ADULT         | 2,700        | [Extract](https://github.com/UniqueDomains/adult-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
+| .AG            | 2,657        | [Extract](https://github.com/UniqueDomains/ag-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
+| .AGENCY        | 2,169        | [Extract](https://github.com/UniqueDomains/agency-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
+| .AI            | 53,500       | [Extract](https://github.com/UniqueDomains/ai-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
+| .AIRFORCE      | 2,719        | [Extract](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
+| .APARTMENTS    | 2,681        | [Extract](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
+| .APP           | 1,433        | [Extract](https://github.com/UniqueDomains/app-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
+| .ARCHI         | 1            | [Extract](https://github.com/UniqueDomains/archi-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
+| .ARMY          | 1            | [Extract](https://github.com/UniqueDomains/army-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=army-oneword-domains&utm_content=table.link)          |
+| .ART           | 1            | [Extract](https://github.com/UniqueDomains/art-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=table.link)           |
+| .ASIA          | 0            | [Extract](https://github.com/UniqueDomains/asia-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=table.link)          |
+| .ASSOCIATES    | 0            | [Extract](https://github.com/UniqueDomains/associates-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=associates-oneword-domains&utm_content=table.link)    |
+| .AT            | 3,552        | [Extract](https://github.com/UniqueDomains/at-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=at-oneword-domains&utm_content=table.link)            |
+| .ATTORNEY      | 1            | [Extract](https://github.com/UniqueDomains/attorney-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=attorney-oneword-domains&utm_content=table.link)      |
+| .AUCTION       | 0            | [Extract](https://github.com/UniqueDomains/auction-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=auction-oneword-domains&utm_content=table.link)       |
+| .AUDIO         | 0            | [Extract](https://github.com/UniqueDomains/audio-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=audio-oneword-domains&utm_content=table.link)         |
+| .AUTO          | 1            | [Extract](https://github.com/UniqueDomains/auto-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=auto-oneword-domains&utm_content=table.link)          |
+| .AUTOS         | 0            | [Extract](https://github.com/UniqueDomains/autos-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=autos-oneword-domains&utm_content=table.link)         |
+| .BABY          | 1            | [Extract](https://github.com/UniqueDomains/baby-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=baby-oneword-domains&utm_content=table.link)          |
+| .BAND          | 1            | [Extract](https://github.com/UniqueDomains/band-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=band-oneword-domains&utm_content=table.link)          |
+| .BAR           | 0            | [Extract](https://github.com/UniqueDomains/bar-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bar-oneword-domains&utm_content=table.link)           |
+| .BARGAINS      | 1            | [Extract](https://github.com/UniqueDomains/bargains-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bargains-oneword-domains&utm_content=table.link)      |
+| .BAYERN        | 1            | [Extract](https://github.com/UniqueDomains/bayern-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bayern-oneword-domains&utm_content=table.link)        |
+| .BEAUTY        | 1            | [Extract](https://github.com/UniqueDomains/beauty-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=beauty-oneword-domains&utm_content=table.link)        |
+| .BEER          | 0            | [Extract](https://github.com/UniqueDomains/beer-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=beer-oneword-domains&utm_content=table.link)          |
+| .BERLIN        | 1            | [Extract](https://github.com/UniqueDomains/berlin-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=berlin-oneword-domains&utm_content=table.link)        |
+| .BEST          | 0            | [Extract](https://github.com/UniqueDomains/best-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=best-oneword-domains&utm_content=table.link)          |
+| .BET           | 0            | [Extract](https://github.com/UniqueDomains/bet-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bet-oneword-domains&utm_content=table.link)           |
+| .BID           | 1            | [Extract](https://github.com/UniqueDomains/bid-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bid-oneword-domains&utm_content=table.link)           |
+| .BIKE          | 0            | [Extract](https://github.com/UniqueDomains/bike-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bike-oneword-domains&utm_content=table.link)          |
+| .BINGO         | 1            | [Extract](https://github.com/UniqueDomains/bingo-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bingo-oneword-domains&utm_content=table.link)         |
+| .BIO           | 0            | [Extract](https://github.com/UniqueDomains/bio-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bio-oneword-domains&utm_content=table.link)           |
+| .BIZ           | 0            | [Extract](https://github.com/UniqueDomains/biz-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=biz-oneword-domains&utm_content=table.link)           |
+| .BLACK         | 1            | [Extract](https://github.com/UniqueDomains/black-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=black-oneword-domains&utm_content=table.link)         |
+| .BLACKFRIDAY   | 1            | [Extract](https://github.com/UniqueDomains/blackfriday-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=blackfriday-oneword-domains&utm_content=table.link)   |
+| .BLOG          | 1            | [Extract](https://github.com/UniqueDomains/blog-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=blog-oneword-domains&utm_content=table.link)          |
+| .BLUE          | 1            | [Extract](https://github.com/UniqueDomains/blue-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=blue-oneword-domains&utm_content=table.link)          |
+| .BOATS         | 0            | [Extract](https://github.com/UniqueDomains/boats-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boats-oneword-domains&utm_content=table.link)         |
+| .BOND          | 0            | [Extract](https://github.com/UniqueDomains/bond-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bond-oneword-domains&utm_content=table.link)          |
+| .BOO           | 1            | [Extract](https://github.com/UniqueDomains/boo-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boo-oneword-domains&utm_content=table.link)           |
+| .BOSTON        | 1            | [Extract](https://github.com/UniqueDomains/boston-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boston-oneword-domains&utm_content=table.link)        |
+| .BOUTIQUE      | 1            | [Extract](https://github.com/UniqueDomains/boutique-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=boutique-oneword-domains&utm_content=table.link)      |
+| .BR.COM        | 0            | [Extract](https://github.com/UniqueDomains/br.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=br.com-oneword-domains&utm_content=table.link)        |
+| .BUILD         | 0            | [Extract](https://github.com/UniqueDomains/build-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=build-oneword-domains&utm_content=table.link)         |
+| .BUILDERS      | 0            | [Extract](https://github.com/UniqueDomains/builders-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=builders-oneword-domains&utm_content=table.link)      |
+| .BUSINESS      | 0            | [Extract](https://github.com/UniqueDomains/business-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=business-oneword-domains&utm_content=table.link)      |
+| .BUZZ          | 1            | [Extract](https://github.com/UniqueDomains/buzz-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=table.link)          |
+| .BZ            | 5            | [Extract](https://github.com/UniqueDomains/bz-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bz-oneword-domains&utm_content=table.link)            |
+| .CA            | 0            | [Extract](https://github.com/UniqueDomains/ca-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ca-oneword-domains&utm_content=table.link)            |
+| .CAB           | 0            | [Extract](https://github.com/UniqueDomains/cab-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cab-oneword-domains&utm_content=table.link)           |
+| .CAFE          | 0            | [Extract](https://github.com/UniqueDomains/cafe-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=table.link)          |
+| .CAM           | 1            | [Extract](https://github.com/UniqueDomains/cam-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cam-oneword-domains&utm_content=table.link)           |
+| .CAMERA        | 0            | [Extract](https://github.com/UniqueDomains/camera-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=camera-oneword-domains&utm_content=table.link)        |
+| .CAMP          | 0            | [Extract](https://github.com/UniqueDomains/camp-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=camp-oneword-domains&utm_content=table.link)          |
+| .CAPITAL       | 0            | [Extract](https://github.com/UniqueDomains/capital-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=capital-oneword-domains&utm_content=table.link)       |
+| .CAR           | 1            | [Extract](https://github.com/UniqueDomains/car-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=car-oneword-domains&utm_content=table.link)           |
+| .CARDS         | 0            | [Extract](https://github.com/UniqueDomains/cards-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cards-oneword-domains&utm_content=table.link)         |
+| .CARE          | 0            | [Extract](https://github.com/UniqueDomains/care-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=care-oneword-domains&utm_content=table.link)          |
+| .CAREERS       | 1            | [Extract](https://github.com/UniqueDomains/careers-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=careers-oneword-domains&utm_content=table.link)       |
+| .CARS          | 1            | [Extract](https://github.com/UniqueDomains/cars-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cars-oneword-domains&utm_content=table.link)          |
+| .CASA          | 0            | [Extract](https://github.com/UniqueDomains/casa-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=casa-oneword-domains&utm_content=table.link)          |
+| .CASH          | 0            | [Extract](https://github.com/UniqueDomains/cash-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cash-oneword-domains&utm_content=table.link)          |
+| .CASINO        | 1            | [Extract](https://github.com/UniqueDomains/casino-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=casino-oneword-domains&utm_content=table.link)        |
+| .CATERING      | 0            | [Extract](https://github.com/UniqueDomains/catering-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=catering-oneword-domains&utm_content=table.link)      |
+| .CC            | 0            | [Extract](https://github.com/UniqueDomains/cc-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cc-oneword-domains&utm_content=table.link)            |
+| .CENTER        | 0            | [Extract](https://github.com/UniqueDomains/center-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=center-oneword-domains&utm_content=table.link)        |
+| .CEO           | 1            | [Extract](https://github.com/UniqueDomains/ceo-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ceo-oneword-domains&utm_content=table.link)           |
+| .CFD           | 0            | [Extract](https://github.com/UniqueDomains/cfd-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cfd-oneword-domains&utm_content=table.link)           |
+| .CHARITY       | 0            | [Extract](https://github.com/UniqueDomains/charity-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=charity-oneword-domains&utm_content=table.link)       |
+| .CHAT          | 0            | [Extract](https://github.com/UniqueDomains/chat-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=table.link)          |
+| .CHEAP         | 1            | [Extract](https://github.com/UniqueDomains/cheap-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cheap-oneword-domains&utm_content=table.link)         |
+| .CHRISTMAS     | 0            | [Extract](https://github.com/UniqueDomains/christmas-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=christmas-oneword-domains&utm_content=table.link)     |
+| .CHURCH        | 0            | [Extract](https://github.com/UniqueDomains/church-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=church-oneword-domains&utm_content=table.link)        |
+| .CITY          | 0            | [Extract](https://github.com/UniqueDomains/city-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=city-oneword-domains&utm_content=table.link)          |
+| .CLAIMS        | 0            | [Extract](https://github.com/UniqueDomains/claims-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=claims-oneword-domains&utm_content=table.link)        |
+| .CLEANING      | 1            | [Extract](https://github.com/UniqueDomains/cleaning-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cleaning-oneword-domains&utm_content=table.link)      |
+| .CLICK         | 0            | [Extract](https://github.com/UniqueDomains/click-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=click-oneword-domains&utm_content=table.link)         |
+| .CLINIC        | 0            | [Extract](https://github.com/UniqueDomains/clinic-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=clinic-oneword-domains&utm_content=table.link)        |
+| .CLOTHING      | 1            | [Extract](https://github.com/UniqueDomains/clothing-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=clothing-oneword-domains&utm_content=table.link)      |
+| .CLOUD         | 2,958        | [Extract](https://github.com/UniqueDomains/cloud-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cloud-oneword-domains&utm_content=table.link)         |
+| .CLUB          | 1            | [Extract](https://github.com/UniqueDomains/club-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=club-oneword-domains&utm_content=table.link)          |
+| .CN.COM        | 0            | [Extract](https://github.com/UniqueDomains/cn.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cn.com-oneword-domains&utm_content=table.link)        |
+| .CO.COM        | 0            | [Extract](https://github.com/UniqueDomains/co.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=co.com-oneword-domains&utm_content=table.link)        |
+| .CO.UK         | 0            | [Extract](https://github.com/UniqueDomains/co.uk-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=co.uk-oneword-domains&utm_content=table.link)         |
+| .CO            | 1,428        | [Extract](https://github.com/UniqueDomains/co-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=co-oneword-domains&utm_content=table.link)            |
+| .COACH         | 0            | [Extract](https://github.com/UniqueDomains/coach-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=coach-oneword-domains&utm_content=table.link)         |
+| .CODES         | 0            | [Extract](https://github.com/UniqueDomains/codes-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=codes-oneword-domains&utm_content=table.link)         |
+| .COFFEE        | 0            | [Extract](https://github.com/UniqueDomains/coffee-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=coffee-oneword-domains&utm_content=table.link)        |
+| .COLLEGE       | 1            | [Extract](https://github.com/UniqueDomains/college-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=college-oneword-domains&utm_content=table.link)       |
+| .COM.CO        | 0            | [Extract](https://github.com/UniqueDomains/com.co-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=com.co-oneword-domains&utm_content=table.link)        |
+| .COM.MX        | 0            | [Extract](https://github.com/UniqueDomains/com.mx-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=com.mx-oneword-domains&utm_content=table.link)        |
+| .COM           | 526          | [Extract](https://github.com/UniqueDomains/com-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=com-oneword-domains&utm_content=table.link)           |
+| .COMMUNITY     | 0            | [Extract](https://github.com/UniqueDomains/community-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=table.link)     |
+| .COMPANY       | 0            | [Extract](https://github.com/UniqueDomains/company-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=company-oneword-domains&utm_content=table.link)       |
+| .COMPUTER      | 0            | [Extract](https://github.com/UniqueDomains/computer-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=computer-oneword-domains&utm_content=table.link)      |
+| .CONDOS        | 1            | [Extract](https://github.com/UniqueDomains/condos-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=condos-oneword-domains&utm_content=table.link)        |
+| .CONSTRUCTION  | 0            | [Extract](https://github.com/UniqueDomains/construction-oneword-domains)  | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=construction-oneword-domains&utm_content=table.link)  |
+| .CONSULTING    | 1            | [Extract](https://github.com/UniqueDomains/consulting-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=consulting-oneword-domains&utm_content=table.link)    |
+| .CONTACT       | 1            | [Extract](https://github.com/UniqueDomains/contact-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contact-oneword-domains&utm_content=table.link)       |
+| .CONTRACTORS   | 0            | [Extract](https://github.com/UniqueDomains/contractors-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contractors-oneword-domains&utm_content=table.link)   |
+| .COOKING       | 1            | [Extract](https://github.com/UniqueDomains/cooking-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cooking-oneword-domains&utm_content=table.link)       |
+| .COOL          | 0            | [Extract](https://github.com/UniqueDomains/cool-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cool-oneword-domains&utm_content=table.link)          |
+| .COUNTRY       | 1            | [Extract](https://github.com/UniqueDomains/country-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=country-oneword-domains&utm_content=table.link)       |
+| .COUPONS       | 0            | [Extract](https://github.com/UniqueDomains/coupons-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=coupons-oneword-domains&utm_content=table.link)       |
+| .COURSES       | 0            | [Extract](https://github.com/UniqueDomains/courses-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=courses-oneword-domains&utm_content=table.link)       |
+| .CREDIT        | 0            | [Extract](https://github.com/UniqueDomains/credit-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=credit-oneword-domains&utm_content=table.link)        |
+| .CREDITCARD    | 0            | [Extract](https://github.com/UniqueDomains/creditcard-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=creditcard-oneword-domains&utm_content=table.link)    |
+| .CRICKET       | 1            | [Extract](https://github.com/UniqueDomains/cricket-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cricket-oneword-domains&utm_content=table.link)       |
+| .CRUISES       | 0            | [Extract](https://github.com/UniqueDomains/cruises-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cruises-oneword-domains&utm_content=table.link)       |
+| .CV            | 0            | [Extract](https://github.com/UniqueDomains/cv-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cv-oneword-domains&utm_content=table.link)            |
+| .CX            | 0            | [Extract](https://github.com/UniqueDomains/cx-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cx-oneword-domains&utm_content=table.link)            |
+| .CYOU          | 0            | [Extract](https://github.com/UniqueDomains/cyou-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cyou-oneword-domains&utm_content=table.link)          |
+| .DAD           | 1            | [Extract](https://github.com/UniqueDomains/dad-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dad-oneword-domains&utm_content=table.link)           |
+| .DANCE         | 1            | [Extract](https://github.com/UniqueDomains/dance-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dance-oneword-domains&utm_content=table.link)         |
+| .DATE          | 1            | [Extract](https://github.com/UniqueDomains/date-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=date-oneword-domains&utm_content=table.link)          |
+| .DATING        | 1            | [Extract](https://github.com/UniqueDomains/dating-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dating-oneword-domains&utm_content=table.link)        |
+| .DAY           | 0            | [Extract](https://github.com/UniqueDomains/day-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=day-oneword-domains&utm_content=table.link)           |
+| .DE.COM        | 0            | [Extract](https://github.com/UniqueDomains/de.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=de.com-oneword-domains&utm_content=table.link)        |
+| .DE            | 2            | [Extract](https://github.com/UniqueDomains/de-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=table.link)            |
+| .DEALER        | 1            | [Extract](https://github.com/UniqueDomains/dealer-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dealer-oneword-domains&utm_content=table.link)        |
+| .DEALS         | 0            | [Extract](https://github.com/UniqueDomains/deals-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=deals-oneword-domains&utm_content=table.link)         |
+| .DEGREE        | 1            | [Extract](https://github.com/UniqueDomains/degree-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=degree-oneword-domains&utm_content=table.link)        |
+| .DELIVERY      | 1            | [Extract](https://github.com/UniqueDomains/delivery-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=delivery-oneword-domains&utm_content=table.link)      |
+| .DEMOCRAT      | 0            | [Extract](https://github.com/UniqueDomains/democrat-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=democrat-oneword-domains&utm_content=table.link)      |
+| .DENTAL        | 1            | [Extract](https://github.com/UniqueDomains/dental-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dental-oneword-domains&utm_content=table.link)        |
+| .DENTIST       | 1            | [Extract](https://github.com/UniqueDomains/dentist-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dentist-oneword-domains&utm_content=table.link)       |
+| .DESIGN        | 0            | [Extract](https://github.com/UniqueDomains/design-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=design-oneword-domains&utm_content=table.link)        |
+| .DEV           | 2,127        | [Extract](https://github.com/UniqueDomains/dev-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dev-oneword-domains&utm_content=table.link)           |
+| .DIAMONDS      | 0            | [Extract](https://github.com/UniqueDomains/diamonds-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=diamonds-oneword-domains&utm_content=table.link)      |
+| .DIET          | 0            | [Extract](https://github.com/UniqueDomains/diet-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=diet-oneword-domains&utm_content=table.link)          |
+| .DIGITAL       | 1            | [Extract](https://github.com/UniqueDomains/digital-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=digital-oneword-domains&utm_content=table.link)       |
+| .DIRECT        | 0            | [Extract](https://github.com/UniqueDomains/direct-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=direct-oneword-domains&utm_content=table.link)        |
+| .DIRECTORY     | 0            | [Extract](https://github.com/UniqueDomains/directory-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=directory-oneword-domains&utm_content=table.link)     |
+| .DISCOUNT      | 0            | [Extract](https://github.com/UniqueDomains/discount-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=discount-oneword-domains&utm_content=table.link)      |
+| .DIY           | 1            | [Extract](https://github.com/UniqueDomains/diy-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=diy-oneword-domains&utm_content=table.link)           |
+| .DOCTOR        | 1            | [Extract](https://github.com/UniqueDomains/doctor-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=doctor-oneword-domains&utm_content=table.link)        |
+| .DOG           | 0            | [Extract](https://github.com/UniqueDomains/dog-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dog-oneword-domains&utm_content=table.link)           |
+| .DOMAINS       | 0            | [Extract](https://github.com/UniqueDomains/domains-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=domains-oneword-domains&utm_content=table.link)       |
+| .DOWNLOAD      | 1            | [Extract](https://github.com/UniqueDomains/download-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=download-oneword-domains&utm_content=table.link)      |
+| .EARTH         | 0            | [Extract](https://github.com/UniqueDomains/earth-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=earth-oneword-domains&utm_content=table.link)         |
+| .EDUCATION     | 1            | [Extract](https://github.com/UniqueDomains/education-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=table.link)     |
+| .EMAIL         | 0            | [Extract](https://github.com/UniqueDomains/email-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=email-oneword-domains&utm_content=table.link)         |
+| .ENERGY        | 1            | [Extract](https://github.com/UniqueDomains/energy-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=table.link)        |
+| .ENGINEER      | 1            | [Extract](https://github.com/UniqueDomains/engineer-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineer-oneword-domains&utm_content=table.link)      |
+| .ENGINEERING   | 1            | [Extract](https://github.com/UniqueDomains/engineering-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=engineering-oneword-domains&utm_content=table.link)   |
+| .ENTERPRISES   | 0            | [Extract](https://github.com/UniqueDomains/enterprises-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=enterprises-oneword-domains&utm_content=table.link)   |
+| .EQUIPMENT     | 0            | [Extract](https://github.com/UniqueDomains/equipment-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=equipment-oneword-domains&utm_content=table.link)     |
+| .ESQ           | 1            | [Extract](https://github.com/UniqueDomains/esq-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=esq-oneword-domains&utm_content=table.link)           |
+| .ESTATE        | 0            | [Extract](https://github.com/UniqueDomains/estate-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=estate-oneword-domains&utm_content=table.link)        |
+| .EU.COM        | 0            | [Extract](https://github.com/UniqueDomains/eu.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=eu.com-oneword-domains&utm_content=table.link)        |
+| .EU            | 1            | [Extract](https://github.com/UniqueDomains/eu-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=eu-oneword-domains&utm_content=table.link)            |
+| .EVENTS        | 1            | [Extract](https://github.com/UniqueDomains/events-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=events-oneword-domains&utm_content=table.link)        |
+| .EXCHANGE      | 0            | [Extract](https://github.com/UniqueDomains/exchange-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=exchange-oneword-domains&utm_content=table.link)      |
+| .EXPERT        | 4,270        | [Extract](https://github.com/UniqueDomains/expert-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expert-oneword-domains&utm_content=table.link)        |
+| .EXPOSED       | 1            | [Extract](https://github.com/UniqueDomains/exposed-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=exposed-oneword-domains&utm_content=table.link)       |
+| .EXPRESS       | 0            | [Extract](https://github.com/UniqueDomains/express-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=express-oneword-domains&utm_content=table.link)       |
+| .FAIL          | 0            | [Extract](https://github.com/UniqueDomains/fail-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fail-oneword-domains&utm_content=table.link)          |
+| .FAITH         | 1            | [Extract](https://github.com/UniqueDomains/faith-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=faith-oneword-domains&utm_content=table.link)         |
+| .FAMILY        | 1            | [Extract](https://github.com/UniqueDomains/family-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=family-oneword-domains&utm_content=table.link)        |
+| .FAN           | 1            | [Extract](https://github.com/UniqueDomains/fan-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fan-oneword-domains&utm_content=table.link)           |
+| .FANS          | 1            | [Extract](https://github.com/UniqueDomains/fans-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fans-oneword-domains&utm_content=table.link)          |
+| .FARM          | 0            | [Extract](https://github.com/UniqueDomains/farm-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=farm-oneword-domains&utm_content=table.link)          |
+| .FASHION       | 0            | [Extract](https://github.com/UniqueDomains/fashion-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=table.link)       |
+| .FEEDBACK      | 0            | [Extract](https://github.com/UniqueDomains/feedback-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=feedback-oneword-domains&utm_content=table.link)      |
+| .FILM          | 0            | [Extract](https://github.com/UniqueDomains/film-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=film-oneword-domains&utm_content=table.link)          |
+| .FINANCE       | 1            | [Extract](https://github.com/UniqueDomains/finance-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=finance-oneword-domains&utm_content=table.link)       |
+| .FINANCIAL     | 0            | [Extract](https://github.com/UniqueDomains/financial-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=financial-oneword-domains&utm_content=table.link)     |
+| .FISH          | 0            | [Extract](https://github.com/UniqueDomains/fish-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fish-oneword-domains&utm_content=table.link)          |
+| .FISHING       | 1            | [Extract](https://github.com/UniqueDomains/fishing-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fishing-oneword-domains&utm_content=table.link)       |
+| .FIT           | 1            | [Extract](https://github.com/UniqueDomains/fit-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fit-oneword-domains&utm_content=table.link)           |
+| .FITNESS       | 1            | [Extract](https://github.com/UniqueDomains/fitness-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fitness-oneword-domains&utm_content=table.link)       |
+| .FLIGHTS       | 1            | [Extract](https://github.com/UniqueDomains/flights-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=flights-oneword-domains&utm_content=table.link)       |
+| .FLORIST       | 1            | [Extract](https://github.com/UniqueDomains/florist-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=florist-oneword-domains&utm_content=table.link)       |
+| .FLOWERS       | 1            | [Extract](https://github.com/UniqueDomains/flowers-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=flowers-oneword-domains&utm_content=table.link)       |
+| .FM            | 0            | [Extract](https://github.com/UniqueDomains/fm-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fm-oneword-domains&utm_content=table.link)            |
+| .FOO           | 1            | [Extract](https://github.com/UniqueDomains/foo-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=foo-oneword-domains&utm_content=table.link)           |
+| .FOOD          | 1            | [Extract](https://github.com/UniqueDomains/food-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=food-oneword-domains&utm_content=table.link)          |
+| .FOOTBALL      | 1            | [Extract](https://github.com/UniqueDomains/football-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=football-oneword-domains&utm_content=table.link)      |
+| .FORSALE       | 1            | [Extract](https://github.com/UniqueDomains/forsale-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=forsale-oneword-domains&utm_content=table.link)       |
+| .FORUM         | 1            | [Extract](https://github.com/UniqueDomains/forum-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=forum-oneword-domains&utm_content=table.link)         |
+| .FOUNDATION    | 0            | [Extract](https://github.com/UniqueDomains/foundation-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=foundation-oneword-domains&utm_content=table.link)    |
+| .FUN           | 0            | [Extract](https://github.com/UniqueDomains/fun-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fun-oneword-domains&utm_content=table.link)           |
+| .FUND          | 1            | [Extract](https://github.com/UniqueDomains/fund-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fund-oneword-domains&utm_content=table.link)          |
+| .FURNITURE     | 1            | [Extract](https://github.com/UniqueDomains/furniture-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=furniture-oneword-domains&utm_content=table.link)     |
+| .FUTBOL        | 1            | [Extract](https://github.com/UniqueDomains/futbol-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=futbol-oneword-domains&utm_content=table.link)        |
+| .FYI           | 0            | [Extract](https://github.com/UniqueDomains/fyi-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fyi-oneword-domains&utm_content=table.link)           |
+| .GALLERY       | 0            | [Extract](https://github.com/UniqueDomains/gallery-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gallery-oneword-domains&utm_content=table.link)       |
+| .GAME          | 0            | [Extract](https://github.com/UniqueDomains/game-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=game-oneword-domains&utm_content=table.link)          |
+| .GAMES         | 1            | [Extract](https://github.com/UniqueDomains/games-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=games-oneword-domains&utm_content=table.link)         |
+| .GARDEN        | 0            | [Extract](https://github.com/UniqueDomains/garden-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=garden-oneword-domains&utm_content=table.link)        |
+| .GAY           | 0            | [Extract](https://github.com/UniqueDomains/gay-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gay-oneword-domains&utm_content=table.link)           |
+| .GG            | 3,716        | [Extract](https://github.com/UniqueDomains/gg-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gg-oneword-domains&utm_content=table.link)            |
+| .GIFT          | 0            | [Extract](https://github.com/UniqueDomains/gift-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gift-oneword-domains&utm_content=table.link)          |
+| .GIFTS         | 1            | [Extract](https://github.com/UniqueDomains/gifts-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gifts-oneword-domains&utm_content=table.link)         |
+| .GIVES         | 1            | [Extract](https://github.com/UniqueDomains/gives-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gives-oneword-domains&utm_content=table.link)         |
+| .GIVING        | 1            | [Extract](https://github.com/UniqueDomains/giving-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=giving-oneword-domains&utm_content=table.link)        |
+| .GLASS         | 0            | [Extract](https://github.com/UniqueDomains/glass-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=glass-oneword-domains&utm_content=table.link)         |
+| .GLOBAL        | 1            | [Extract](https://github.com/UniqueDomains/global-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=global-oneword-domains&utm_content=table.link)        |
+| .GMBH          | 0            | [Extract](https://github.com/UniqueDomains/gmbh-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gmbh-oneword-domains&utm_content=table.link)          |
+| .GOLD          | 1            | [Extract](https://github.com/UniqueDomains/gold-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gold-oneword-domains&utm_content=table.link)          |
+| .GOLF          | 1            | [Extract](https://github.com/UniqueDomains/golf-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=golf-oneword-domains&utm_content=table.link)          |
+| .GR.COM        | 0            | [Extract](https://github.com/UniqueDomains/gr.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gr.com-oneword-domains&utm_content=table.link)        |
+| .GRAPHICS      | 0            | [Extract](https://github.com/UniqueDomains/graphics-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=graphics-oneword-domains&utm_content=table.link)      |
+| .GRATIS        | 0            | [Extract](https://github.com/UniqueDomains/gratis-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gratis-oneword-domains&utm_content=table.link)        |
+| .GREEN         | 1            | [Extract](https://github.com/UniqueDomains/green-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=green-oneword-domains&utm_content=table.link)         |
+| .GRIPE         | 0            | [Extract](https://github.com/UniqueDomains/gripe-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=gripe-oneword-domains&utm_content=table.link)         |
+| .GROUP         | 1            | [Extract](https://github.com/UniqueDomains/group-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=group-oneword-domains&utm_content=table.link)         |
+| .GUIDE         | 0            | [Extract](https://github.com/UniqueDomains/guide-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=guide-oneword-domains&utm_content=table.link)         |
+| .GUITARS       | 1            | [Extract](https://github.com/UniqueDomains/guitars-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=guitars-oneword-domains&utm_content=table.link)       |
+| .GURU          | 0            | [Extract](https://github.com/UniqueDomains/guru-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=guru-oneword-domains&utm_content=table.link)          |
+| .HAIR          | 0            | [Extract](https://github.com/UniqueDomains/hair-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hair-oneword-domains&utm_content=table.link)          |
+| .HAUS          | 0            | [Extract](https://github.com/UniqueDomains/haus-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=haus-oneword-domains&utm_content=table.link)          |
+| .HEALTH        | 0            | [Extract](https://github.com/UniqueDomains/health-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=health-oneword-domains&utm_content=table.link)        |
+| .HEALTHCARE    | 0            | [Extract](https://github.com/UniqueDomains/healthcare-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=healthcare-oneword-domains&utm_content=table.link)    |
+| .HELP          | 0            | [Extract](https://github.com/UniqueDomains/help-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=help-oneword-domains&utm_content=table.link)          |
+| .HIPHOP        | 0            | [Extract](https://github.com/UniqueDomains/hiphop-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hiphop-oneword-domains&utm_content=table.link)        |
+| .HIV           | 1            | [Extract](https://github.com/UniqueDomains/hiv-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hiv-oneword-domains&utm_content=table.link)           |
+| .HOCKEY        | 1            | [Extract](https://github.com/UniqueDomains/hockey-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hockey-oneword-domains&utm_content=table.link)        |
+| .HOLDINGS      | 0            | [Extract](https://github.com/UniqueDomains/holdings-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=holdings-oneword-domains&utm_content=table.link)      |
+| .HOLIDAY       | 0            | [Extract](https://github.com/UniqueDomains/holiday-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=holiday-oneword-domains&utm_content=table.link)       |
+| .HOMES         | 1            | [Extract](https://github.com/UniqueDomains/homes-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=homes-oneword-domains&utm_content=table.link)         |
+| .HORSE         | 1            | [Extract](https://github.com/UniqueDomains/horse-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=horse-oneword-domains&utm_content=table.link)         |
+| .HOSPITAL      | 1            | [Extract](https://github.com/UniqueDomains/hospital-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hospital-oneword-domains&utm_content=table.link)      |
+| .HOST          | 1            | [Extract](https://github.com/UniqueDomains/host-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=host-oneword-domains&utm_content=table.link)          |
+| .HOSTING       | 1            | [Extract](https://github.com/UniqueDomains/hosting-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hosting-oneword-domains&utm_content=table.link)       |
+| .HOT           | 1            | [Extract](https://github.com/UniqueDomains/hot-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hot-oneword-domains&utm_content=table.link)           |
+| .HOUSE         | 1            | [Extract](https://github.com/UniqueDomains/house-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=house-oneword-domains&utm_content=table.link)         |
+| .HOW           | 1            | [Extract](https://github.com/UniqueDomains/how-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=how-oneword-domains&utm_content=table.link)           |
+| .ICU           | 1            | [Extract](https://github.com/UniqueDomains/icu-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=icu-oneword-domains&utm_content=table.link)           |
+| .IM            | 8            | [Extract](https://github.com/UniqueDomains/im-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=im-oneword-domains&utm_content=table.link)            |
+| .IMMO          | 0            | [Extract](https://github.com/UniqueDomains/immo-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=immo-oneword-domains&utm_content=table.link)          |
+| .IMMOBILIEN    | 1            | [Extract](https://github.com/UniqueDomains/immobilien-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=immobilien-oneword-domains&utm_content=table.link)    |
+| .IN            | 0            | [Extract](https://github.com/UniqueDomains/in-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=in-oneword-domains&utm_content=table.link)            |
+| .INC           | 0            | [Extract](https://github.com/UniqueDomains/inc-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=inc-oneword-domains&utm_content=table.link)           |
+| .INDUSTRIES    | 0            | [Extract](https://github.com/UniqueDomains/industries-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=industries-oneword-domains&utm_content=table.link)    |
+| .INFO          | 0            | [Extract](https://github.com/UniqueDomains/info-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=info-oneword-domains&utm_content=table.link)          |
+| .ING           | 1            | [Extract](https://github.com/UniqueDomains/ing-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ing-oneword-domains&utm_content=table.link)           |
+| .INK           | 0            | [Extract](https://github.com/UniqueDomains/ink-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ink-oneword-domains&utm_content=table.link)           |
+| .INSTITUTE     | 0            | [Extract](https://github.com/UniqueDomains/institute-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=institute-oneword-domains&utm_content=table.link)     |
+| .INSURE        | 1            | [Extract](https://github.com/UniqueDomains/insure-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=insure-oneword-domains&utm_content=table.link)        |
+| .INTERNATIONAL | 0            | [Extract](https://github.com/UniqueDomains/international-oneword-domains) | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=international-oneword-domains&utm_content=table.link) |
+| .INVESTMENTS   | 1            | [Extract](https://github.com/UniqueDomains/investments-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=investments-oneword-domains&utm_content=table.link)   |
+| .IO            | 1,538        | [Extract](https://github.com/UniqueDomains/io-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=io-oneword-domains&utm_content=table.link)            |
+| .IRISH         | 1            | [Extract](https://github.com/UniqueDomains/irish-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=irish-oneword-domains&utm_content=table.link)         |
+| .IT            | 1,702        | [Extract](https://github.com/UniqueDomains/it-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=it-oneword-domains&utm_content=table.link)            |
+| .JETZT         | 1            | [Extract](https://github.com/UniqueDomains/jetzt-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=jetzt-oneword-domains&utm_content=table.link)         |
+| .JEWELRY       | 1            | [Extract](https://github.com/UniqueDomains/jewelry-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=jewelry-oneword-domains&utm_content=table.link)       |
+| .JPN.COM       | 0            | [Extract](https://github.com/UniqueDomains/jpn.com-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=jpn.com-oneword-domains&utm_content=table.link)       |
+| .JUEGOS        | 1            | [Extract](https://github.com/UniqueDomains/juegos-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=juegos-oneword-domains&utm_content=table.link)        |
+| .KAUFEN        | 1            | [Extract](https://github.com/UniqueDomains/kaufen-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=kaufen-oneword-domains&utm_content=table.link)        |
+| .KIDS          | 1            | [Extract](https://github.com/UniqueDomains/kids-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=table.link)          |
+| .KIM           | 0            | [Extract](https://github.com/UniqueDomains/kim-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=kim-oneword-domains&utm_content=table.link)           |
+| .KITCHEN       | 1            | [Extract](https://github.com/UniqueDomains/kitchen-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=kitchen-oneword-domains&utm_content=table.link)       |
+| .LA            | 7            | [Extract](https://github.com/UniqueDomains/la-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
+| .LAND          | 0            | [Extract](https://github.com/UniqueDomains/land-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=land-oneword-domains&utm_content=table.link)          |
+| .LAT           | 0            | [Extract](https://github.com/UniqueDomains/lat-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=table.link)           |
+| .LAW           | 1            | [Extract](https://github.com/UniqueDomains/law-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=law-oneword-domains&utm_content=table.link)           |
+| .LAWYER        | 1            | [Extract](https://github.com/UniqueDomains/lawyer-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lawyer-oneword-domains&utm_content=table.link)        |
+| .LEASE         | 0            | [Extract](https://github.com/UniqueDomains/lease-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lease-oneword-domains&utm_content=table.link)         |
+| .LEGAL         | 0            | [Extract](https://github.com/UniqueDomains/legal-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=legal-oneword-domains&utm_content=table.link)         |
+| .LGBT          | 0            | [Extract](https://github.com/UniqueDomains/lgbt-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lgbt-oneword-domains&utm_content=table.link)          |
+| .LIFE          | 1            | [Extract](https://github.com/UniqueDomains/life-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=life-oneword-domains&utm_content=table.link)          |
+| .LIFESTYLE     | 1            | [Extract](https://github.com/UniqueDomains/lifestyle-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lifestyle-oneword-domains&utm_content=table.link)     |
+| .LIGHTING      | 1            | [Extract](https://github.com/UniqueDomains/lighting-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lighting-oneword-domains&utm_content=table.link)      |
+| .LIMITED       | 0            | [Extract](https://github.com/UniqueDomains/limited-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=limited-oneword-domains&utm_content=table.link)       |
+| .LIMO          | 0            | [Extract](https://github.com/UniqueDomains/limo-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=limo-oneword-domains&utm_content=table.link)          |
+| .LINK          | 0            | [Extract](https://github.com/UniqueDomains/link-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=link-oneword-domains&utm_content=table.link)          |
+| .LIVE          | 1            | [Extract](https://github.com/UniqueDomains/live-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=live-oneword-domains&utm_content=table.link)          |
+| .LIVING        | 1            | [Extract](https://github.com/UniqueDomains/living-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=living-oneword-domains&utm_content=table.link)        |
+| .LLC           | 0            | [Extract](https://github.com/UniqueDomains/llc-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=llc-oneword-domains&utm_content=table.link)           |
+| .LOAN          | 1            | [Extract](https://github.com/UniqueDomains/loan-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=loan-oneword-domains&utm_content=table.link)          |
+| .LOANS         | 0            | [Extract](https://github.com/UniqueDomains/loans-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=loans-oneword-domains&utm_content=table.link)         |
+| .LOCKER        | 1            | [Extract](https://github.com/UniqueDomains/locker-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=locker-oneword-domains&utm_content=table.link)        |
+| .LOL           | 0            | [Extract](https://github.com/UniqueDomains/lol-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lol-oneword-domains&utm_content=table.link)           |
+| .LONDON        | 0            | [Extract](https://github.com/UniqueDomains/london-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=london-oneword-domains&utm_content=table.link)        |
+| .LOVE          | 0            | [Extract](https://github.com/UniqueDomains/love-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=love-oneword-domains&utm_content=table.link)          |
+| .LTD           | 0            | [Extract](https://github.com/UniqueDomains/ltd-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ltd-oneword-domains&utm_content=table.link)           |
+| .LTDA          | 1            | [Extract](https://github.com/UniqueDomains/ltda-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ltda-oneword-domains&utm_content=table.link)          |
+| .LUXE          | 1            | [Extract](https://github.com/UniqueDomains/luxe-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=luxe-oneword-domains&utm_content=table.link)          |
+| .LUXURY        | 0            | [Extract](https://github.com/UniqueDomains/luxury-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=luxury-oneword-domains&utm_content=table.link)        |
+| .MAISON        | 1            | [Extract](https://github.com/UniqueDomains/maison-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=maison-oneword-domains&utm_content=table.link)        |
+| .MAKEUP        | 0            | [Extract](https://github.com/UniqueDomains/makeup-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=makeup-oneword-domains&utm_content=table.link)        |
+| .MANAGEMENT    | 0            | [Extract](https://github.com/UniqueDomains/management-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=management-oneword-domains&utm_content=table.link)    |
+| .MARKET        | 0            | [Extract](https://github.com/UniqueDomains/market-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=market-oneword-domains&utm_content=table.link)        |
+| .MARKETING     | 1            | [Extract](https://github.com/UniqueDomains/marketing-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=marketing-oneword-domains&utm_content=table.link)     |
+| .MBA           | 1            | [Extract](https://github.com/UniqueDomains/mba-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mba-oneword-domains&utm_content=table.link)           |
+| .ME            | 1,868        | [Extract](https://github.com/UniqueDomains/me-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=me-oneword-domains&utm_content=table.link)            |
+| .MEDIA         | 0            | [Extract](https://github.com/UniqueDomains/media-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=table.link)         |
+| .MELBOURNE     | 1            | [Extract](https://github.com/UniqueDomains/melbourne-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=table.link)     |
+| .MEME          | 1            | [Extract](https://github.com/UniqueDomains/meme-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=meme-oneword-domains&utm_content=table.link)          |
+| .MEMORIAL      | 1            | [Extract](https://github.com/UniqueDomains/memorial-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=memorial-oneword-domains&utm_content=table.link)      |
+| .MEN           | 1            | [Extract](https://github.com/UniqueDomains/men-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=men-oneword-domains&utm_content=table.link)           |
+| .MENU          | 1            | [Extract](https://github.com/UniqueDomains/menu-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=menu-oneword-domains&utm_content=table.link)          |
+| .MIAMI         | 0            | [Extract](https://github.com/UniqueDomains/miami-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=miami-oneword-domains&utm_content=table.link)         |
+| .MOBI          | 1            | [Extract](https://github.com/UniqueDomains/mobi-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mobi-oneword-domains&utm_content=table.link)          |
+| .MODA          | 0            | [Extract](https://github.com/UniqueDomains/moda-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=moda-oneword-domains&utm_content=table.link)          |
+| .MOE           | 0            | [Extract](https://github.com/UniqueDomains/moe-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=moe-oneword-domains&utm_content=table.link)           |
+| .MOM           | 0            | [Extract](https://github.com/UniqueDomains/mom-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mom-oneword-domains&utm_content=table.link)           |
+| .MONEY         | 1            | [Extract](https://github.com/UniqueDomains/money-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=money-oneword-domains&utm_content=table.link)         |
+| .MONSTER       | 0            | [Extract](https://github.com/UniqueDomains/monster-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=monster-oneword-domains&utm_content=table.link)       |
+| .MORTGAGE      | 1            | [Extract](https://github.com/UniqueDomains/mortgage-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mortgage-oneword-domains&utm_content=table.link)      |
+| .MOTORCYCLES   | 0            | [Extract](https://github.com/UniqueDomains/motorcycles-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=motorcycles-oneword-domains&utm_content=table.link)   |
+| .MOV           | 1            | [Extract](https://github.com/UniqueDomains/mov-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mov-oneword-domains&utm_content=table.link)           |
+| .MOVIE         | 1            | [Extract](https://github.com/UniqueDomains/movie-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=movie-oneword-domains&utm_content=table.link)         |
+| .MUSIC         | 1            | [Extract](https://github.com/UniqueDomains/music-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=music-oneword-domains&utm_content=table.link)         |
+| .MX            | 7            | [Extract](https://github.com/UniqueDomains/mx-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mx-oneword-domains&utm_content=table.link)            |
+| .MY            | 5            | [Extract](https://github.com/UniqueDomains/my-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=my-oneword-domains&utm_content=table.link)            |
+| .NAGOYA        | 0            | [Extract](https://github.com/UniqueDomains/nagoya-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=nagoya-oneword-domains&utm_content=table.link)        |
+| .NAME          | 0            | [Extract](https://github.com/UniqueDomains/name-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=name-oneword-domains&utm_content=table.link)          |
+| .NAVY          | 1            | [Extract](https://github.com/UniqueDomains/navy-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=navy-oneword-domains&utm_content=table.link)          |
+| .NET           | 906          | [Extract](https://github.com/UniqueDomains/net-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=net-oneword-domains&utm_content=table.link)           |
+| .NETWORK       | 0            | [Extract](https://github.com/UniqueDomains/network-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=network-oneword-domains&utm_content=table.link)       |
+| .NEWS          | 0            | [Extract](https://github.com/UniqueDomains/news-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=news-oneword-domains&utm_content=table.link)          |
+| .NEXUS         | 0            | [Extract](https://github.com/UniqueDomains/nexus-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=nexus-oneword-domains&utm_content=table.link)         |
+| .NGO           | 0            | [Extract](https://github.com/UniqueDomains/ngo-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ngo-oneword-domains&utm_content=table.link)           |
+| .NINJA         | 3,961        | [Extract](https://github.com/UniqueDomains/ninja-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ninja-oneword-domains&utm_content=table.link)         |
+| .NYC           | 0            | [Extract](https://github.com/UniqueDomains/nyc-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=nyc-oneword-domains&utm_content=table.link)           |
+| .OBSERVER      | 2            | [Extract](https://github.com/UniqueDomains/observer-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=observer-oneword-domains&utm_content=table.link)      |
+| .OKINAWA       | 3            | [Extract](https://github.com/UniqueDomains/okinawa-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=okinawa-oneword-domains&utm_content=table.link)       |
+| .ONE           | 0            | [Extract](https://github.com/UniqueDomains/one-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=one-oneword-domains&utm_content=table.link)           |
+| .ONG           | 0            | [Extract](https://github.com/UniqueDomains/ong-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ong-oneword-domains&utm_content=table.link)           |
+| .ONL           | 0            | [Extract](https://github.com/UniqueDomains/onl-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=onl-oneword-domains&utm_content=table.link)           |
+| .ONLINE        | 3,605        | [Extract](https://github.com/UniqueDomains/online-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=online-oneword-domains&utm_content=table.link)        |
+| .OOO           | 0            | [Extract](https://github.com/UniqueDomains/ooo-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ooo-oneword-domains&utm_content=table.link)           |
+| .ORG           | 874          | [Extract](https://github.com/UniqueDomains/org-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=org-oneword-domains&utm_content=table.link)           |
+| .ORGANIC       | 0            | [Extract](https://github.com/UniqueDomains/organic-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=organic-oneword-domains&utm_content=table.link)       |
+| .OSAKA         | 1            | [Extract](https://github.com/UniqueDomains/osaka-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=osaka-oneword-domains&utm_content=table.link)         |
+| .PAGE          | 0            | [Extract](https://github.com/UniqueDomains/page-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=page-oneword-domains&utm_content=table.link)          |
+| .PARTNERS      | 0            | [Extract](https://github.com/UniqueDomains/partners-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=partners-oneword-domains&utm_content=table.link)      |
+| .PARTS         | 1            | [Extract](https://github.com/UniqueDomains/parts-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=parts-oneword-domains&utm_content=table.link)         |
+| .PARTY         | 1            | [Extract](https://github.com/UniqueDomains/party-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=party-oneword-domains&utm_content=table.link)         |
+| .PET           | 0            | [Extract](https://github.com/UniqueDomains/pet-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pet-oneword-domains&utm_content=table.link)           |
+| .PH            | 0            | [Extract](https://github.com/UniqueDomains/ph-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ph-oneword-domains&utm_content=table.link)            |
+| .PHD           | 1            | [Extract](https://github.com/UniqueDomains/phd-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=phd-oneword-domains&utm_content=table.link)           |
+| .PHOTO         | 0            | [Extract](https://github.com/UniqueDomains/photo-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=photo-oneword-domains&utm_content=table.link)         |
+| .PHOTOGRAPHY   | 0            | [Extract](https://github.com/UniqueDomains/photography-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=photography-oneword-domains&utm_content=table.link)   |
+| .PHOTOS        | 0            | [Extract](https://github.com/UniqueDomains/photos-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=photos-oneword-domains&utm_content=table.link)        |
+| .PICS          | 0            | [Extract](https://github.com/UniqueDomains/pics-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pics-oneword-domains&utm_content=table.link)          |
+| .PICTURES      | 0            | [Extract](https://github.com/UniqueDomains/pictures-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pictures-oneword-domains&utm_content=table.link)      |
+| .PINK          | 0            | [Extract](https://github.com/UniqueDomains/pink-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pink-oneword-domains&utm_content=table.link)          |
+| .PIZZA         | 0            | [Extract](https://github.com/UniqueDomains/pizza-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pizza-oneword-domains&utm_content=table.link)         |
+| .PLACE         | 0            | [Extract](https://github.com/UniqueDomains/place-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=place-oneword-domains&utm_content=table.link)         |
+| .PLUMBING      | 1            | [Extract](https://github.com/UniqueDomains/plumbing-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=plumbing-oneword-domains&utm_content=table.link)      |
+| .PLUS          | 1            | [Extract](https://github.com/UniqueDomains/plus-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=plus-oneword-domains&utm_content=table.link)          |
+| .POKER         | 0            | [Extract](https://github.com/UniqueDomains/poker-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=poker-oneword-domains&utm_content=table.link)         |
+| .PORN          | 0            | [Extract](https://github.com/UniqueDomains/porn-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=porn-oneword-domains&utm_content=table.link)          |
+| .PRESS         | 1            | [Extract](https://github.com/UniqueDomains/press-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=press-oneword-domains&utm_content=table.link)         |
+| .PRO           | 2,369        | [Extract](https://github.com/UniqueDomains/pro-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pro-oneword-domains&utm_content=table.link)           |
+| .PRODUCTIONS   | 0            | [Extract](https://github.com/UniqueDomains/productions-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=productions-oneword-domains&utm_content=table.link)   |
+| .PROF          | 1            | [Extract](https://github.com/UniqueDomains/prof-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=prof-oneword-domains&utm_content=table.link)          |
+| .PROMO         | 0            | [Extract](https://github.com/UniqueDomains/promo-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=promo-oneword-domains&utm_content=table.link)         |
+| .PROPERTIES    | 0            | [Extract](https://github.com/UniqueDomains/properties-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=properties-oneword-domains&utm_content=table.link)    |
+| .PROPERTY      | 1            | [Extract](https://github.com/UniqueDomains/property-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=property-oneword-domains&utm_content=table.link)      |
+| .PROTECTION    | 1            | [Extract](https://github.com/UniqueDomains/protection-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=protection-oneword-domains&utm_content=table.link)    |
+| .PUB           | 0            | [Extract](https://github.com/UniqueDomains/pub-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pub-oneword-domains&utm_content=table.link)           |
+| .PW            | 1            | [Extract](https://github.com/UniqueDomains/pw-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pw-oneword-domains&utm_content=table.link)            |
+| .QPON          | 1            | [Extract](https://github.com/UniqueDomains/qpon-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=qpon-oneword-domains&utm_content=table.link)          |
+| .QUEST         | 0            | [Extract](https://github.com/UniqueDomains/quest-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=quest-oneword-domains&utm_content=table.link)         |
+| .RACING        | 0            | [Extract](https://github.com/UniqueDomains/racing-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=racing-oneword-domains&utm_content=table.link)        |
+| .REALTY        | 1            | [Extract](https://github.com/UniqueDomains/realty-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=realty-oneword-domains&utm_content=table.link)        |
+| .RECIPES       | 0            | [Extract](https://github.com/UniqueDomains/recipes-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=recipes-oneword-domains&utm_content=table.link)       |
+| .RED           | 0            | [Extract](https://github.com/UniqueDomains/red-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=red-oneword-domains&utm_content=table.link)           |
+| .REHAB         | 1            | [Extract](https://github.com/UniqueDomains/rehab-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rehab-oneword-domains&utm_content=table.link)         |
+| .REISE         | 1            | [Extract](https://github.com/UniqueDomains/reise-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=reise-oneword-domains&utm_content=table.link)         |
+| .REISEN        | 0            | [Extract](https://github.com/UniqueDomains/reisen-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=reisen-oneword-domains&utm_content=table.link)        |
+| .RENT          | 0            | [Extract](https://github.com/UniqueDomains/rent-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rent-oneword-domains&utm_content=table.link)          |
+| .RENTALS       | 0            | [Extract](https://github.com/UniqueDomains/rentals-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rentals-oneword-domains&utm_content=table.link)       |
+| .REPAIR        | 0            | [Extract](https://github.com/UniqueDomains/repair-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=repair-oneword-domains&utm_content=table.link)        |
+| .REPORT        | 0            | [Extract](https://github.com/UniqueDomains/report-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=report-oneword-domains&utm_content=table.link)        |
+| .REPUBLICAN    | 0            | [Extract](https://github.com/UniqueDomains/republican-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=republican-oneword-domains&utm_content=table.link)    |
+| .REST          | 0            | [Extract](https://github.com/UniqueDomains/rest-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rest-oneword-domains&utm_content=table.link)          |
+| .RESTAURANT    | 0            | [Extract](https://github.com/UniqueDomains/restaurant-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=restaurant-oneword-domains&utm_content=table.link)    |
+| .REVIEW        | 0            | [Extract](https://github.com/UniqueDomains/review-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=review-oneword-domains&utm_content=table.link)        |
+| .REVIEWS       | 0            | [Extract](https://github.com/UniqueDomains/reviews-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=reviews-oneword-domains&utm_content=table.link)       |
+| .RICH          | 0            | [Extract](https://github.com/UniqueDomains/rich-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rich-oneword-domains&utm_content=table.link)          |
+| .RIP           | 0            | [Extract](https://github.com/UniqueDomains/rip-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rip-oneword-domains&utm_content=table.link)           |
+| .ROCKS         | 0            | [Extract](https://github.com/UniqueDomains/rocks-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rocks-oneword-domains&utm_content=table.link)         |
+| .RODEO         | 0            | [Extract](https://github.com/UniqueDomains/rodeo-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rodeo-oneword-domains&utm_content=table.link)         |
+| .RSVP          | 0            | [Extract](https://github.com/UniqueDomains/rsvp-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=rsvp-oneword-domains&utm_content=table.link)          |
+| .RU.COM        | 0            | [Extract](https://github.com/UniqueDomains/ru.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ru.com-oneword-domains&utm_content=table.link)        |
+| .RUN           | 0            | [Extract](https://github.com/UniqueDomains/run-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=run-oneword-domains&utm_content=table.link)           |
+| .RYUKYU        | 2            | [Extract](https://github.com/UniqueDomains/ryukyu-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ryukyu-oneword-domains&utm_content=table.link)        |
+| .SA.COM        | 0            | [Extract](https://github.com/UniqueDomains/sa.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sa.com-oneword-domains&utm_content=table.link)        |
+| .SALE          | 0            | [Extract](https://github.com/UniqueDomains/sale-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sale-oneword-domains&utm_content=table.link)          |
+| .SALON         | 0            | [Extract](https://github.com/UniqueDomains/salon-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=salon-oneword-domains&utm_content=table.link)         |
+| .SARL          | 0            | [Extract](https://github.com/UniqueDomains/sarl-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sarl-oneword-domains&utm_content=table.link)          |
+| .SBS           | 0            | [Extract](https://github.com/UniqueDomains/sbs-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sbs-oneword-domains&utm_content=table.link)           |
+| .SCHOOL        | 0            | [Extract](https://github.com/UniqueDomains/school-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=school-oneword-domains&utm_content=table.link)        |
+| .SCHULE        | 0            | [Extract](https://github.com/UniqueDomains/schule-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=schule-oneword-domains&utm_content=table.link)        |
+| .SCIENCE       | 0            | [Extract](https://github.com/UniqueDomains/science-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science-oneword-domains&utm_content=table.link)       |
+| .SE.NET        | 0            | [Extract](https://github.com/UniqueDomains/se.net-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=se.net-oneword-domains&utm_content=table.link)        |
+| .SECURITY      | 0            | [Extract](https://github.com/UniqueDomains/security-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=security-oneword-domains&utm_content=table.link)      |
+| .SERVICES      | 0            | [Extract](https://github.com/UniqueDomains/services-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=services-oneword-domains&utm_content=table.link)      |
+| .SEXY          | 0            | [Extract](https://github.com/UniqueDomains/sexy-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sexy-oneword-domains&utm_content=table.link)          |
+| .SH            | 4            | [Extract](https://github.com/UniqueDomains/sh-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sh-oneword-domains&utm_content=table.link)            |
+| .SHIKSHA       | 0            | [Extract](https://github.com/UniqueDomains/shiksha-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shiksha-oneword-domains&utm_content=table.link)       |
+| .SHOES         | 0            | [Extract](https://github.com/UniqueDomains/shoes-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shoes-oneword-domains&utm_content=table.link)         |
+| .SHOP          | 224          | [Extract](https://github.com/UniqueDomains/shop-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=table.link)          |
+| .SHOPPING      | 0            | [Extract](https://github.com/UniqueDomains/shopping-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shopping-oneword-domains&utm_content=table.link)      |
+| .SHOW          | 0            | [Extract](https://github.com/UniqueDomains/show-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=show-oneword-domains&utm_content=table.link)          |
+| .SINGLES       | 0            | [Extract](https://github.com/UniqueDomains/singles-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=singles-oneword-domains&utm_content=table.link)       |
+| .SITE          | 3,972        | [Extract](https://github.com/UniqueDomains/site-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=site-oneword-domains&utm_content=table.link)          |
+| .SKI           | 0            | [Extract](https://github.com/UniqueDomains/ski-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ski-oneword-domains&utm_content=table.link)           |
+| .SKIN          | 0            | [Extract](https://github.com/UniqueDomains/skin-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=skin-oneword-domains&utm_content=table.link)          |
+| .SO            | 3,760        | [Extract](https://github.com/UniqueDomains/so-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=so-oneword-domains&utm_content=table.link)            |
+| .SOCCER        | 0            | [Extract](https://github.com/UniqueDomains/soccer-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=soccer-oneword-domains&utm_content=table.link)        |
+| .SOCIAL        | 0            | [Extract](https://github.com/UniqueDomains/social-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=social-oneword-domains&utm_content=table.link)        |
+| .SOFTWARE      | 0            | [Extract](https://github.com/UniqueDomains/software-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=software-oneword-domains&utm_content=table.link)      |
+| .SOLAR         | 0            | [Extract](https://github.com/UniqueDomains/solar-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=solar-oneword-domains&utm_content=table.link)         |
+| .SOLUTIONS     | 0            | [Extract](https://github.com/UniqueDomains/solutions-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=solutions-oneword-domains&utm_content=table.link)     |
+| .SOY           | 0            | [Extract](https://github.com/UniqueDomains/soy-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=soy-oneword-domains&utm_content=table.link)           |
+| .SPACE         | 4,045        | [Extract](https://github.com/UniqueDomains/space-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=space-oneword-domains&utm_content=table.link)         |
+| .SPOT          | 0            | [Extract](https://github.com/UniqueDomains/spot-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=spot-oneword-domains&utm_content=table.link)          |
+| .SRL           | 0            | [Extract](https://github.com/UniqueDomains/srl-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=srl-oneword-domains&utm_content=table.link)           |
+| .STORAGE       | 0            | [Extract](https://github.com/UniqueDomains/storage-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=storage-oneword-domains&utm_content=table.link)       |
+| .STORE         | 3,504        | [Extract](https://github.com/UniqueDomains/store-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=store-oneword-domains&utm_content=table.link)         |
+| .STREAM        | 0            | [Extract](https://github.com/UniqueDomains/stream-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=stream-oneword-domains&utm_content=table.link)        |
+| .STUDIO        | 0            | [Extract](https://github.com/UniqueDomains/studio-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=studio-oneword-domains&utm_content=table.link)        |
+| .STUDY         | 0            | [Extract](https://github.com/UniqueDomains/study-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=study-oneword-domains&utm_content=table.link)         |
+| .STYLE         | 0            | [Extract](https://github.com/UniqueDomains/style-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=style-oneword-domains&utm_content=table.link)         |
+| .SUCKS         | 0            | [Extract](https://github.com/UniqueDomains/sucks-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sucks-oneword-domains&utm_content=table.link)         |
+| .SUPPLIES      | 0            | [Extract](https://github.com/UniqueDomains/supplies-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=supplies-oneword-domains&utm_content=table.link)      |
+| .SUPPLY        | 0            | [Extract](https://github.com/UniqueDomains/supply-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=supply-oneword-domains&utm_content=table.link)        |
+| .SUPPORT       | 0            | [Extract](https://github.com/UniqueDomains/support-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=support-oneword-domains&utm_content=table.link)       |
+| .SURF          | 0            | [Extract](https://github.com/UniqueDomains/surf-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=surf-oneword-domains&utm_content=table.link)          |
+| .SURGERY       | 0            | [Extract](https://github.com/UniqueDomains/surgery-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=surgery-oneword-domains&utm_content=table.link)       |
+| .SYDNEY        | 0            | [Extract](https://github.com/UniqueDomains/sydney-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=sydney-oneword-domains&utm_content=table.link)        |
+| .SYSTEMS       | 0            | [Extract](https://github.com/UniqueDomains/systems-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=systems-oneword-domains&utm_content=table.link)       |
+| .TATTOO        | 0            | [Extract](https://github.com/UniqueDomains/tattoo-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tattoo-oneword-domains&utm_content=table.link)        |
+| .TAX           | 0            | [Extract](https://github.com/UniqueDomains/tax-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tax-oneword-domains&utm_content=table.link)           |
+| .TAXI          | 0            | [Extract](https://github.com/UniqueDomains/taxi-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=taxi-oneword-domains&utm_content=table.link)          |
+| .TEAM          | 0            | [Extract](https://github.com/UniqueDomains/team-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=team-oneword-domains&utm_content=table.link)          |
+| .TECH          | 3,148        | [Extract](https://github.com/UniqueDomains/tech-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tech-oneword-domains&utm_content=table.link)          |
+| .TECHNOLOGY    | 0            | [Extract](https://github.com/UniqueDomains/technology-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology-oneword-domains&utm_content=table.link)    |
+| .TEL           | 0            | [Extract](https://github.com/UniqueDomains/tel-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tel-oneword-domains&utm_content=table.link)           |
+| .TENNIS        | 0            | [Extract](https://github.com/UniqueDomains/tennis-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tennis-oneword-domains&utm_content=table.link)        |
+| .THEATER       | 0            | [Extract](https://github.com/UniqueDomains/theater-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=theater-oneword-domains&utm_content=table.link)       |
+| .THEATRE       | 0            | [Extract](https://github.com/UniqueDomains/theatre-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=theatre-oneword-domains&utm_content=table.link)       |
+| .TICKETS       | 0            | [Extract](https://github.com/UniqueDomains/tickets-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tickets-oneword-domains&utm_content=table.link)       |
+| .TIENDA        | 0            | [Extract](https://github.com/UniqueDomains/tienda-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tienda-oneword-domains&utm_content=table.link)        |
+| .TIPS          | 0            | [Extract](https://github.com/UniqueDomains/tips-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tips-oneword-domains&utm_content=table.link)          |
+| .TIRES         | 0            | [Extract](https://github.com/UniqueDomains/tires-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tires-oneword-domains&utm_content=table.link)         |
+| .TODAY         | 0            | [Extract](https://github.com/UniqueDomains/today-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=today-oneword-domains&utm_content=table.link)         |
+| .TOKYO         | 0            | [Extract](https://github.com/UniqueDomains/tokyo-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tokyo-oneword-domains&utm_content=table.link)         |
+| .TOOLS         | 0            | [Extract](https://github.com/UniqueDomains/tools-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tools-oneword-domains&utm_content=table.link)         |
+| .TOP           | 0            | [Extract](https://github.com/UniqueDomains/top-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=top-oneword-domains&utm_content=table.link)           |
+| .TOURS         | 0            | [Extract](https://github.com/UniqueDomains/tours-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tours-oneword-domains&utm_content=table.link)         |
+| .TOWN          | 0            | [Extract](https://github.com/UniqueDomains/town-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=town-oneword-domains&utm_content=table.link)          |
+| .TOYS          | 0            | [Extract](https://github.com/UniqueDomains/toys-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=toys-oneword-domains&utm_content=table.link)          |
+| .TRADE         | 0            | [Extract](https://github.com/UniqueDomains/trade-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=trade-oneword-domains&utm_content=table.link)         |
+| .TRAINING      | 0            | [Extract](https://github.com/UniqueDomains/training-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=training-oneword-domains&utm_content=table.link)      |
+| .TRAVEL        | 0            | [Extract](https://github.com/UniqueDomains/travel-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=table.link)        |
+| .TUBE          | 0            | [Extract](https://github.com/UniqueDomains/tube-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tube-oneword-domains&utm_content=table.link)          |
+| .TV            | 0            | [Extract](https://github.com/UniqueDomains/tv-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tv-oneword-domains&utm_content=table.link)            |
+| .UK.COM        | 0            | [Extract](https://github.com/UniqueDomains/uk.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=uk.com-oneword-domains&utm_content=table.link)        |
+| .UK.NET        | 0            | [Extract](https://github.com/UniqueDomains/uk.net-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=uk.net-oneword-domains&utm_content=table.link)        |
+| .UK            | 0            | [Extract](https://github.com/UniqueDomains/uk-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=uk-oneword-domains&utm_content=table.link)            |
+| .UNIVERSITY    | 0            | [Extract](https://github.com/UniqueDomains/university-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=university-oneword-domains&utm_content=table.link)    |
+| .UNO           | 0            | [Extract](https://github.com/UniqueDomains/uno-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=uno-oneword-domains&utm_content=table.link)           |
+| .US.COM        | 0            | [Extract](https://github.com/UniqueDomains/us.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=us.com-oneword-domains&utm_content=table.link)        |
+| .US            | 1,595        | [Extract](https://github.com/UniqueDomains/us-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=us-oneword-domains&utm_content=table.link)            |
+| .VACATIONS     | 0            | [Extract](https://github.com/UniqueDomains/vacations-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vacations-oneword-domains&utm_content=table.link)     |
+| .VANA          | 0            | [Extract](https://github.com/UniqueDomains/vana-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vana-oneword-domains&utm_content=table.link)          |
+| .VC            | 3            | [Extract](https://github.com/UniqueDomains/vc-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vc-oneword-domains&utm_content=table.link)            |
+| .VEGAS         | 0            | [Extract](https://github.com/UniqueDomains/vegas-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vegas-oneword-domains&utm_content=table.link)         |
+| .VENTURES      | 0            | [Extract](https://github.com/UniqueDomains/ventures-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ventures-oneword-domains&utm_content=table.link)      |
+| .VET           | 0            | [Extract](https://github.com/UniqueDomains/vet-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vet-oneword-domains&utm_content=table.link)           |
+| .VIAJES        | 0            | [Extract](https://github.com/UniqueDomains/viajes-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=viajes-oneword-domains&utm_content=table.link)        |
+| .VIDEO         | 0            | [Extract](https://github.com/UniqueDomains/video-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=video-oneword-domains&utm_content=table.link)         |
+| .VILLAS        | 0            | [Extract](https://github.com/UniqueDomains/villas-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=villas-oneword-domains&utm_content=table.link)        |
+| .VIN           | 0            | [Extract](https://github.com/UniqueDomains/vin-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vin-oneword-domains&utm_content=table.link)           |
+| .VIP           | 0            | [Extract](https://github.com/UniqueDomains/vip-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vip-oneword-domains&utm_content=table.link)           |
+| .VISION        | 0            | [Extract](https://github.com/UniqueDomains/vision-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vision-oneword-domains&utm_content=table.link)        |
+| .VODKA         | 0            | [Extract](https://github.com/UniqueDomains/vodka-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vodka-oneword-domains&utm_content=table.link)         |
+| .VOTE          | 0            | [Extract](https://github.com/UniqueDomains/vote-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vote-oneword-domains&utm_content=table.link)          |
+| .VOTING        | 0            | [Extract](https://github.com/UniqueDomains/voting-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=voting-oneword-domains&utm_content=table.link)        |
+| .VOTO          | 0            | [Extract](https://github.com/UniqueDomains/voto-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=voto-oneword-domains&utm_content=table.link)          |
+| .VOYAGE        | 0            | [Extract](https://github.com/UniqueDomains/voyage-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=voyage-oneword-domains&utm_content=table.link)        |
+| .WATCH         | 0            | [Extract](https://github.com/UniqueDomains/watch-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=watch-oneword-domains&utm_content=table.link)         |
+| .WEBCAM        | 0            | [Extract](https://github.com/UniqueDomains/webcam-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=webcam-oneword-domains&utm_content=table.link)        |
+| .WEBSITE       | 0            | [Extract](https://github.com/UniqueDomains/website-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=website-oneword-domains&utm_content=table.link)       |
+| .WEDDING       | 0            | [Extract](https://github.com/UniqueDomains/wedding-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=wedding-oneword-domains&utm_content=table.link)       |
+| .WIKI          | 0            | [Extract](https://github.com/UniqueDomains/wiki-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=wiki-oneword-domains&utm_content=table.link)          |
+| .WIN           | 0            | [Extract](https://github.com/UniqueDomains/win-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=win-oneword-domains&utm_content=table.link)           |
+| .WINE          | 0            | [Extract](https://github.com/UniqueDomains/wine-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=wine-oneword-domains&utm_content=table.link)          |
+| .WORK          | 0            | [Extract](https://github.com/UniqueDomains/work-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=work-oneword-domains&utm_content=table.link)          |
+| .WORKS         | 0            | [Extract](https://github.com/UniqueDomains/works-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=works-oneword-domains&utm_content=table.link)         |
+| .WORLD         | 0            | [Extract](https://github.com/UniqueDomains/world-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=world-oneword-domains&utm_content=table.link)         |
+| .WS            | 4            | [Extract](https://github.com/UniqueDomains/ws-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ws-oneword-domains&utm_content=table.link)            |
+| .WTF           | 0            | [Extract](https://github.com/UniqueDomains/wtf-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=wtf-oneword-domains&utm_content=table.link)           |
+| .XN--3DS443G   | 0            | [Extract](https://github.com/UniqueDomains/xn--3ds443g-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=xn--3ds443g-oneword-domains&utm_content=table.link)   |
+| .XN--6FRZ82G   | 0            | [Extract](https://github.com/UniqueDomains/xn--6frz82g-oneword-domains)   | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=xn--6frz82g-oneword-domains&utm_content=table.link)   |
+| .XYZ           | 1,876        | [Extract](https://github.com/UniqueDomains/xyz-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=xyz-oneword-domains&utm_content=table.link)           |
+| .YACHTS        | 0            | [Extract](https://github.com/UniqueDomains/yachts-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=yachts-oneword-domains&utm_content=table.link)        |
+| .YOGA          | 0            | [Extract](https://github.com/UniqueDomains/yoga-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=yoga-oneword-domains&utm_content=table.link)          |
+| .YOKOHAMA      | 0            | [Extract](https://github.com/UniqueDomains/yokohama-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=yokohama-oneword-domains&utm_content=table.link)      |
+| .ZA.COM        | 0            | [Extract](https://github.com/UniqueDomains/za.com-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=za.com-oneword-domains&utm_content=table.link)        |
+| .ZIP           | 0            | [Extract](https://github.com/UniqueDomains/zip-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=zip-oneword-domains&utm_content=table.link)           |
+| .ZONE          | 3,537        | [Extract](https://github.com/UniqueDomains/zone-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=zone-oneword-domains&utm_content=table.link)          |
 ## By Sector
 
-- [Agriculture One word domains](https://github.com/UniqueDomains/Agriculture-oneword-domains): 1,835 domains
-- [Arts One word domains](https://github.com/UniqueDomains/Arts-oneword-domains): 1,299 domains
-- [Automotive One word domains](https://github.com/UniqueDomains/Automotive-oneword-domains): 1,421 domains
-- [Aviation One word domains](https://github.com/UniqueDomains/Aviation-oneword-domains): 1,762 domains
-- [Banking One word domains](https://github.com/UniqueDomains/Banking-oneword-domains): 2,106 domains
-- [Business One word domains](https://github.com/UniqueDomains/Business-oneword-domains): 1,339 domains
-- [Construction One word domains](https://github.com/UniqueDomains/Construction-oneword-domains): 2,011 domains
-- [Education One word domains](https://github.com/UniqueDomains/Education-oneword-domains): 1,255 domains
-- [Energy One word domains](https://github.com/UniqueDomains/Energy-oneword-domains): 1,283 domains
-- [Engineering One word domains](https://github.com/UniqueDomains/Engineering-oneword-domains): 1,529 domains
-- [Entertainment One word domains](https://github.com/UniqueDomains/Entertainment-oneword-domains): 1,132 domains
-- [Environment One word domains](https://github.com/UniqueDomains/Environment-oneword-domains): 1,337 domains
-- [Fashion One word domains](https://github.com/UniqueDomains/Fashion-oneword-domains): 1,194 domains
-- [Finance One word domains](https://github.com/UniqueDomains/Finance-oneword-domains): 2,040 domains
-- [Food and Beverage One word domains](https://github.com/UniqueDomains/Food and Beverage-oneword-domains): 1,313 domains
-- [General One word domains](https://github.com/UniqueDomains/General-oneword-domains): 2,827 domains
-- [Geography One word domains](https://github.com/UniqueDomains/Geography-oneword-domains): 1,100 domains
-- [Health and Fitness One word domains](https://github.com/UniqueDomains/Health and Fitness-oneword-domains): 1,676 domains
-- [Healthcare One word domains](https://github.com/UniqueDomains/Healthcare-oneword-domains): 1,694 domains
-- [Hospitality One word domains](https://github.com/UniqueDomains/Hospitality-oneword-domains): 1,569 domains
-- [Humanities One word domains](https://github.com/UniqueDomains/Humanities-oneword-domains): 1,217 domains
-- [Insurance One word domains](https://github.com/UniqueDomains/Insurance-oneword-domains): 1,347 domains
-- [Law One word domains](https://github.com/UniqueDomains/Law-oneword-domains): 1,412 domains
-- [Manufacturing One word domains](https://github.com/UniqueDomains/Manufacturing-oneword-domains): 1,801 domains
-- [Mathematics One word domains](https://github.com/UniqueDomains/Mathematics-oneword-domains): 1,204 domains
-- [Media One word domains](https://github.com/UniqueDomains/Media-oneword-domains): 1,227 domains
-- [Medicine One word domains](https://github.com/UniqueDomains/Medicine-oneword-domains): 1,098 domains
-- [Military One word domains](https://github.com/UniqueDomains/Military-oneword-domains): 1,145 domains
-- [Mining One word domains](https://github.com/UniqueDomains/Mining-oneword-domains): 1,011 domains
-- [Pharmaceuticals One word domains](https://github.com/UniqueDomains/Pharmaceuticals-oneword-domains): 878 domains
-- [Politics One word domains](https://github.com/UniqueDomains/Politics-oneword-domains): 2,436 domains
-- [Real Estate One word domains](https://github.com/UniqueDomains/Real Estate-oneword-domains): 1,343 domains
-- [Religion One word domains](https://github.com/UniqueDomains/Religion-oneword-domains): 1,454 domains
-- [Retail One word domains](https://github.com/UniqueDomains/Retail-oneword-domains): 2,143 domains
-- [Science One word domains](https://github.com/UniqueDomains/Science-oneword-domains): 1,249 domains
-- [Sports One word domains](https://github.com/UniqueDomains/Sports-oneword-domains): 1,285 domains
-- [Technology One word domains](https://github.com/UniqueDomains/Technology-oneword-domains): 1,345 domains
-- [Telecommunications One word domains](https://github.com/UniqueDomains/Telecommunications-oneword-domains): 1,811 domains
-- [Transportation One word domains](https://github.com/UniqueDomains/Transportation-oneword-domains): 1,122 domains
-- [Travel One word domains](https://github.com/UniqueDomains/Travel-oneword-domains): 1,286 domains
-- [Utilities One word domains](https://github.com/UniqueDomains/Utilities-oneword-domains): 1,171 domains
+| Name               | Total Number | Extract                                                                        | Full Database                                                                                                                                  |
+| ------------------ | ------------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Agriculture        | 1,835        | [Extract](https://github.com/UniqueDomains/Agriculture-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Agriculture-oneword-domains&utm_content=table.link)        |
+| Arts               | 1,299        | [Extract](https://github.com/UniqueDomains/Arts-oneword-domains)               | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Arts-oneword-domains&utm_content=table.link)               |
+| Automotive         | 1,421        | [Extract](https://github.com/UniqueDomains/Automotive-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Automotive-oneword-domains&utm_content=table.link)         |
+| Aviation           | 1,762        | [Extract](https://github.com/UniqueDomains/Aviation-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Aviation-oneword-domains&utm_content=table.link)           |
+| Banking            | 2,106        | [Extract](https://github.com/UniqueDomains/Banking-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Banking-oneword-domains&utm_content=table.link)            |
+| Business           | 1,339        | [Extract](https://github.com/UniqueDomains/Business-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=table.link)           |
+| Construction       | 2,011        | [Extract](https://github.com/UniqueDomains/Construction-oneword-domains)       | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=table.link)       |
+| Education          | 1,255        | [Extract](https://github.com/UniqueDomains/Education-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=table.link)          |
+| Energy             | 1,283        | [Extract](https://github.com/UniqueDomains/Energy-oneword-domains)             | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=table.link)             |
+| Engineering        | 1,529        | [Extract](https://github.com/UniqueDomains/Engineering-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=table.link)        |
+| Entertainment      | 1,132        | [Extract](https://github.com/UniqueDomains/Entertainment-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Entertainment-oneword-domains&utm_content=table.link)      |
+| Environment        | 1,337        | [Extract](https://github.com/UniqueDomains/Environment-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Environment-oneword-domains&utm_content=table.link)        |
+| Fashion            | 1,194        | [Extract](https://github.com/UniqueDomains/Fashion-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=table.link)            |
+| Finance            | 2,040        | [Extract](https://github.com/UniqueDomains/Finance-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=table.link)            |
+| Food and Beverage  | 1,313        | [Extract](https://github.com/UniqueDomains/Food and Beverage-oneword-domains)  | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Food and Beverage-oneword-domains&utm_content=table.link)  |
+| General            | 2,827        | [Extract](https://github.com/UniqueDomains/General-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=General-oneword-domains&utm_content=table.link)            |
+| Geography          | 1,100        | [Extract](https://github.com/UniqueDomains/Geography-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Geography-oneword-domains&utm_content=table.link)          |
+| Health and Fitness | 1,676        | [Extract](https://github.com/UniqueDomains/Health and Fitness-oneword-domains) | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Health and Fitness-oneword-domains&utm_content=table.link) |
+| Healthcare         | 1,694        | [Extract](https://github.com/UniqueDomains/Healthcare-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=table.link)         |
+| Hospitality        | 1,569        | [Extract](https://github.com/UniqueDomains/Hospitality-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Hospitality-oneword-domains&utm_content=table.link)        |
+| Humanities         | 1,217        | [Extract](https://github.com/UniqueDomains/Humanities-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Humanities-oneword-domains&utm_content=table.link)         |
+| Insurance          | 1,347        | [Extract](https://github.com/UniqueDomains/Insurance-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Insurance-oneword-domains&utm_content=table.link)          |
+| Law                | 1,412        | [Extract](https://github.com/UniqueDomains/Law-oneword-domains)                | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Law-oneword-domains&utm_content=table.link)                |
+| Manufacturing      | 1,801        | [Extract](https://github.com/UniqueDomains/Manufacturing-oneword-domains)      | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Manufacturing-oneword-domains&utm_content=table.link)      |
+| Mathematics        | 1,204        | [Extract](https://github.com/UniqueDomains/Mathematics-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Mathematics-oneword-domains&utm_content=table.link)        |
+| Media              | 1,227        | [Extract](https://github.com/UniqueDomains/Media-oneword-domains)              | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Media-oneword-domains&utm_content=table.link)              |
+| Medicine           | 1,098        | [Extract](https://github.com/UniqueDomains/Medicine-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Medicine-oneword-domains&utm_content=table.link)           |
+| Military           | 1,145        | [Extract](https://github.com/UniqueDomains/Military-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Military-oneword-domains&utm_content=table.link)           |
+| Mining             | 1,011        | [Extract](https://github.com/UniqueDomains/Mining-oneword-domains)             | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Mining-oneword-domains&utm_content=table.link)             |
+| Pharmaceuticals    | 878          | [Extract](https://github.com/UniqueDomains/Pharmaceuticals-oneword-domains)    | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Pharmaceuticals-oneword-domains&utm_content=table.link)    |
+| Politics           | 2,436        | [Extract](https://github.com/UniqueDomains/Politics-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Politics-oneword-domains&utm_content=table.link)           |
+| Real Estate        | 1,343        | [Extract](https://github.com/UniqueDomains/Real Estate-oneword-domains)        | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Real Estate-oneword-domains&utm_content=table.link)        |
+| Religion           | 1,454        | [Extract](https://github.com/UniqueDomains/Religion-oneword-domains)           | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Religion-oneword-domains&utm_content=table.link)           |
+| Retail             | 2,143        | [Extract](https://github.com/UniqueDomains/Retail-oneword-domains)             | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Retail-oneword-domains&utm_content=table.link)             |
+| Science            | 1,249        | [Extract](https://github.com/UniqueDomains/Science-oneword-domains)            | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=table.link)            |
+| Sports             | 1,285        | [Extract](https://github.com/UniqueDomains/Sports-oneword-domains)             | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Sports-oneword-domains&utm_content=table.link)             |
+| Technology         | 1,345        | [Extract](https://github.com/UniqueDomains/Technology-oneword-domains)         | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology-oneword-domains&utm_content=table.link)         |
+| Telecommunications | 1,811        | [Extract](https://github.com/UniqueDomains/Telecommunications-oneword-domains) | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Telecommunications-oneword-domains&utm_content=table.link) |
+| Transportation     | 1,122        | [Extract](https://github.com/UniqueDomains/Transportation-oneword-domains)     | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Transportation-oneword-domains&utm_content=table.link)     |
+| Travel             | 1,286        | [Extract](https://github.com/UniqueDomains/Travel-oneword-domains)             | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)             |
+| Utilities          | 1,171        | [Extract](https://github.com/UniqueDomains/Utilities-oneword-domains)          | [Database](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)          |
         
