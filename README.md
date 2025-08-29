@@ -1,13 +1,13 @@
 
-# List of Expired One Word Domain Names | 17,999
+# List of Expired One Word Domain Names (18,009)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() [![17,999 Expired one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-17%2C999-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() [![18,009 Expired one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-18%2C009-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential Expired one-word domains still available to buy.
 
 This dataset contains an extract of 1,000 Expired one word domains.
 
-If you need more, access the complete database of 17,999 **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.top)**.
+If you need more, access the complete database of 18,009 **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.top)** with demand, SEO & analysis, and get them at the lowest price.
 
 | Domain                                                                                                                                                                                           | Status  | Attract. | Demand | Length | Created          | Expires          | Actions                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -70,7 +70,7 @@ Spot short, memorable domain names that earn trust, dominate search engines, and
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 17,999       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expired  | 18,009       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 42,284       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 2,676,057    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
