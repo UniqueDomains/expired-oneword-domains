@@ -1,13 +1,11 @@
 
-# List of Expired One Word Domain Names (18,009)
+# List of Expired One Word Domain Names (18,022)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() [![18,009 Expired one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-18%2C009-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() [![18,022 Expired one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-18%2C022-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential Expired one-word domains still available to buy.
 
-This dataset contains an extract of 1,000 Expired one word domains. If you need more, access the complete database of 18,009 **[Expired one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.top)** with demand, SEO & analysis, and get them at the lowest price.
-
-**CSV: [Preview](https://github.com/UniqueDomains/expired-oneword-domains/blob/main/expired.csv) / [Download](https://github.com/UniqueDomains/expired-oneword-domains/raw/refs/heads/main/expired.csv) || JSON: [Preview](https://github.com/UniqueDomains/expired-oneword-domains/blob/main/expired.json) / [Download](https://github.com/UniqueDomains/expired-oneword-domains/raw/refs/heads/main/expired.json) || Full Database: [Browse](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.browse)**
+This dataset contains an extract of 1,000 Expired one word domains. If you need more, access the complete database of 18,022 **[Expired one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.top)** with demand, SEO & analysis, and get them at the lowest price.
 
 | Domain                                                                                                                                                                                           | Status  | Attract. | Demand | Length | Created          | Expires          | Actions                                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------- | ------ | ------ | ---------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -70,8 +68,8 @@ Spot short, memorable domain names that earn trust, dominate search engines, and
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 18,009       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 42,294       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expired  | 18,022       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 42,308       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 2,676,057    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
