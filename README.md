@@ -1,13 +1,13 @@
 
-# List of Expired One Word Domain Names (19,172)
+# List of Expired One Word Domain Names (19,386)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() [![19,172 Expired one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-19%2C172-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/expired-oneword-domains.svg?style=flat)]() [![19,386 Expired one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-19%2C386-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential Expired one-word domains still available to buy.
 
 This dataset contains 1,000 Expired one word domains with availability, attractiveness and demand scores.
 
-If you need more, access the complete database of **19,172 [Expired one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.top)** with SEO & valuation analysis, and get them at the lowest price.
+If you need more, access the complete database of **19,386 [Expired one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=description.top)** with SEO & valuation analysis, and get them at the lowest price.
 
 -----------
 
@@ -79,7 +79,7 @@ If you need more, access the complete database of **19,172 [Expired one word dom
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,172       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expired  | 19,386       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 44,507       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 2,881,227    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
@@ -312,9 +312,9 @@ If you need more, access the complete database of **19,172 [Expired one word dom
 | .HOLDINGS      | 3,196        | [Github](https://github.com/UniqueDomains/holdings-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=holdings-oneword-domains&utm_content=table.link)      |
 | .HOLIDAY       | 3,296        | [Github](https://github.com/UniqueDomains/holiday-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=holiday-oneword-domains&utm_content=table.link)       |
 | .HOMES         | 3,056        | [Github](https://github.com/UniqueDomains/homes-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=homes-oneword-domains&utm_content=table.link)         |
-| .HORSE         | 3,147        | [Github](https://github.com/UniqueDomains/horse-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=horse-oneword-domains&utm_content=table.link)         |
-| .HOSPITAL      | 3,246        | [Github](https://github.com/UniqueDomains/hospital-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=hospital-oneword-domains&utm_content=table.link)      |
-| .HOST          | 3,097        | [Github](https://github.com/UniqueDomains/host-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=host-oneword-domains&utm_content=table.link)          |
+| .HORSE         | 3,248        | [Github](https://github.com/UniqueDomains/horse-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=horse-oneword-domains&utm_content=table.link)         |
+| .HOSPITAL      | 3,359        | [Github](https://github.com/UniqueDomains/hospital-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=hospital-oneword-domains&utm_content=table.link)      |
+| .HOST          | 3,209        | [Github](https://github.com/UniqueDomains/host-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=host-oneword-domains&utm_content=table.link)          |
 | .HOSTING       | 3,220        | [Github](https://github.com/UniqueDomains/hosting-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=hosting-oneword-domains&utm_content=table.link)       |
 | .HOT           | 3,280        | [Github](https://github.com/UniqueDomains/hot-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=hot-oneword-domains&utm_content=table.link)           |
 | .HOUSE         | 2,888        | [Github](https://github.com/UniqueDomains/house-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=house-oneword-domains&utm_content=table.link)         |
