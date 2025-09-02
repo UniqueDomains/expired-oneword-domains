@@ -38,6 +38,7 @@ If you want to search & filters the complete database of [Expired one word domai
 | Abbott.ai          | expired | 52       | 96%    | 6      | Zenaida.cate.ai                                         | 16/12/2017 01:08 | 29/04/2025 01:08 |
 | abc.it             | expired | 102      | 92%    | 3      |                                                         | 29/01/1996 00:00 | 02/07/2025 00:00 |
 | ABCguide.net       | expired | 48       | 72%    | 9      | GoDaddy.com, LLC                                        | 15/05/2003 14:54 | 15/05/2025 14:54 |
+| abdominal.online   | expired | 82       | 1%     | 9      | Communigal Communications Ltd                           | 22/07/2024 00:11 | 22/07/2025 23:59 |
 | Abdulaziz.app      | expired | 50       | 88%    | 9      | CloudFlare, Inc.                                        | 15/05/2024 19:01 | 15/05/2025 19:01 |
 | Abdulaziz.pro      | expired | 50       | 88%    | 9      | HOSTINGER operations, UAB                               | 28/04/2024 14:12 | 28/04/2025 14:12 |
 | Abe.app            | expired | 62       | 92%    | 3      | Montenegro Domains, LLC                                 | 08/05/2018 06:34 | 08/05/2025 06:34 |
@@ -50,7 +51,6 @@ If you want to search & filters the complete database of [Expired one word domai
 | abilities.net      | expired | 70       | 48%    | 9      | Annulet LLC                                             | 05/07/2004 18:38 | 05/07/2025 18:38 |
 | abirritating.com   | expired | 46       | 4%     | 12     | NameCheap, Inc.                                         | 26/04/2024 12:43 | 26/04/2025 12:43 |
 | abit.it            | expired | 66       | 80%    | 5      |                                                         | 16/06/2020 09:00 | 02/07/2025 00:00 |
-| abit.store         | expired | 66       | 80%    | 5      | Communigal Communications Ltd                           | 13/05/2024 01:40 | 13/05/2025 23:59 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expired-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
