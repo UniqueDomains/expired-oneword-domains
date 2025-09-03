@@ -28,6 +28,7 @@ If you want to search & filters the complete database of [Expired one word domai
 | aarp.it            | expired | 58       | 76%    | 4      |                                                         | 14/06/2012 23:01 | 30/06/2025 00:00 |
 | aback.cloud        | expired | 76       | 80%    | 5      | HOSTINGER operations, UAB                               | 05/05/2024 09:18 | 05/05/2025 09:18 |
 | abacus.pro         | expired | 68       | 84%    | 6      | Regional Network Information Center, JSC dba RU-CENTER  | 19/05/2015 14:26 | 19/05/2025 14:26 |
+| abandoned.co       | expired | 58       | 10%    | 9      | NameCheap, Inc.                                         | 01/09/2019 20:13 | 01/09/2025 20:13 |
 | abandoned.world    | expired | 58       | 10%    | 9      | Name.com, Inc.                                          | 07/07/2015 00:51 | 07/07/2025 00:51 |
 | abate.it           | expired | 52       | 84%    | 5      |                                                         | 04/10/1999 00:00 | 07/07/2025 00:00 |
 | abatement.it       | expired | 52       | 80%    | 9      |                                                         |                  |                  |
@@ -47,10 +48,9 @@ If you want to search & filters the complete database of [Expired one word domai
 | Abell.it           | expired | 50       | 88%    | 5      |                                                         | 02/07/2024 11:33 | 02/07/2025 00:00 |
 | Aberystwyth.online | expired | 46       | 80%    | 11     | eNom, Inc.                                              | 30/04/2016 12:02 | 30/04/2025 23:59 |
 | abides.xyz         | expired | 70       | 20%    | 6      | eNom, Inc.                                              | 16/05/2023 17:12 | 16/05/2025 23:59 |
-| abiding.it         | expired | 106      | 5%     | 7      |                                                         | 01/09/2021 12:55 | 01/09/2025 00:00 |
+| abiding.it         | expired | 106      | 5%     | 7      |                                                         | 01/09/2021 12:55 | 01/09/2025 02:00 |
 | abigail.app        | expired | 54       | 76%    | 7      | GoDaddy.com, LLC                                        | 11/05/2018 00:35 | 11/05/2025 00:35 |
 | abilities.net      | expired | 70       | 48%    | 9      | Annulet LLC                                             | 05/07/2004 18:38 | 05/07/2025 18:38 |
-| abirritating.com   | expired | 46       | 4%     | 12     | NameCheap, Inc.                                         | 26/04/2024 12:43 | 26/04/2025 12:43 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expired-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
