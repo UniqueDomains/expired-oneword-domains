@@ -47,10 +47,10 @@ If you want to search & filters the complete database of [Expired one word domai
 | Abell.it           | expired | 50       | 88%    | 5      |                                                         | 02/07/2024 11:33 | 02/07/2025 00:00 |
 | Aberystwyth.online | expired | 46       | 80%    | 11     | eNom, Inc.                                              | 30/04/2016 12:02 | 30/04/2025 23:59 |
 | abides.xyz         | expired | 70       | 20%    | 6      | eNom, Inc.                                              | 16/05/2023 17:12 | 16/05/2025 23:59 |
+| abiding.it         | expired | 106      | 5%     | 7      |                                                         | 01/09/2021 12:55 | 01/09/2025 00:00 |
 | abigail.app        | expired | 54       | 76%    | 7      | GoDaddy.com, LLC                                        | 11/05/2018 00:35 | 11/05/2025 00:35 |
 | abilities.net      | expired | 70       | 48%    | 9      | Annulet LLC                                             | 05/07/2004 18:38 | 05/07/2025 18:38 |
 | abirritating.com   | expired | 46       | 4%     | 12     | NameCheap, Inc.                                         | 26/04/2024 12:43 | 26/04/2025 12:43 |
-| abit.it            | expired | 66       | 80%    | 5      |                                                         | 16/06/2020 09:00 | 02/07/2025 00:00 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expired-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [Expired one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 21,003       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 47,901       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,209,980    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -103,7 +102,6 @@ If you want to search & filters the complete database of [Expired one word domai
 | .ADULT         | 3,941        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
 | .AG            | 3,662        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 2,841        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
-| .AI            | 53,618       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
 | .AIRFORCE      | 3,989        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
 | .APARTMENTS    | 3,897        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
 | .APP           | 56,586       | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
