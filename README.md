@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [Expired one word domai
 | aarp.it          | expired | 58       | 76%    | 4      |                                                                    | 14/06/2012 23:01 | 30/06/2025 00:00 |
 | aback.cloud      | expired | 76       | 80%    | 5      | HOSTINGER operations, UAB                                          | 05/05/2024 09:18 | 05/05/2025 09:18 |
 | abacus.pro       | expired | 68       | 84%    | 6      | Regional Network Information Center, JSC dba RU-CENTER             | 19/05/2015 14:26 | 19/05/2025 14:26 |
-| abandoned.co     | expired | 58       | 10%    | 9      | NameCheap, Inc.                                                    | 01/09/2019 20:13 | 01/09/2025 20:13 |
+| abandoned.co     | expired | 58       | 10%    | 9      | NameCheap, Inc.                                                    | 01/09/2019 18:13 | 01/09/2025 18:13 |
 | abandoned.world  | expired | 58       | 10%    | 9      | Name.com, Inc.                                                     | 07/07/2015 00:51 | 07/07/2025 00:51 |
 | abate.it         | expired | 52       | 84%    | 5      |                                                                    | 04/10/1999 00:00 | 07/07/2025 00:00 |
 | abatement.it     | expired | 52       | 80%    | 9      |                                                                    |                  |                  |
