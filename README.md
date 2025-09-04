@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Expired one word domai
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status  | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
-| ------------------ | ------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
-| a.buzz             | expired | 58       | 5%     | 5      | Dot Strategy Co                                         | 15/08/2017 14:25 | 15/08/2025 14:25 |
-| aardvark.online    | expired | 64       | 92%    | 8      | Sav.com, LLC- 8                                         | 18/05/2024 08:40 | 18/05/2025 23:59 |
-| aardvark.tech      | expired | 64       | 92%    | 8      | IONOS SE                                                | 05/06/2016 17:26 | 05/06/2025 23:59 |
-| aardwolf.ai        | expired | 54       | 84%    | 8      | NameCheap, Inc.                                         | 15/05/2023 22:52 | 15/05/2025 22:52 |
-| aarp.it            | expired | 58       | 76%    | 4      |                                                         | 14/06/2012 23:01 | 30/06/2025 00:00 |
-| aback.cloud        | expired | 76       | 80%    | 5      | HOSTINGER operations, UAB                               | 05/05/2024 09:18 | 05/05/2025 09:18 |
-| abacus.pro         | expired | 68       | 84%    | 6      | Regional Network Information Center, JSC dba RU-CENTER  | 19/05/2015 14:26 | 19/05/2025 14:26 |
-| abandoned.co       | expired | 58       | 10%    | 9      | NameCheap, Inc.                                         | 01/09/2019 20:13 | 01/09/2025 20:13 |
-| abandoned.world    | expired | 58       | 10%    | 9      | Name.com, Inc.                                          | 07/07/2015 00:51 | 07/07/2025 00:51 |
-| abate.it           | expired | 52       | 84%    | 5      |                                                         | 04/10/1999 00:00 | 07/07/2025 00:00 |
-| abatement.it       | expired | 52       | 80%    | 9      |                                                         |                  |                  |
-| abaya.cloud        | expired | 50       | 88%    | 5      | Alibaba Cloud Computing Ltd.                            | 24/05/2024 05:16 | 24/05/2025 05:16 |
-| abaya.so           | expired | 50       | 88%    | 5      | Karraban                                                | 08/08/2015 00:00 | 08/08/2019 00:00 |
-| abaya.tech         | expired | 50       | 88%    | 5      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.     | 01/06/2024 00:45 | 01/06/2025 23:59 |
-| abaya.zone         | expired | 50       | 88%    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 23/05/2024 08:17 | 23/05/2025 08:17 |
-| Abbott.ai          | expired | 52       | 96%    | 6      | Zenaida.cate.ai                                         | 16/12/2017 01:08 | 29/04/2025 01:08 |
-| ABCguide.net       | expired | 48       | 72%    | 9      | GoDaddy.com, LLC                                        | 15/05/2003 14:54 | 15/05/2025 14:54 |
-| abdominal.online   | expired | 82       | 1%     | 9      | Communigal Communications Ltd                           | 22/07/2024 00:11 | 22/07/2025 23:59 |
-| Abdulaziz.app      | expired | 50       | 88%    | 9      | CloudFlare, Inc.                                        | 15/05/2024 19:01 | 15/05/2025 19:01 |
-| Abdulaziz.pro      | expired | 50       | 88%    | 9      | HOSTINGER operations, UAB                               | 28/04/2024 14:12 | 28/04/2025 14:12 |
-| Abe.app            | expired | 62       | 92%    | 3      | Montenegro Domains, LLC                                 | 08/05/2018 06:34 | 08/05/2025 06:34 |
-| abed.it            | expired | 60       | 80%    | 4      |                                                         | 13/06/2022 16:24 | 13/06/2025 00:00 |
-| abel.zone          | expired | 50       | 92%    | 4      | IONOS SE                                                | 11/06/2024 10:54 | 11/06/2025 10:54 |
-| Abell.it           | expired | 50       | 88%    | 5      |                                                         | 02/07/2024 11:33 | 02/07/2025 00:00 |
-| Aberystwyth.online | expired | 46       | 80%    | 11     | eNom, Inc.                                              | 30/04/2016 12:02 | 30/04/2025 23:59 |
-| abides.xyz         | expired | 70       | 20%    | 6      | eNom, Inc.                                              | 16/05/2023 17:12 | 16/05/2025 23:59 |
-| abiding.it         | expired | 106      | 5%     | 7      |                                                         | 01/09/2021 12:55 | 01/09/2025 02:00 |
-| abigail.app        | expired | 54       | 76%    | 7      | GoDaddy.com, LLC                                        | 11/05/2018 00:35 | 11/05/2025 00:35 |
-| abilities.net      | expired | 70       | 48%    | 9      | Annulet LLC                                             | 05/07/2004 18:38 | 05/07/2025 18:38 |
-| abirritating.com   | expired | 46       | 4%     | 12     | NameCheap, Inc.                                         | 26/04/2024 12:43 | 26/04/2025 12:43 |
+| Domain           | Status  | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
+| ---------------- | ------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
+| a.buzz           | expired | 58       | 5%     | 5      | Dot Strategy Co                                                    | 15/08/2017 14:25 | 15/08/2025 14:25 |
+| aaa.center       | expired | 70       | 38%    | 3      | GoDaddy.com, LLC                                                   | 11/07/2015 19:50 | 11/07/2025 19:50 |
+| aaa.immo         | expired | 70       | 38%    | 3      | Sav.com, LLC                                                       | 13/07/2024 17:15 | 13/07/2025 17:15 |
+| aardvark.online  | expired | 64       | 92%    | 8      | Sav.com, LLC- 8                                                    | 18/05/2024 08:40 | 18/05/2025 23:59 |
+| aardvark.tech    | expired | 64       | 92%    | 8      | IONOS SE                                                           | 05/06/2016 17:26 | 05/06/2025 23:59 |
+| aardwolf.ai      | expired | 54       | 84%    | 8      | NameCheap, Inc.                                                    | 15/05/2023 22:52 | 15/05/2025 22:52 |
+| aaron.marketing  | expired | 88       | 32%    | 5      | GoDaddy.com, LLC                                                   | 21/07/2023 12:25 | 21/07/2025 12:25 |
+| aaron.photos     | expired | 88       | 32%    | 5      | Gandi SAS                                                          | 13/07/2018 12:59 | 13/07/2025 12:59 |
+| aaron.software   | expired | 88       | 32%    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 25/06/2024 12:48 | 25/06/2025 12:48 |
+| aarp.it          | expired | 58       | 76%    | 4      |                                                                    | 14/06/2012 23:01 | 30/06/2025 00:00 |
+| aback.cloud      | expired | 76       | 80%    | 5      | HOSTINGER operations, UAB                                          | 05/05/2024 09:18 | 05/05/2025 09:18 |
+| abacus.pro       | expired | 68       | 84%    | 6      | Regional Network Information Center, JSC dba RU-CENTER             | 19/05/2015 14:26 | 19/05/2025 14:26 |
+| abandoned.co     | expired | 58       | 10%    | 9      | NameCheap, Inc.                                                    | 01/09/2019 20:13 | 01/09/2025 20:13 |
+| abandoned.world  | expired | 58       | 10%    | 9      | Name.com, Inc.                                                     | 07/07/2015 00:51 | 07/07/2025 00:51 |
+| abate.it         | expired | 52       | 84%    | 5      |                                                                    | 04/10/1999 00:00 | 07/07/2025 00:00 |
+| abatement.it     | expired | 52       | 80%    | 9      |                                                                    |                  |                  |
+| abaya.cloud      | expired | 50       | 88%    | 5      | Alibaba Cloud Computing Ltd.                                       | 24/05/2024 05:16 | 24/05/2025 05:16 |
+| abaya.so         | expired | 50       | 88%    | 5      | Karraban                                                           | 08/08/2015 00:00 | 08/08/2019 00:00 |
+| abaya.tech       | expired | 50       | 88%    | 5      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.                | 01/06/2024 00:45 | 01/06/2025 23:59 |
+| abaya.zone       | expired | 50       | 88%    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            | 23/05/2024 08:17 | 23/05/2025 08:17 |
+| Abbott.ai        | expired | 52       | 96%    | 6      | Zenaida.cate.ai                                                    | 16/12/2017 01:08 | 29/04/2025 01:08 |
+| abc.camera       | expired | 102      | 41%    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 10/07/2024 17:00 | 10/07/2025 17:00 |
+| abc.design       | expired | 102      | 41%    | 3      | DNSPod, Inc.                                                       | 20/08/2022 00:35 | 20/08/2025 00:35 |
+| abc.fun          | expired | 102      | 41%    | 3      | Gname.com Pte. Ltd.                                                | 23/07/2024 13:17 | 23/07/2025 23:59 |
+| ABCguide.net     | expired | 48       | 72%    | 9      | GoDaddy.com, LLC                                                   | 15/05/2003 14:54 | 15/05/2025 14:54 |
+| abdominal.online | expired | 82       | 1%     | 9      | Communigal Communications Ltd                                      | 22/07/2024 00:11 | 22/07/2025 23:59 |
+| Abdulaziz.app    | expired | 50       | 88%    | 9      | CloudFlare, Inc.                                                   | 15/05/2024 19:01 | 15/05/2025 19:01 |
+| Abdulaziz.pro    | expired | 50       | 88%    | 9      | HOSTINGER operations, UAB                                          | 28/04/2024 14:12 | 28/04/2025 14:12 |
+| Abe.app          | expired | 62       | 92%    | 3      | Montenegro Domains, LLC                                            | 08/05/2018 06:34 | 08/05/2025 06:34 |
+| abed.it          | expired | 60       | 80%    | 4      |                                                                    | 13/06/2022 16:24 | 13/06/2025 00:00 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expired-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
