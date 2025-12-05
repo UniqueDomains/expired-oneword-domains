@@ -33,7 +33,6 @@ If you want to search & filters the complete database of [Expired one word domai
 | aarp.it          | expired | 58       | 76%    | 4      |                                                                    | 14/06/2012 23:01 | 30/06/2025 00:00 |
 | aback.cloud      | expired | 76       | 80%    | 5      | HOSTINGER operations, UAB                                          | 05/05/2024 09:18 | 05/05/2025 09:18 |
 | abacus.pro       | expired | 68       | 84%    | 6      | Regional Network Information Center, JSC dba RU-CENTER             | 19/05/2015 14:26 | 19/05/2025 14:26 |
-| abandoned.co     | expired | 58       | 10%    | 9      | NameCheap, Inc.                                                    | 01/09/2019 18:13 | 01/09/2025 18:13 |
 | abandoned.world  | expired | 58       | 10%    | 9      | Name.com, Inc.                                                     | 07/07/2015 00:51 | 07/07/2025 00:51 |
 | abate.it         | expired | 52       | 84%    | 5      |                                                                    | 04/10/1999 00:00 | 07/07/2025 00:00 |
 | abatement.it     | expired | 52       | 80%    | 9      |                                                                    |                  |                  |
@@ -51,6 +50,7 @@ If you want to search & filters the complete database of [Expired one word domai
 | Abdulaziz.pro    | expired | 50       | 88%    | 9      | HOSTINGER operations, UAB                                          | 28/04/2024 14:12 | 28/04/2025 14:12 |
 | Abe.app          | expired | 62       | 92%    | 3      | Montenegro Domains, LLC                                            | 08/05/2018 06:34 | 08/05/2025 06:34 |
 | abed.it          | expired | 60       | 80%    | 4      |                                                                    | 13/06/2022 16:24 | 13/06/2025 00:00 |
+| abel.zone        | expired | 50       | 92%    | 4      | IONOS SE                                                           | 11/06/2024 10:54 | 11/06/2025 10:54 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expired-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [Expired one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
