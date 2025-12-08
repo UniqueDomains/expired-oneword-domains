@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Expired one word domai
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status  | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
-| --------------- | ------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
-| a.buzz          | expired | 58       | 5%     | 5      | Dot Strategy Co                                                    | 15/08/2017 14:25 | 15/08/2025 14:25 |
-| aaa.center      | expired | 70       | 38%    | 3      | GoDaddy.com, LLC                                                   | 11/07/2015 19:50 | 11/07/2025 19:50 |
-| aaa.immo        | expired | 70       | 38%    | 3      | Sav.com, LLC                                                       | 13/07/2024 17:15 | 13/07/2025 17:15 |
-| aardvark.online | expired | 64       | 92%    | 8      | Sav.com, LLC- 8                                                    | 18/05/2024 08:40 | 18/05/2025 23:59 |
-| aardvark.tech   | expired | 64       | 92%    | 8      | IONOS SE                                                           | 05/06/2016 17:26 | 05/06/2025 23:59 |
-| aardwolf.ai     | expired | 54       | 84%    | 8      | NameCheap, Inc.                                                    | 15/05/2023 22:52 | 15/05/2025 22:52 |
-| aaron.marketing | expired | 88       | 32%    | 5      | GoDaddy.com, LLC                                                   | 21/07/2023 12:25 | 21/07/2025 12:25 |
-| aaron.photos    | expired | 88       | 32%    | 5      | Gandi SAS                                                          | 13/07/2018 12:59 | 13/07/2025 12:59 |
-| aaron.software  | expired | 88       | 32%    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 25/06/2024 12:48 | 25/06/2025 12:48 |
-| aarp.it         | expired | 58       | 76%    | 4      |                                                                    | 14/06/2012 23:01 | 30/06/2025 00:00 |
-| aback.cloud     | expired | 76       | 80%    | 5      | HOSTINGER operations, UAB                                          | 05/05/2024 09:18 | 05/05/2025 09:18 |
-| abacus.pro      | expired | 68       | 84%    | 6      | Regional Network Information Center, JSC dba RU-CENTER             | 19/05/2015 14:26 | 19/05/2025 14:26 |
-| abandoned.earth | expired | 58       | 7%     | 9      | NameCheap, Inc.                                                    | 07/11/2022 12:20 | 07/11/2025 12:20 |
-| abandoned.store | expired | 58       | 7%     | 9      | Communigal Communications Ltd                                      | 10/10/2024 02:43 | 10/10/2025 23:59 |
-| abandoned.town  | expired | 58       | 7%     | 9      | Squarespace Domains II LLC                                         | 22/10/2015 16:28 | 22/10/2025 16:28 |
-| abandoned.work  | expired | 58       | 7%     | 9      | CommuniGal Communication Ltd.                                      | 30/10/2024 00:00 | 30/10/2025 00:00 |
-| abate.it        | expired | 52       | 84%    | 5      |                                                                    | 04/10/1999 00:00 | 07/07/2025 00:00 |
-| abatement.it    | expired | 52       | 80%    | 9      |                                                                    |                  |                  |
-| abaya.cloud     | expired | 50       | 88%    | 5      | Alibaba Cloud Computing Ltd.                                       | 24/05/2024 05:16 | 24/05/2025 05:16 |
-| abaya.so        | expired | 50       | 88%    | 5      | Karraban                                                           | 08/08/2015 00:00 | 08/08/2019 00:00 |
-| abaya.tech      | expired | 50       | 88%    | 5      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.                | 01/06/2024 00:45 | 01/06/2025 23:59 |
-| abaya.zone      | expired | 50       | 88%    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            | 23/05/2024 08:17 | 23/05/2025 08:17 |
-| Abbott.ai       | expired | 52       | 96%    | 6      | Zenaida.cate.ai                                                    | 16/12/2017 01:08 | 29/04/2025 01:08 |
-| abc.camera      | expired | 102      | 41%    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 10/07/2024 17:00 | 10/07/2025 17:00 |
-| abc.design      | expired | 102      | 41%    | 3      | DNSPod, Inc.                                                       | 20/08/2022 00:35 | 20/08/2025 00:35 |
-| abc.fun         | expired | 102      | 41%    | 3      | Gname.com Pte. Ltd.                                                | 23/07/2024 13:17 | 23/07/2025 23:59 |
-| ABCguide.net    | expired | 48       | 72%    | 9      | GoDaddy.com, LLC                                                   | 15/05/2003 14:54 | 15/05/2025 14:54 |
-| Abdulaziz.app   | expired | 50       | 88%    | 9      | CloudFlare, Inc.                                                   | 15/05/2024 19:01 | 15/05/2025 19:01 |
-| Abdulaziz.pro   | expired | 50       | 88%    | 9      | HOSTINGER operations, UAB                                          | 28/04/2024 14:12 | 28/04/2025 14:12 |
-| Abe.app         | expired | 62       | 92%    | 3      | Montenegro Domains, LLC                                            | 08/05/2018 06:34 | 08/05/2025 06:34 |
+| Domain          | Status  | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
+| --------------- | ------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
+| a.buzz          | expired | 58       | 5%     | 5      | Dot Strategy Co                                         | 15/08/2017 14:25 | 15/08/2025 14:25 |
+| a.id            | expired | 66       | 19%    | 3      | PANDI Registrar                                         | 06/12/2019 08:27 | 06/12/2025 23:59 |
+| aaa.fyi         | expired | 70       | 35%    | 3      | DNSPod, Inc.                                            | 02/11/2022 06:18 | 02/11/2025 06:18 |
+| aaa.gg          | expired | 70       | 35%    | 3      | West263 International Limited (http://www.west263.hk)   |                  |                  |
+| aaa.monster     | expired | 70       | 35%    | 3      | NameSilo, LLC                                           | 03/10/2024 04:12 | 03/10/2025 23:59 |
+| aaa.tube        | expired | 70       | 35%    | 3      | Latin American Telecom, LLC                             | 08/11/2017 19:27 | 08/11/2025 19:27 |
+| aaa.watch       | expired | 70       | 35%    | 3      | Sav.com, LLC                                            | 21/10/2024 19:50 | 21/10/2025 19:50 |
+| aardvark.online | expired | 64       | 92%    | 8      | Sav.com, LLC- 8                                         | 18/05/2024 08:40 | 18/05/2025 23:59 |
+| aardvark.tech   | expired | 64       | 92%    | 8      | IONOS SE                                                | 05/06/2016 17:26 | 05/06/2025 23:59 |
+| aardwolf.ai     | expired | 54       | 84%    | 8      | NameCheap, Inc.                                         | 15/05/2023 22:52 | 15/05/2025 22:52 |
+| aaron.beer      | expired | 88       | 28%    | 5      | NameCheap, Inc.                                         | 06/10/2017 20:08 | 06/10/2025 20:08 |
+| aaron.diy       | expired | 88       | 28%    | 5      | NAMECHEAP                                               | 22/10/2024 07:12 | 22/10/2025 07:12 |
+| aarp.it         | expired | 58       | 76%    | 4      |                                                         | 14/06/2012 23:01 | 30/06/2025 00:00 |
+| aback.cloud     | expired | 76       | 80%    | 5      | HOSTINGER operations, UAB                               | 05/05/2024 09:18 | 05/05/2025 09:18 |
+| abacus.pro      | expired | 68       | 84%    | 6      | Regional Network Information Center, JSC dba RU-CENTER  | 19/05/2015 14:26 | 19/05/2025 14:26 |
+| abandoned.earth | expired | 58       | 7%     | 9      | NameCheap, Inc.                                         | 07/11/2022 12:20 | 07/11/2025 12:20 |
+| abandoned.store | expired | 58       | 7%     | 9      | Communigal Communications Ltd                           | 10/10/2024 02:43 | 10/10/2025 23:59 |
+| abandoned.town  | expired | 58       | 7%     | 9      | Squarespace Domains II LLC                              | 22/10/2015 16:28 | 22/10/2025 16:28 |
+| abandoned.work  | expired | 58       | 7%     | 9      | CommuniGal Communication Ltd.                           | 30/10/2024 00:00 | 30/10/2025 00:00 |
+| abate.it        | expired | 52       | 84%    | 5      |                                                         | 04/10/1999 00:00 | 07/07/2025 00:00 |
+| abatement.it    | expired | 52       | 80%    | 9      |                                                         |                  |                  |
+| abaya.cloud     | expired | 50       | 88%    | 5      | Alibaba Cloud Computing Ltd.                            | 24/05/2024 05:16 | 24/05/2025 05:16 |
+| abaya.so        | expired | 50       | 88%    | 5      | Karraban                                                | 08/08/2015 00:00 | 08/08/2019 00:00 |
+| abaya.tech      | expired | 50       | 88%    | 5      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.     | 01/06/2024 00:45 | 01/06/2025 23:59 |
+| abaya.zone      | expired | 50       | 88%    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 23/05/2024 08:17 | 23/05/2025 08:17 |
+| Abbott.ai       | expired | 52       | 96%    | 6      | Zenaida.cate.ai                                         | 16/12/2017 01:08 | 29/04/2025 01:08 |
+| abc.cv          | expired | 102      | 39%    | 3      | OlaCV Registrar                                         | 13/06/2024 00:00 | 12/11/2025 00:00 |
+| abc.film        | expired | 102      | 39%    | 3      | NameCheap, Inc.                                         | 07/11/2021 18:05 | 07/11/2025 18:05 |
+| abc.tube        | expired | 102      | 39%    | 3      | Latin American Telecom, LLC                             | 08/11/2017 19:27 | 08/11/2025 19:27 |
+| ABCguide.net    | expired | 48       | 72%    | 9      | GoDaddy.com, LLC                                        | 15/05/2003 14:54 | 15/05/2025 14:54 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/expired-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Expired one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
