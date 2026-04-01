@@ -97,8 +97,8 @@ If you want to search & filters the complete database of [Expired one word domai
 
 **Available on the Online Database only**:
 
-- Estimated value (from GoDaddy)
-- Business ideas (from GPT-5 highest version + web search)
+- Estimated value
+- Business ideas
 - Domain Rating
 - Backlinks
 - Traffic volume
