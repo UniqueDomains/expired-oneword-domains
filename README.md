@@ -1,10 +1,10 @@
-# Expired One-Word Domains (41,287)
+# Expired One-Word Domains (42,019)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-41%2C287%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C019%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of expired one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **41,287 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **42,019 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 41,287 domains
+**Public extract:** 10,000 rows · **Live catalog:** 42,019 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/expired`  
 **Best for:** investors, acquisition teams
 
@@ -68,22 +68,22 @@ print(df.head())
 | affix.store          | expired | $2.99      | $75.99        | 80             | 88     | 5      | Communigal Communications Ltd |
 | advise.app           | expired | $5,173.85  | $123.75       | 74             | 88     | 6      | united-domains AG             |
 | knowledge.expert     | expired | $128.70    | $128.70       | 66             | 88     | 9      | GoDaddy.com, LLC              |
-| inventory.zone       | expired | $51.98     | —             | 82             | 84     | 9      | GoDaddy.com, LLC              |
-| allrounder.cloud     | expired | $32.98     | —             | 66             | 84     | 11     | HOSTINGER operations, UAB     |
-| airan.online         | expired | $2.99      | $46.99        | 62             | 84     | 5      | DNSPod, Inc.                  |
 | development.expert   | expired | $123.75    | $123.75       | 62             | 84     | 11     | Nom-iq Ltd. dba COM LAUDE     |
 | achilles.it          | expired | $12,798.35 | $25.99        | 54             | 84     | 8      | name.com                      |
 | airedale.online      | expired | $2.99      | $46.99        | 66             | 80     | 8      | Go Daddy, LLC                 |
 | airedale.io          | expired | $44.99     | $73.99        | 66             | 80     | 8      | Sav.com, LLC                  |
 | alphaandomega.online | expired | $2.99      | $46.99        | 66             | 80     | 15     | Sav.com, LLC- 6               |
 | adherence.cloud      | expired | $32.98     | —             | 64             | 80     | 9      | GoDaddy                       |
-| agriturismo.io       | expired | $44.99     | $73.99        | 64             | 80     | 11     | GoDaddy.com, LLC              |
 | alphabetsoup.cloud   | expired | $32.98     | —             | 64             | 80     | 13     | IONOS SE                      |
 | allotment.us         | expired | $6.99      | $18.99        | 62             | 80     | 9      | Sav.com LLC                   |
-| alphamax.online      | expired | $2.99      | $46.99        | 60             | 80     | 9      | Communigal Communications Ltd |
 | allergen.cloud       | expired | $32.98     | —             | 58             | 80     | 8      | PDR Ltd.                      |
 | Alisson.io           | expired | $66.98     | —             | 56             | 80     | 7      | Sav.com, LLC                  |
 | almondblossom.online | expired | $2.99      | $46.99        | 48             | 80     | 14     | Domeneshop AS                 |
+| actionhero.xyz       | expired | $1.99      | $20.99        | 74             | 76     | 11     | Dynadot LLC                   |
+| alleyes.dev          | expired | $9.99      | $22.99        | 66             | 76     | 8      | Namecheap Inc.                |
+| almondbutter.space   | expired | $4.99      | $37.99        | 66             | 76     | 13     | HOSTINGER operations, UAB     |
+| abwheel.net          | expired | $16.49     | $23.99        | 60             | 76     | 8      | GoDaddy.com, LLC              |
+| absorption.space     | expired | $4.99      | $37.99        | 60             | 76     | 10     | Namecheap                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract           | Unique Domains                                   |
 | ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 41,287 live domains                              |
+| 10,000-row public sample | 42,019 live domains                              |
 | Static CSV / JSON        | live search and daily refresh                    |
 | Basic exported fields    | deeper price, demand, risk, and workflow context |
 | No persistence           | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
