@@ -1,10 +1,10 @@
-# Expired One-Word Domains (42,019)
+# Expired One-Word Domains (42,040)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C019%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C040%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of expired one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **42,019 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **42,040 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 42,019 domains
+**Public extract:** 10,000 rows · **Live catalog:** 42,040 domains
 
 **Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/expired`  
@@ -77,13 +77,13 @@ print(df.head())
 | alphabetsoup.cloud   | expired | $32.98     | —             | 64             | 80     | 13     | IONOS SE                      |
 | allotment.us         | expired | $6.99      | $18.99        | 62             | 80     | 9      | Sav.com LLC                   |
 | allergen.cloud       | expired | $32.98     | —             | 58             | 80     | 8      | PDR Ltd.                      |
-| Alisson.io           | expired | $66.98     | —             | 56             | 80     | 7      | Sav.com, LLC                  |
 | almondblossom.online | expired | $2.99      | $46.99        | 48             | 80     | 14     | Domeneshop AS                 |
 | actionhero.xyz       | expired | $1.99      | $20.99        | 74             | 76     | 11     | Dynadot LLC                   |
 | alleyes.dev          | expired | $9.99      | $22.99        | 66             | 76     | 8      | Namecheap Inc.                |
 | almondbutter.space   | expired | $4.99      | $37.99        | 66             | 76     | 13     | HOSTINGER operations, UAB     |
 | abwheel.net          | expired | $16.49     | $23.99        | 60             | 76     | 8      | GoDaddy.com, LLC              |
 | absorption.space     | expired | $4.99      | $37.99        | 60             | 76     | 10     | Namecheap                     |
+| Allex.io             | expired | $66.98     | —             | 56             | 76     | 5      | GoDaddy.com, LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract           | Unique Domains                                   |
 | ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 42,019 live domains                              |
+| 10,000-row public sample | 42,040 live domains                              |
 | Static CSV / JSON        | live search and daily refresh                    |
 | Basic exported fields    | deeper price, demand, risk, and workflow context |
 | No persistence           | Radar, saved search, and alerts                  |
