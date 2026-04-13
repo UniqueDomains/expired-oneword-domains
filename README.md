@@ -1,10 +1,10 @@
-# Expired One-Word Domains (42,040)
+# Expired One-Word Domains (42,054)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C040%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C054%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of expired one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **42,040 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **42,054 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 42,040 domains
+**Public extract:** 10,000 rows · **Live catalog:** 42,054 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/expired`  
 **Best for:** investors, acquisition teams
 
@@ -68,7 +68,6 @@ print(df.head())
 | affix.store          | expired | $2.99      | $75.99        | 80             | 88     | 5      | Communigal Communications Ltd |
 | advise.app           | expired | $5,173.85  | $123.75       | 74             | 88     | 6      | united-domains AG             |
 | knowledge.expert     | expired | $128.70    | $128.70       | 66             | 88     | 9      | GoDaddy.com, LLC              |
-| development.expert   | expired | $123.75    | $123.75       | 62             | 84     | 11     | Nom-iq Ltd. dba COM LAUDE     |
 | achilles.it          | expired | $12,798.35 | $25.99        | 54             | 84     | 8      | name.com                      |
 | airedale.online      | expired | $2.99      | $46.99        | 66             | 80     | 8      | Go Daddy, LLC                 |
 | airedale.io          | expired | $44.99     | $73.99        | 66             | 80     | 8      | Sav.com, LLC                  |
@@ -84,6 +83,7 @@ print(df.head())
 | abwheel.net          | expired | $16.49     | $23.99        | 60             | 76     | 8      | GoDaddy.com, LLC              |
 | absorption.space     | expired | $4.99      | $37.99        | 60             | 76     | 10     | Namecheap                     |
 | Allex.io             | expired | $66.98     | —             | 56             | 76     | 5      | GoDaddy.com, LLC              |
+| indemnity.online     | expired | $2.99      | $46.99        | 53             | 76     | 9      | Communigal Communications Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract           | Unique Domains                                   |
 | ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 42,040 live domains                              |
+| 10,000-row public sample | 42,054 live domains                              |
 | Static CSV / JSON        | live search and daily refresh                    |
 | Basic exported fields    | deeper price, demand, risk, and workflow context |
 | No persistence           | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
