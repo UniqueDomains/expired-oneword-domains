@@ -1,22 +1,22 @@
-# Expired One-Word Domains (42,272)
+# Expired One-Word Domains (46,679)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-42%2C272%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-46%2C679%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of expired one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **42,272 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **46,679 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 42,272 domains
+**Public extract:** 1,000 rows · **Live catalog:** 46,679 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/expired`  
 **Best for:** investors, acquisition teams
 
@@ -43,8 +43,8 @@ This repository is the public extract for the exact Unique Domains search repres
 
 ### Files
 
-- `expired.csv` — public CSV extract (10,000 rows)
-- `expired.json` — public JSON extract (10,000 rows)
+- `expired.csv` — public CSV extract (1,000 rows)
+- `expired.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status  | ask_price  | renewal_price | attractiveness | demand | length | registrar                     |
-| -------------------- | ------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| burlesque.pro        | expired | $30.98     | —             | 100            | 88     | 9      | Spaceship, Inc.               |
-| affix.store          | expired | $2.99      | $75.99        | 80             | 88     | 5      | Communigal Communications Ltd |
-| advise.app           | expired | $5,173.85  | $123.75       | 74             | 88     | 6      | united-domains AG             |
-| knowledge.expert     | expired | $128.70    | $128.70       | 66             | 88     | 9      | GoDaddy.com, LLC              |
-| achilles.it          | expired | $12,798.35 | $25.99        | 54             | 84     | 8      | name.com                      |
-| airedale.online      | expired | $2.99      | $46.99        | 66             | 80     | 8      | Go Daddy, LLC                 |
-| airedale.io          | expired | $44.99     | $73.99        | 66             | 80     | 8      | Sav.com, LLC                  |
-| alphaandomega.online | expired | $2.99      | $46.99        | 66             | 80     | 15     | Sav.com, LLC- 6               |
-| adherence.cloud      | expired | $32.98     | —             | 64             | 80     | 9      | GoDaddy                       |
-| alphabetsoup.cloud   | expired | $32.98     | —             | 64             | 80     | 13     | IONOS SE                      |
-| allergen.cloud       | expired | $32.98     | —             | 58             | 80     | 8      | PDR Ltd.                      |
-| almondblossom.online | expired | $2.99      | $46.99        | 48             | 80     | 14     | Domeneshop AS                 |
-| actionhero.xyz       | expired | $1.99      | $20.99        | 74             | 76     | 11     | Dynadot LLC                   |
-| alleyes.dev          | expired | $9.99      | $22.99        | 66             | 76     | 8      | Namecheap Inc.                |
-| almondbutter.space   | expired | $4.99      | $37.99        | 66             | 76     | 13     | HOSTINGER operations, UAB     |
-| abwheel.net          | expired | $16.49     | $23.99        | 60             | 76     | 8      | GoDaddy.com, LLC              |
-| absorption.space     | expired | $4.99      | $37.99        | 60             | 76     | 10     | Namecheap                     |
-| Allex.io             | expired | $66.98     | —             | 56             | 76     | 5      | GoDaddy.com, LLC              |
-| indemnity.online     | expired | $2.99      | $46.99        | 53             | 76     | 9      | Communigal Communications Ltd |
-| allterrain.io        | expired | $44.99     | $73.99        | 52             | 76     | 11     | Sav.com, LLC                  |
+| domain             | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------------ | ------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| YouTube.desi       | expired | —         | —             | 94             | 96     | 7      | MarkMonitor, Inc (TLDs)                                 |
+| facebook.desi      | expired | —         | —             | 88             | 96     | 8      | RegistrarSEC, LLC                                       |
+| Netherlands.uk     | expired | —         | —             | 76             | 93     | 11     | Darren Cunningham                                       |
+| palestine.cn       | expired | —         | —             | 63             | 93     | 9      | 浙江贰贰网络有限公司                                              |
+| UnitedKingdom.name | expired | —         | —             | 64             | 92     | 14     | Porkbun LLC                                             |
+| test.contractors   | expired | —         | —             | 72             | 89     | 4      | Nom-iq Ltd. dba COM LAUDE                               |
+| affirm.energy      | expired | —         | —             | 80             | 83     | 6      | GoDaddy.com, LLC                                        |
+| universal.nl       | expired | —         | —             | 86             | 80     | 9      | Universal IT B.V.                                       |
+| kick.top           | expired | —         | —             | 76             | 79     | 4      | Namecheap Inc.                                          |
+| name.college       | expired | —         | —             | 82             | 75     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| discover.movie     | expired | —         | —             | 70             | 75     | 8      | NameCheap, Inc.                                         |
+| wise.army          | expired | —         | —             | 88             | 71     | 4      | Porkbun LLC                                             |
+| own.skin           | expired | —         | —             | 90             | 70     | 3      | Go Daddy, LLC                                           |
+| BBC.channel        | expired | —         | —             | 84             | 67     | 3      | 101domain, Inc.                                         |
+| reset.best         | expired | —         | —             | 70             | 67     | 5      | Namecheap                                               |
+| fun.haus           | expired | —         | —             | 90             | 62     | 3      | Gandi SAS                                               |
+| online.us          | expired | —         | —             | 70             | 62     | 7      | IONOS SE                                                |
+| fun.my             | expired | —         | —             | 90             | 61     | 3      | —                                                       |
+| space.dev          | expired | —         | —             | 76             | 61     | 5      | Squarespace Domains II LLC.                             |
+| code.contractors   | expired | —         | —             | 72             | 61     | 4      | Nom-iq Ltd. dba COM LAUDE                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 42,272 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 46,679 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
