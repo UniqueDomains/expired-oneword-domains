@@ -1,22 +1,22 @@
-# Expired One-Word Domains (49,043)
+# Expired One-Word Domains (49,712)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-49%2C043%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-49%2C712%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of expired one-word domains from Unique Domains.
+These domains are expired one-word names spread across 505 TLDs, including examples like metal.tv, tail.it, desk.cool, and reliable.bid. Updated daily. This selection includes 49,712 domains, with a median ask of 2,647, so comparison starts with naming strength, TLD fit, and risk.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **49,043 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **49,712 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 49,043 domains
+**Public extract:** 1,000 rows · **Live catalog:** 49,712 domains · **Median ask:** $2,646.91 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/expired`  
 **Best for:** investors, acquisition teams
 
@@ -67,7 +67,6 @@ print(df.head())
 | YouTube.desi       | expired | —         | —             | 94             | 96     | 7      | MarkMonitor, Inc (TLDs)                                            |
 | facebook.desi      | expired | —         | —             | 88             | 96     | 8      | RegistrarSEC, LLC                                                  |
 | Netherlands.uk     | expired | —         | —             | 76             | 93     | 11     | Darren Cunningham                                                  |
-| palestine.cn       | expired | —         | —             | 63             | 93     | 9      | 浙江贰贰网络有限公司                                                         |
 | UnitedKingdom.name | expired | —         | —             | 64             | 92     | 14     | Porkbun LLC                                                        |
 | test.contractors   | expired | —         | —             | 72             | 89     | 4      | Nom-iq Ltd. dba COM LAUDE                                          |
 | affirm.energy      | expired | —         | —             | 80             | 83     | 6      | GoDaddy.com, LLC                                                   |
@@ -83,7 +82,8 @@ print(df.head())
 | match.beer         | expired | —         | —             | 84             | 65     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 | line.mx            | expired | —         | —             | 74             | 65     | 4      | NEUBOX Internet SA de CV                                           |
 | fun.haus           | expired | —         | —             | 90             | 62     | 3      | Gandi SAS                                                          |
-| online.us          | expired | —         | —             | 70             | 62     | 7      | IONOS SE                                                           |
+| ant.it             | expired | —         | —             | 76             | 62     | 3      | —                                                                  |
+| container.fit      | expired | —         | —             | 74             | 62     | 9      | InternetX GmbH                                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 49,043 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 49,712 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is defined by one condition: the domains are expired. That creates a wide spread of naming quality, TLD quality, and commercial fit. Some names are clean, generic words like metal.tv or tail.it. Others carry obvious risk or narrower appeal, such as tesla.pics, Frankenstein.us, or fraud.tube. For investors, the key questions are resale depth, renewal exposure, and whether the word-TLD pairing has credible buyer demand. For founders, the main test is whether the name is memorable, easy to explain, and still feels trustworthy in its extension. With a median ask of 2,647, discipline matters more than volume.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check the word and TLD together, not as separate parts
+- Generic words usually age better than loaded or risky terms
+- Trademark signals matter more in expired names like tesla.pics
+- Compare ask price against renewal burden and buyer breadth
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
