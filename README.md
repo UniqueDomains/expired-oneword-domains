@@ -73,6 +73,7 @@ print(df.head())
 | affirm.energy      | expired | —         | —             | 80             | 83     | 6      | GoDaddy.com, LLC                                                   |
 | winners.xxx        | expired | —         | —             | 60             | 81     | 7      | eNom, LLC                                                          |
 | universal.nl       | expired | —         | —             | 86             | 80     | 9      | Universal IT B.V.                                                  |
+| nike.xxx           | expired | —         | —             | 78             | 80     | 4      | MarkMonitor, Inc.                                                  |
 | name.college       | expired | —         | —             | 82             | 75     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 | discover.movie     | expired | —         | —             | 70             | 75     | 8      | NameCheap, Inc.                                                    |
 | wise.army          | expired | —         | —             | 88             | 73     | 4      | Porkbun LLC                                                        |
@@ -83,7 +84,6 @@ print(df.head())
 | match.beer         | expired | —         | —             | 84             | 65     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 | line.mx            | expired | —         | —             | 74             | 65     | 4      | NEUBOX Internet SA de CV                                           |
 | think.cx           | expired | —         | —             | 82             | 64     | 5      | CentralNic Ltd                                                     |
-| fun.haus           | expired | —         | —             | 90             | 62     | 3      | Gandi SAS                                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
