@@ -76,10 +76,10 @@ print(df.head())
 | nike.xxx           | expired | —         | —             | 78             | 80     | 4      | MarkMonitor, Inc.                                                  |
 | name.college       | expired | —         | —             | 82             | 75     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 | discover.movie     | expired | —         | —             | 70             | 75     | 8      | NameCheap, Inc.                                                    |
+| with.beer          | expired | —         | —             | 69             | 75     | 4      | Spaceship, Inc.                                                    |
 | wise.army          | expired | —         | —             | 88             | 73     | 4      | Porkbun LLC                                                        |
 | own.skin           | expired | —         | —             | 90             | 70     | 3      | Go Daddy, LLC                                                      |
 | fuck.capital       | expired | —         | —             | 74             | 70     | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| BBC.channel        | expired | —         | —             | 84             | 67     | 3      | 101domain, Inc.                                                    |
 | windows.tattoo     | expired | —         | —             | 79             | 67     | 7      | Spaceship, Inc.                                                    |
 | match.beer         | expired | —         | —             | 84             | 65     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 | line.mx            | expired | —         | —             | 74             | 65     | 4      | NEUBOX Internet SA de CV                                           |
