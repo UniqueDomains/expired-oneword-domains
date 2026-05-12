@@ -64,8 +64,9 @@ print(df.head())
 
 | domain             | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | ------------------ | ------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| inregardsto.it     | expired | $25.99    | —             | 46             | 1      | 13     | name.com                                                           |
+| YouTube.desi       | expired | —         | —             | 94             | 98     | 7      | MarkMonitor, Inc (TLDs)                                            |
 | facebook.desi      | expired | —         | —             | 88             | 97     | 8      | RegistrarSEC, LLC                                                  |
-| YouTube.desi       | expired | —         | —             | 94             | 96     | 7      | MarkMonitor, Inc (TLDs)                                            |
 | Netherlands.uk     | expired | —         | —             | 76             | 93     | 11     | Darren Cunningham                                                  |
 | UnitedKingdom.name | expired | —         | —             | 64             | 92     | 14     | Porkbun LLC                                                        |
 | test.contractors   | expired | —         | —             | 72             | 89     | 4      | Nom-iq Ltd. dba COM LAUDE                                          |
@@ -83,7 +84,6 @@ print(df.head())
 | fuck.capital       | expired | —         | —             | 74             | 70     | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | windows.tattoo     | expired | —         | —             | 79             | 67     | 7      | Spaceship, Inc.                                                    |
 | match.beer         | expired | —         | —             | 84             | 65     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
-| line.mx            | expired | —         | —             | 74             | 65     | 4      | NEUBOX Internet SA de CV                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
