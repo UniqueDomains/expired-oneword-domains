@@ -1,10 +1,10 @@
-# Expired One-Word Domains (50,466)
+# Expired One-Word Domains (50,623)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C466%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C623%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 These domains are expired one-word names spread across 505 TLDs, including examples like metal.tv, tail.it, desk.cool, and reliable.bid. Updated daily. This selection includes 49,712 domains, with a median ask of 2,647, so comparison starts with naming strength, TLD fit, and risk.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **50,466 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **50,623 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 50,466 domains · **Median ask:** $2,608.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 50,623 domains · **Median ask:** $2,578.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/expired`  
 **Best for:** investors, acquisition teams
 
@@ -64,11 +64,12 @@ print(df.head())
 
 | domain             | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | ------------------ | ------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| getthewordout.it   | expired | $25.99    | —             | 69             | 1      | 16     | name.com                                                           |
 | inregardsto.it     | expired | $25.99    | —             | 46             | 1      | 13     | name.com                                                           |
 | YouTube.desi       | expired | —         | —             | 94             | 98     | 7      | MarkMonitor, Inc (TLDs)                                            |
 | facebook.desi      | expired | —         | —             | 88             | 97     | 8      | RegistrarSEC, LLC                                                  |
-| Netherlands.uk     | expired | —         | —             | 76             | 93     | 11     | Darren Cunningham                                                  |
-| UnitedKingdom.name | expired | —         | —             | 64             | 92     | 14     | Porkbun LLC                                                        |
+| Netherlands.uk     | expired | —         | —             | 76             | 97     | 11     | Darren Cunningham                                                  |
+| UnitedKingdom.name | expired | —         | —             | 64             | 96     | 14     | Porkbun LLC                                                        |
 | test.contractors   | expired | —         | —             | 72             | 89     | 4      | Nom-iq Ltd. dba COM LAUDE                                          |
 | PlayStation.rent   | expired | —         | —             | 84             | 84     | 11     | Go Daddy, LLC                                                      |
 | affirm.energy      | expired | —         | —             | 80             | 83     | 6      | GoDaddy.com, LLC                                                   |
@@ -83,7 +84,6 @@ print(df.head())
 | own.skin           | expired | —         | —             | 90             | 70     | 3      | Go Daddy, LLC                                                      |
 | fuck.capital       | expired | —         | —             | 74             | 70     | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | windows.tattoo     | expired | —         | —             | 79             | 67     | 7      | Spaceship, Inc.                                                    |
-| match.beer         | expired | —         | —             | 84             | 65     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 50,466 live domains                        |
+| 1,000-row public sample | 50,623 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
