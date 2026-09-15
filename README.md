@@ -16,7 +16,7 @@ This is a list of expired one-word domain names spanning 506 TLDs, updated daily
 
 **Public extract:** 1,000 rows · **Live catalog:** 60,121 domains · **Median ask:** $3,978.39 · **High-demand under $2,500:** 167
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/expired`
 **Best for:** investors, acquisition teams
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
