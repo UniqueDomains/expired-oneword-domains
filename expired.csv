@@ -39,10 +39,10 @@ dc857d01-4aaf-4ee2-9c12-4cf295a15af1,wetbar.it,expired,,,medium,high,7,,,,
 ac201a04-f13b-4d94-8168-f7e3ca30d20d,letoneloose.so,expired,,,high,low,13,,,,
 95df57c2-91c1-4c05-97a4-2f0922713489,markets.cv,expired,1309.75,19.5,medium,low,7,namecheap,,,14/09/2026 02:05
 e1ac60fc-ad21-4e2c-bb24-a830c5c08315,chickadee.so,expired,,,medium,high,9,,,,
-b827206f-3977-4c74-aba7-4496e493f488,arts.pics,expired,,,medium,low,4,Dynadot Inc,03/07/2025 11:58,03/07/2026 23:59,15/09/2026 05:49
 2b347aab-b940-47d8-b1de-e58595565e34,superhuman.it,expired,,,medium,low,10,,27/08/2022 09:00,27/08/2026 00:00,11/09/2026 02:16
 7d74dd58-4fa1-4566-83dd-963d0e76cca4,succeed.at,expired,,,high,low,7,Hetzner Online GmbH ( https://nic.at/registrar/225 ),,,
 0cffb573-395f-4be2-b0fb-322a620b930b,seize.eu,expired,,,medium,low,5,Name: CRegISP Ltd Website: https://cregisp.com,,,
+52b16191-0abb-4238-8730-84a72be0c7e0,campus.fm,expired,,,high,low,6,1API GmbH,13/07/2025 02:35,13/07/2026 23:59,18/09/2026 08:26
 68545ef3-752d-4ea5-a21a-b16d9616684e,prescription.de,expired,,,low,low,12,,,,
 45c4bd8a-8180-4b97-b463-50fc535b067d,WestElgin.it,expired,,,medium,medium,10,,,,
 a02dcc2d-3bc2-45e8-a249-2c70780b827c,whole.cn,expired,,,high,low,5,浙江贰贰网络有限公司,,,
@@ -346,7 +346,6 @@ d43c3459-dbf9-4fdb-bf4b-50290a0a4ac9,Gloucestercheese.it,expired,,,medium,medium
 a5671cff-6686-43ff-a3ca-58c781dcb359,maidenly.it,expired,,,medium,high,8,,,,
 86df2c13-2dcf-4716-945b-b0ebe51179f5,tickling.at,expired,,,high,high,8,EPAG Domainservices GmbH ( https://nic.at/registrar/372 ),,,
 d2f30b43-ef23-4b76-83fd-b0e419c2798a,fivepinbowling.it,expired,,,medium,medium,16,,,,
-aa32022f-084c-43eb-8ca4-a8fdb6a134d9,thusfar.org,expired,,,low,low,8,Tucows Domains Inc.,13/07/2025 20:29,13/07/2026 20:29,13/09/2026 21:43
 a7244985-d03e-49bb-9566-17dde2f6cb3e,flatrealmode.it,expired,,,medium,medium,14,,,,
 5b371e2f-89af-4255-9ccd-98f7074feb3c,LordofHosts.it,expired,,,medium,high,13,,,,
 db3b68eb-b803-4b1e-b55c-b54334643e5e,personal.fashion,expired,,,medium,low,8,Porkbun,24/07/2025 08:31,24/07/2026 08:31,08/09/2026 03:45
@@ -509,12 +508,12 @@ fdc8626a-76b6-41c2-80da-5d90bc07be29,transportation.live,expired,,,medium,low,14
 efbe90c3-4fb3-4e21-b83e-f7e86a00d156,midtable.so,expired,,,medium,high,8,,,,
 104e984e-3b1c-41bd-b8e5-9bc4a1b041b3,cookout.it,expired,,,high,high,8,,,,
 fc156b3f-27f2-4dc8-adc0-63cb3927c411,nonlinear.cloud,expired,,,low,low,10,"HOSTINGER operations, UAB",21/07/2025 02:24,21/07/2026 02:24,03/09/2026 19:44
-09ef53d3-9648-48b5-b69c-f48891e77566,transportation.work,expired,,,medium,low,14,"Spaceship, Inc.",01/07/2025 13:57,01/07/2026 13:57,13/09/2026 03:39
 f6fba401-b46f-4cec-a188-5c8840733846,pakistani.us,expired,,,low,low,9,Dynadot Inc,18/08/2025 05:54,18/08/2026 05:54,04/09/2026 23:13
 a7c603c0-6da7-43e1-ad1c-8d877903ca16,bareback.it,expired,,,low,low,8,,25/07/2007 08:49,25/07/2026 00:00,08/08/2026 18:38
 c94bbde8-4b01-48fa-86a4-53e89a648f75,interviewee.eu,expired,,,medium,low,11,Name: Papaki.com Website: https://www.papaki.com/,,,
 18c630fa-235f-4e4b-a464-b058f75fc48a,retro.eu,expired,,,high,low,5,Name: Scaleway SAS Website: https://www.bookmyname.com,,,
 8adf1869-2d62-4853-94b2-961baf5d2d19,relational.it,expired,,,low,low,10,,27/08/2025 16:00,27/08/2026 00:00,09/09/2026 13:20
+7ed8d1c2-301a-49e5-af25-cd1ef99a4f88,holiday.fm,expired,,,high,low,7,1API GmbH,13/07/2025 02:35,13/07/2026 23:59,18/09/2026 08:29
 a68780d8-26c4-42c2-9cb9-edbcdc707a85,nigher.net,expired,,,low,low,6,Scaleway SAS,10/07/2025 06:42,10/07/2026 06:42,14/09/2026 07:14
 ce0a8ea2-0887-479f-bc3e-768b835c221d,cafecurtains.it,expired,,,medium,medium,13,,,,
 3bf43e9c-cd3e-4bea-8bf4-547fe9e3eb5e,relief.to,expired,,,medium,low,6,NAMECHEAP,18/02/2023 02:27,01/08/2026 00:00,14/09/2026 01:46
@@ -525,7 +524,6 @@ d1e887b2-997a-4687-b6c3-0b18d4535896,xxx.at,expired,,,medium,medium,3,Key-System
 cdec9892-8f04-452e-9144-8bfae27ac3a7,nailenamel.so,expired,,,medium,high,11,,,,
 41668dcf-6a20-446d-9f6b-35431f1cbdcc,panel.energy,expired,,,medium,low,5,Dynadot Inc,18/07/2025 17:00,18/07/2026 17:00,14/09/2026 02:59
 d1eaca48-96f1-451a-b55d-e8c604839199,sweetlime.it,expired,,,medium,high,10,,,,
-966123f7-825b-4256-9cd5-20eeaed53662,journal.academy,expired,,,medium,low,7,Dynadot Inc,12/07/2025 17:00,12/07/2026 17:00,15/09/2026 03:33
 7f8aeaf6-91f7-4b29-bd6c-ff56dc0f064d,metallic.it,expired,,,medium,low,8,,30/06/2010 18:42,19/08/2026 00:00,24/08/2026 21:34
 d8d8b0bb-2b63-432a-b21d-0f062ee5f679,awareness.eu,expired,,,high,low,9,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,
 ecc6e6ac-bdf3-4eeb-b763-b1ee7073bdc3,livingstandard.it,expired,,,medium,high,15,,,,
@@ -537,7 +535,6 @@ c40188ab-054e-49fc-9715-3dd535d24c15,xxxiv.it,expired,,,medium,low,5,,,,
 cc115820-2c83-4fca-a8b8-3448d4773a8e,reminisce.so,expired,,,high,high,9,,,,
 3374b323-2893-42e0-adf3-0f8d8856f512,airfilled.de,expired,19.99,19.99,low,low,10,name.com,,,
 726e5130-448d-49c8-8ffb-1e8a07350061,eserine.it,expired,,,medium,high,7,,,,
-bbecf0f7-1060-4119-88ee-92dfa56fca45,culture.casa,expired,,,medium,low,7,Dynadot Inc,13/07/2025 00:00,13/07/2026 00:00,15/09/2026 19:15
 ab58c1fc-6039-4c4f-99bd-ee908dfcf5ac,equipped.de,expired,,,high,low,8,,,,
 1eefdf73-e945-4bef-ac7c-2f47aaa7dec4,breadbasket.it,expired,,,medium,high,12,,,,
 c89a08eb-7894-49fd-9e7a-b6fde4bc534a,nist.at,expired,,,medium,high,4,easyname GmbH ( https://nic.at/registrar/414 ),,,
@@ -602,7 +599,6 @@ b1853438-7cfa-487e-83f2-74c50e7e0e86,appetising.de,expired,,,medium,low,10,,,,
 6c0e82f3-6407-4d1d-a321-f1469daa44fa,sportscar.at,expired,,,high,high,10,InterNetX GmbH ( https://nic.at/registrar/80 ),,,
 8f303fa8-f879-4e57-8264-0f7a73e32eaa,consummate.de,expired,,,high,low,10,,,,
 da6b73fd-70d4-41c9-91a9-d754cc02df9e,received.de,expired,,,high,low,8,,,,
-d7135018-0f21-4b28-b87c-8725734a6e9e,lvi.it,expired,,,low,low,3,,02/08/2011 10:51,14/07/2026 00:00,
 e6b7106a-e041-4f81-9f4b-cd430b15f74a,culture.asia,expired,,,medium,low,7,"GoDaddy.com, LLC",16/07/2008 07:02,16/07/2026 07:02,15/09/2026 19:15
 0878369e-83d0-4bb3-abd2-ae50ebb9b564,aromaticrice.it,expired,,,medium,low,13,,,,
 c169a84b-4047-4bd4-9fb7-d782d28135d6,years.at,expired,,,high,low,5,Edomains LLC ( https://nic.at/registrar/728 ),,,
@@ -665,11 +661,11 @@ fe1096a8-15c1-48fa-a58b-8162f687fa5d,minorities.so,expired,,,medium,low,10,,,,
 f41585d8-e720-4709-bef8-1b4782eac05d,pencil.eu,expired,,,high,low,6,Name: eu-poena.at web invest gmbh & co KG Website: http://www.eu-poena.at,,,
 7d540c0b-7f15-40dd-a8c5-dded228c19da,invented.de,expired,,,high,low,8,,,,
 6d034ae5-ccfe-4ed1-a262-410e2f5340e5,aftermost.eu,expired,4.99,11.99,low,low,9,name.com,,,
+7650eff4-16d6-4c14-857c-5c6b7dda5a64,bosses.it,expired,,,low,low,6,,03/08/2010 07:13,04/09/2026 00:00,18/09/2026 05:55
 be0bc90b-ebdb-4e40-92fb-36584740d3b1,sideways.so,expired,,,high,low,8,,,,
 b826f011-b811-49a7-a1f8-815b7693269d,shined.it,expired,,,medium,high,6,,,,
 4f309fd4-119b-4b77-aa38-3ed709c3bfe3,frieze.so,expired,,,medium,high,6,,,,
 d15df9ce-b000-4a72-a8a9-997705d29bee,animal.cx,expired,,,medium,low,6,,31/08/2025 23:06,31/08/2026 23:06,08/09/2026 11:39
-53c709b5-d3c7-4b07-b41b-cadaf229ba04,large.vision,expired,,,medium,low,5,"Sav.com, LLC",12/07/2024 05:51,12/07/2026 05:51,15/09/2026 03:10
 0b614ae5-1b59-45fa-bdcb-20ce51d1e08c,adsorbent.so,expired,68.98,,high,low,9,namecheap,,,
 2b77178b-9f48-4cb1-ad8f-ee132a45e46d,such.de,expired,,,high,low,4,,,,
 dc434bf4-f949-46cc-9358-0cb92736cfdc,guardofhonour.so,expired,,,medium,high,15,,,,
@@ -802,6 +798,7 @@ a58ed7e4-73d6-430d-9620-ffc21fffe99c,FiveHolyWounds.it,expired,,,medium,high,16,
 e0739af7-e67a-41d1-ab38-5bd55d3c499a,clap.cn,expired,,,high,low,4,阿里云计算有限公司（万网）,,,
 d272c397-1c35-49c3-abe0-a1d09a2ec2e6,price.de,expired,,,medium,low,5,,,,
 04eb4c37-d782-4143-9d58-b4ab9e14c5b0,both.gg,expired,,,high,low,4,Blacknight Internet Solutions Ltd (http://www.blacknight.com),,,
+10114d1f-35a9-4700-9fde-b2808170c9a9,wild.fm,expired,,,medium,medium,4,1API GmbH,13/07/2025 02:35,13/07/2026 23:59,18/09/2026 08:37
 c9addc8e-f2f9-4113-924f-59f0231df6d9,airline.gg,expired,,,high,low,7,Gandi SAS (http://www.gandi.net),,,
 7392cf20-589c-4923-9de3-bc4cf7b86d6e,mediate.at,expired,,,low,low,7,HostProfis ISP Telekom GmbH ( https://nic.at/registrar/113 ),,,21/08/2026 23:37
 6922a529-e90f-45fb-a54c-2d2779e16986,handcarry.so,expired,,,medium,high,10,,,,
@@ -839,7 +836,6 @@ bc3cd53c-42a7-42b7-9f47-a15dd56c2b84,dispose.eu,expired,,,high,low,7,Name: Realt
 0903b2eb-cfa3-419c-bdf0-d67ef5055adb,inviso.so,expired,,,high,medium,6,,,,
 fedab617-7218-494d-8821-63f0c6066033,friendly.de,expired,,,high,low,8,,,,
 f924a4d2-0c7e-49b7-9f0b-bcad929c14cf,piquing.it,expired,,,low,low,7,,,,
-0e44fc7b-72b1-43bf-98e5-8888ad0b4e2d,party.blue,expired,,,medium,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",14/07/2025 15:15,14/07/2026 15:15,14/09/2026 05:45
 c4c6f598-3cea-4bd8-bb76-2b8f0a22b573,barrelorgan.it,expired,,,medium,low,12,,,,
 2a67d60a-c763-47e0-9056-e7dec6149ef3,arranger.it,expired,,,low,low,8,,14/08/2016 16:00,06/09/2026 00:00,17/09/2026 06:29
 ce51c45b-5614-4a08-924b-a732ec70fc3d,dedupe.so,expired,,,high,high,7,,,,
@@ -943,6 +939,7 @@ b47f3da2-c379-4e66-94d1-46c1252a805e,profound.eu,expired,,,high,low,8,Name: Fran
 976d8c97-cdbb-45dd-b820-04f45fdc7feb,opt.at,expired,,,medium,low,3,Ledl.net GmbH & Co. KG ( https://nic.at/registrar/32 ),,,
 ed826119-da22-4733-a977-794252c9d8ce,actiongame.eu,expired,,,high,low,11,Name: Zone Media OÜ Website: https://www.zone.ee,,,
 8440c965-b69b-45a0-8861-dc0989a1dd93,prematch.so,expired,,,high,high,8,,,,
+3dc7248f-7903-4a35-93e1-04752624850a,study.fm,expired,,,high,low,5,1API GmbH,13/07/2025 02:35,13/07/2026 23:59,18/09/2026 08:35
 b30b3f95-2c4d-41e5-b16c-1a520f915725,invigilatrix.it,expired,,,low,low,12,,,,
 5a688330-cf54-44ca-a158-c5262d96d6e2,natural.camp,expired,,,medium,low,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,01/09/2024 17:00,01/09/2026 17:00,08/09/2026 12:12
 74192a8d-1eea-4c57-b789-cf73dc17985d,cartrain.it,expired,,,medium,medium,9,,,,
@@ -973,7 +970,6 @@ b251ac71-f963-4b31-83e2-1c2220c6a1dc,uphere.it,expired,,,medium,high,7,,,,
 19c745bf-2bb2-4e33-8822-b101c84cb8e3,armcandy.it,expired,,,medium,medium,9,,,,
 e99a5b35-e82b-4165-96fb-0e846af38d8f,detail.de,expired,,,high,low,6,,,,
 b6dd9d49-7fb2-4a86-9d95-83d017339439,fullfigured.it,expired,,,medium,medium,12,,,,
-7b01d723-5aa7-48e4-91ea-767d39451b58,stone.ventures,expired,,,medium,low,5,"Sav.com, LLC - 41",12/07/2025 15:16,12/07/2026 15:16,14/09/2026 03:30
 66e4fdb8-8163-4d94-86b6-3195d320aebc,process.cc,expired,,,medium,low,7,Dynadot Inc,14/09/2024 08:02,14/09/2026 08:02,15/09/2026 03:30
 424fa556-1517-41d8-a4ec-cb5a8187ec54,banned.gg,expired,,,medium,low,6,"Spaceship, Inc (https://www.spaceship.com)",,,
 1bcb9da5-0c18-43f9-87f0-76655b63381a,gamely.site,expired,,,medium,low,6,"GoDaddy.com, LLC",15/07/2025 16:59,15/07/2026 23:59,14/09/2026 21:02
@@ -986,6 +982,7 @@ c36e2e46-12dd-4f52-80d2-9450714c0925,make.at,expired,,,high,medium,4,Key-Systems
 5d33aeb3-3a6e-415c-850f-452fe6ee91d2,leaselend.it,expired,,,medium,high,10,,,,
 af73af23-86e9-4ad0-8377-37a407a645db,message.wiki,expired,,,medium,low,7,"Spaceship, Inc.",22/07/2025 02:38,22/07/2026 02:38,08/09/2026 08:47
 e8ecb327-3d6a-4d7b-bea3-86c07b7522e5,broomtailgrouper.so,expired,,,medium,high,17,,,,
+fd1c9231-848f-45b8-a7f8-9d566b091bf3,stay.fm,expired,,,medium,low,4,1API GmbH,13/07/2025 02:35,13/07/2026 23:59,18/09/2026 08:34
 1b238c5a-03d5-4e5b-9ba4-a8134fc35d67,micro.de,expired,,,medium,medium,5,,,,
 39b2f93d-0042-4e5d-92d9-5f2d9dc127fe,family.eu,expired,,,high,medium,6,Name: Realtime Register B.V. Website: https://www.realtimeregister.com,,,
 4004828a-af93-4e26-a5c7-bd0d601e3de2,Colyton.so,expired,,,medium,high,7,,,,
@@ -999,3 +996,6 @@ b3417b3d-c891-4a2f-bcac-d76b52038adc,watery.dev,expired,,,medium,medium,6,Namech
 729087dc-184f-4692-b2a5-2ff5237f1ac8,bangs.so,expired,,,medium,low,5,,,,
 98cd8b06-ba12-4cda-8699-3324bdaa5521,unyielding.it,expired,,,medium,high,10,,,,
 cc5e8300-196a-44cb-85ae-d9748399250b,sockit.me,expired,,,low,low,7,IONOS SE,22/07/2025 11:55,22/07/2026 11:55,16/09/2026 18:54
+6a7390c1-fe30-48ce-8c30-a90a11cd0f18,support.gg,expired,,,high,medium,7,"humbly, LLC (http://park.io)",,,
+8e3c1cc6-357d-4bb7-820b-0016d6e90b7b,imitatively.it,expired,,,medium,medium,11,,,,
+e6b70903-a0c9-4be8-9853-ed67f25a91db,perky.online,expired,,,medium,low,5,"GoDaddy.com, LLC",26/07/2025 02:16,26/07/2026 23:59,08/09/2026 17:33
