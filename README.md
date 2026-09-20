@@ -1,10 +1,10 @@
-# Expired One-Word Domains (7,691)
+# Expired One-Word Domains (5,347)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C691%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C347%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a list of expired one-word domain names spanning 506 TLDs, updated daily. The median ask across the set is $3,961. Most names fall under $500, with a smaller tier priced at $10k or more, and top TLDs include .it, .us, .store, and .co.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **7,691 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **5,347 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 7,691 domains · **Median ask:** $595.87 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 5,347 domains · **Median ask:** $538.68 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/expired`
 **Best for:** investors, acquisition teams
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status  | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                              |
-| ------------- | ------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
-| gels.so       | expired | $68.98     | —             | medium         | low    | 4      | namecheap                                                              |
-| boxer.cv      | expired | $265.60    | $80.33        | medium         | low    | 5      | namesilo                                                               |
-| doubt.eu      | expired | $1,366.91  | —             | high           | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| adapts.so     | expired | $68.98     | —             | medium         | medium | 6      | namecheap                                                              |
-| bowleg.de     | expired | $5.99      | $5.99         | low            | low    | 6      | namesilo                                                               |
-| yelled.it     | expired | $25.99     | —             | medium         | low    | 6      | name.com                                                               |
-| abysmal.so    | expired | $68.98     | —             | medium         | low    | 7      | namecheap                                                              |
-| markets.cv    | expired | $1,309.75  | $19.50        | medium         | low    | 7      | namecheap                                                              |
-| outside.gg    | expired | $82.98     | —             | medium         | low    | 7      | 1API (http://www.1api.net)                                             |
-| absorbed.eu   | expired | $4,014.65  | $11.99        | high           | low    | 8      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| achilles.it   | expired | $12,798.35 | $25.99        | low            | low    | 8      | name.com                                                               |
-| bailable.eu   | expired | $4.99      | $11.99        | low            | low    | 8      | name.com                                                               |
-| recently.eu   | expired | $4,019.25  | $4,019.25     | medium         | low    | 8      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
-| adsorbent.so  | expired | $68.98     | —             | high           | low    | 9      | namecheap                                                              |
-| aftermost.eu  | expired | $4.99      | $11.99        | low            | low    | 9      | name.com                                                               |
-| aberdonian.de | expired | $19.99     | $19.99        | low            | low    | 10     | name.com                                                               |
-| airfilled.de  | expired | $19.99     | $19.99        | low            | low    | 10     | name.com                                                               |
-| allamort.so   | expired | $68.98     | —             | medium         | medium | 10     | namecheap                                                              |
-| breastbone.it | expired | $25.99     | —             | medium         | low    | 11     | name.com                                                               |
-| thereagain.de | expired | $19.99     | $19.99        | low            | low    | 11     | name.com                                                               |
+| domain       | status  | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                              |
+| ------------ | ------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
+| gels.so      | expired | $68.98     | —             | medium         | low    | 4      | namecheap                                                              |
+| doubt.eu     | expired | $1,366.91  | —             | high           | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| hence.eu     | expired | $4,019.25  | $4,019.25     | medium         | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| study.party  | expired | $5,921.32  | —             | medium         | low    | 5      | Porkbun                                                                |
+| active.wiki  | expired | $657.80    | $65.99        | medium         | low    | 6      | GoDaddy.com, LLC                                                       |
+| adapts.so    | expired | $68.98     | —             | medium         | medium | 6      | namecheap                                                              |
+| bowleg.de    | expired | $5.99      | $5.99         | low            | low    | 6      | namesilo                                                               |
+| yelled.it    | expired | $25.99     | —             | medium         | low    | 6      | name.com                                                               |
+| abysmal.so   | expired | $68.98     | —             | medium         | low    | 7      | namecheap                                                              |
+| alcoves.so   | expired | $68.98     | —             | medium         | low    | 7      | namecheap                                                              |
+| outside.gg   | expired | $82.98     | —             | medium         | low    | 7      | 1API (http://www.1api.net)                                             |
+| absorbed.eu  | expired | $4,014.65  | $11.99        | high           | low    | 8      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| achilles.it  | expired | $12,798.35 | $25.99        | low            | low    | 8      | name.com                                                               |
+| bailable.eu  | expired | $4.99      | $11.99        | low            | low    | 8      | name.com                                                               |
+| recently.eu  | expired | $4,019.25  | $4,019.25     | medium         | low    | 8      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
+| thumping.de  | expired | $5.99      | $5.99         | low            | low    | 8      | namesilo                                                               |
+| adductive.de | expired | $19.99     | $19.99        | low            | low    | 9      | name.com                                                               |
+| admissive.de | expired | $19.99     | $19.99        | low            | low    | 9      | name.com                                                               |
+| adsorbent.so | expired | $68.98     | —             | high           | low    | 9      | namecheap                                                              |
+| aftermost.eu | expired | $4.99      | $11.99        | low            | low    | 9      | name.com                                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 7,691 live domains                         |
+| 1,000-row public sample | 5,347 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
