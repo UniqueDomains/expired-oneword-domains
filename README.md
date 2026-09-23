@@ -16,7 +16,7 @@ This is a list of expired one-word domain names spanning 506 TLDs, updated daily
 
 **Public extract:** 1,000 rows · **Live catalog:** 5,347 domains · **Median ask:** $538.68 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/expired`
 **Best for:** investors, acquisition teams
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status  | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                              |
-| ------------ | ------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
-| gels.so      | expired | $68.98     | —             | medium         | low    | 4      | namecheap                                                              |
-| doubt.eu     | expired | $1,366.91  | —             | high           | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| hence.eu     | expired | $4,019.25  | $4,019.25     | medium         | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| study.party  | expired | $5,921.32  | —             | medium         | low    | 5      | Porkbun                                                                |
-| active.wiki  | expired | $657.80    | $65.99        | medium         | low    | 6      | GoDaddy.com, LLC                                                       |
-| adapts.so    | expired | $68.98     | —             | medium         | medium | 6      | namecheap                                                              |
-| bowleg.de    | expired | $5.99      | $5.99         | low            | low    | 6      | namesilo                                                               |
-| yelled.it    | expired | $25.99     | —             | medium         | low    | 6      | name.com                                                               |
-| abysmal.so   | expired | $68.98     | —             | medium         | low    | 7      | namecheap                                                              |
-| alcoves.so   | expired | $68.98     | —             | medium         | low    | 7      | namecheap                                                              |
-| outside.gg   | expired | $82.98     | —             | medium         | low    | 7      | 1API (http://www.1api.net)                                             |
-| absorbed.eu  | expired | $4,014.65  | $11.99        | high           | low    | 8      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| achilles.it  | expired | $12,798.35 | $25.99        | low            | low    | 8      | name.com                                                               |
-| bailable.eu  | expired | $4.99      | $11.99        | low            | low    | 8      | name.com                                                               |
-| recently.eu  | expired | $4,019.25  | $4,019.25     | medium         | low    | 8      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
-| thumping.de  | expired | $5.99      | $5.99         | low            | low    | 8      | namesilo                                                               |
-| adductive.de | expired | $19.99     | $19.99        | low            | low    | 9      | name.com                                                               |
-| admissive.de | expired | $19.99     | $19.99        | low            | low    | 9      | name.com                                                               |
-| adsorbent.so | expired | $68.98     | —             | high           | low    | 9      | namecheap                                                              |
-| aftermost.eu | expired | $4.99      | $11.99        | low            | low    | 9      | name.com                                                               |
+| domain          | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                              |
+| --------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
+| really.beer     | expired | —         | —             | high           | low    | 6      | Spaceship, Inc.                                                        |
+| launch.beer     | expired | —         | —             | high           | low    | 6      | Spaceship, Inc.                                                        |
+| champagne.one   | expired | —         | —             | high           | low    | 9      | Dynadot Inc                                                            |
+| soul.biz        | expired | —         | —             | high           | medium | 4      | NameCheap, Inc.                                                        |
+| cake.wiki       | expired | —         | —             | high           | low    | 4      | Spaceship, Inc.                                                        |
+| window.wiki     | expired | —         | —             | high           | low    | 6      | Spaceship, Inc.                                                        |
+| creek.work      | expired | —         | —             | high           | low    | 5      | West263 International Limited                                          |
+| campus.fm       | expired | —         | —             | high           | low    | 6      | 1API GmbH                                                              |
+| candle.health   | expired | —         | —             | high           | low    | 6      | Spaceship, Inc.                                                        |
+| ribbon.design   | expired | —         | —             | high           | low    | 6      | Dynadot Inc                                                            |
+| appeal.beer     | expired | —         | —             | high           | low    | 6      | Spaceship, Inc.                                                        |
+| intelligent.biz | expired | —         | —             | high           | low    | 11     | Spaceship, Inc.                                                        |
+| gels.so         | expired | $68.98    | —             | medium         | low    | 4      | namecheap                                                              |
+| doubt.eu        | expired | $1,366.91 | —             | high           | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| hence.eu        | expired | $4,019.25 | $4,019.25     | medium         | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| study.party     | expired | $5,921.32 | —             | medium         | low    | 5      | Porkbun                                                                |
+| active.wiki     | expired | $657.80   | $65.99        | medium         | low    | 6      | GoDaddy.com, LLC                                                       |
+| adapts.so       | expired | $68.98    | —             | medium         | medium | 6      | namecheap                                                              |
+| bowleg.de       | expired | $5.99     | $5.99         | low            | low    | 6      | namesilo                                                               |
+| yelled.it       | expired | $25.99    | —             | medium         | low    | 6      | name.com                                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
