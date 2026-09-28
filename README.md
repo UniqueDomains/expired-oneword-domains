@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                              |
-| --------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
-| hence.eu        | expired | $4,019.25 | $4,019.25     | medium         | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
-| active.wiki     | expired | $657.80   | $65.99        | high           | low    | 6      | GoDaddy.com, LLC                                                       |
-| aflame.net      | expired | $2,875    | $23.99        | high           | low    | 6      | DomainExtreme LLC                                                      |
-| alumna.so       | expired | $68.98    | —             | high           | low    | 6      | namecheap                                                              |
-| azotic.eu       | expired | $4.99     | $11.99        | medium         | low    | 6      | name.com                                                               |
-| stumps.it       | expired | $25.99    | —             | medium         | low    | 6      | name.com                                                               |
-| abysmal.so      | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                              |
-| amiably.so      | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                              |
-| ceramics.so     | expired | $68.98    | —             | high           | high   | 8      | namecheap                                                              |
-| grandpas.it     | expired | $25.99    | —             | medium         | low    | 8      | name.com                                                               |
-| recently.eu     | expired | $4,019.25 | $4,019.25     | medium         | low    | 8      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
-| thumping.de     | expired | $5.99     | $5.99         | medium         | low    | 8      | namesilo                                                               |
-| adductive.de    | expired | $19.99    | $19.99        | medium         | low    | 9      | name.com                                                               |
-| adsorbent.so    | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                              |
-| dignitary.eu    | expired | $6.19     | $5.99         | high           | low    | 9      | namesilo                                                               |
-| longitude.so    | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                              |
-| aberdonian.de   | expired | $19.99    | $19.99        | medium         | low    | 10     | name.com                                                               |
-| centesimal.eu   | expired | $4.99     | $10.99        | medium         | low    | 10     | name.com                                                               |
-| replacement.so  | expired | $68.98    | —             | high           | low    | 11     | namecheap                                                              |
-| structurally.it | expired | $25.99    | —             | medium         | low    | 12     | name.com                                                               |
+| domain           | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                              |
+| ---------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------------------------- |
+| hence.eu         | expired | $4,019.25 | $4,019.25     | medium         | low    | 5      | Name: Realtime Register B.V. Website: https://www.realtimeregister.com |
+| active.wiki      | expired | $657.80   | $65.99        | high           | low    | 6      | GoDaddy.com, LLC                                                       |
+| alumna.so        | expired | $68.98    | —             | high           | low    | 6      | namecheap                                                              |
+| azotic.eu        | expired | $4.99     | $11.99        | medium         | low    | 6      | name.com                                                               |
+| stumps.it        | expired | $25.99    | —             | medium         | low    | 6      | name.com                                                               |
+| abysmal.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                              |
+| amiably.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                              |
+| ceramics.so      | expired | $68.98    | —             | high           | high   | 8      | namecheap                                                              |
+| grandpas.it      | expired | $25.99    | —             | medium         | low    | 8      | name.com                                                               |
+| recently.eu      | expired | $4,019.25 | $4,019.25     | medium         | low    | 8      | Name: INFOCAL sp. z o.o. Website: https://www.cal.pl                   |
+| thumping.de      | expired | $5.99     | $5.99         | medium         | low    | 8      | namesilo                                                               |
+| adductive.de     | expired | $19.99    | $19.99        | medium         | low    | 9      | name.com                                                               |
+| adsorbent.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                              |
+| dignitary.eu     | expired | $6.19     | $5.99         | high           | low    | 9      | namesilo                                                               |
+| longitude.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                              |
+| aberdonian.de    | expired | $19.99    | $19.99        | medium         | low    | 10     | name.com                                                               |
+| centesimal.eu    | expired | $4.99     | $10.99        | medium         | low    | 10     | name.com                                                               |
+| replacement.so   | expired | $68.98    | —             | high           | low    | 11     | namecheap                                                              |
+| structurally.it  | expired | $25.99    | —             | medium         | low    | 12     | name.com                                                               |
+| communication.so | expired | $68.98    | —             | high           | low    | 13     | namecheap                                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
