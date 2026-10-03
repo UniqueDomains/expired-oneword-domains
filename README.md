@@ -1,10 +1,10 @@
-# Expired One-Word Domains (4,487)
+# Expired One-Word Domains (4,578)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C487%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C578%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a list of expired one-word domain names spanning 506 TLDs, updated daily. The median ask across the set is $3,961. Most names fall under $500, with a smaller tier priced at $10k or more, and top TLDs include .it, .us, .store, and .co.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,487 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,578 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,487 domains · **Median ask:** $2,010.34 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 4,578 domains · **Median ask:** $117.14 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/expired`
 **Best for:** investors, acquisition teams
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| ---------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| active.wiki      | expired | $657.80   | $65.99        | high           | low    | 6      | GoDaddy.com, LLC               |
-| alumna.so        | expired | $68.98    | —             | high           | low    | 6      | namecheap                      |
-| azotic.eu        | expired | $4.99     | $11.99        | medium         | low    | 6      | name.com                       |
-| stumps.it        | expired | $25.99    | —             | medium         | low    | 6      | name.com                       |
-| abysmal.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                      |
-| amiably.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                      |
-| ceramics.so      | expired | $68.98    | —             | high           | high   | 8      | namecheap                      |
-| grandpas.it      | expired | $25.99    | —             | medium         | low    | 8      | name.com                       |
-| thumping.de      | expired | $5.99     | $5.99         | medium         | low    | 8      | namesilo                       |
-| adductive.de     | expired | $19.99    | $19.99        | medium         | low    | 9      | name.com                       |
-| adsorbent.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                      |
-| longitude.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                      |
-| aberdonian.de    | expired | $19.99    | $19.99        | medium         | low    | 10     | name.com                       |
-| centesimal.eu    | expired | $4.99     | $10.99        | medium         | low    | 10     | name.com                       |
-| replacement.so   | expired | $68.98    | —             | high           | low    | 11     | namecheap                      |
-| structurally.it  | expired | $25.99    | —             | medium         | low    | 12     | name.com                       |
-| communication.so | expired | $68.98    | —             | high           | low    | 13     | namecheap                      |
-| aca.it           | expired | —         | —             | high           | low    | 3      | —                              |
-| aid.ink          | expired | —         | —             | high           | low    | 3      | Spaceship, Inc.                |
-| alp.bayern       | expired | —         | —             | high           | low    | 3      | PSI-USA, Inc. dba Domain Robot |
+| domain         | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                      |
+| -------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------- |
+| icon.casa      | expired | —         | —             | high           | medium | 4      | Spaceship, Inc.                                |
+| future.surf    | expired | —         | —             | high           | medium | 6      | Dynadot Inc                                    |
+| blastoff.uk    | expired | —         | —             | high           | low    | 8      | UK Internet Services Ltd                       |
+| token.casa     | expired | —         | —             | high           | medium | 5      | Sav.com LLC                                    |
+| fluid.wiki     | expired | —         | —             | high           | low    | 5      | Spaceship, Inc.                                |
+| color.it       | expired | —         | —             | high           | low    | 5      | —                                              |
+| pendulum.at    | expired | —         | —             | high           | low    | 8      | easyname GmbH ( https://nic.at/registrar/414 ) |
+| sobe.it        | expired | —         | —             | high           | high   | 6      | —                                              |
+| aid.ink        | expired | —         | —             | high           | low    | 3      | Spaceship, Inc.                                |
+| velvet.health  | expired | —         | —             | high           | low    | 6      | Spaceship, Inc.                                |
+| innsbruck.us   | expired | —         | —             | high           | low    | 9      | Sav.com, LLC - 3                               |
+| builder.ink    | expired | —         | —             | high           | low    | 7      | Sav.com, LLC - 5                               |
+| dns.bayern     | expired | —         | —             | high           | medium | 3      | PSI-USA, Inc. dba Domain Robot                 |
+| jewellery.casa | expired | —         | —             | high           | low    | 9      | NameCheap, Inc.                                |
+| bridges.health | expired | —         | —             | high           | low    | 7      | Spaceship, Inc.                                |
+| twittering.it  | expired | —         | —             | high           | medium | 10     | —                                              |
+| protective.one | expired | —         | —             | high           | low    | 10     | Dynadot Inc                                    |
+| wizard.health  | expired | —         | —             | high           | medium | 6      | Spaceship, Inc.                                |
+| chuck.one      | expired | —         | —             | high           | low    | 5      | Spaceship, Inc.                                |
+| leaf.wiki      | expired | —         | —             | high           | low    | 4      | Spaceship, Inc.                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 4,487 live domains                         |
+| 1,000-row public sample | 4,578 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
