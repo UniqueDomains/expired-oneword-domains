@@ -25,14 +25,14 @@ This is a list of expired one-word domain names spanning 506 TLDs, updated daily
 <p align="center">
   <a href="https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./expired.csv">CSV</a> / <a href="./expired.json">JSON</a>
-  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
 ---
 
 ➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/expired?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/expired?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_start_project)  
+➡️ **Founders:** [Start a naming Radar from this exact search](https://unique.domains/domains/expired?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_api_docs)
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                      |
-| -------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------- |
-| icon.casa      | expired | —         | —             | high           | medium | 4      | Spaceship, Inc.                                |
-| future.surf    | expired | —         | —             | high           | medium | 6      | Dynadot Inc                                    |
-| blastoff.uk    | expired | —         | —             | high           | low    | 8      | UK Internet Services Ltd                       |
-| token.casa     | expired | —         | —             | high           | medium | 5      | Sav.com LLC                                    |
-| fluid.wiki     | expired | —         | —             | high           | low    | 5      | Spaceship, Inc.                                |
-| color.it       | expired | —         | —             | high           | low    | 5      | —                                              |
-| pendulum.at    | expired | —         | —             | high           | low    | 8      | easyname GmbH ( https://nic.at/registrar/414 ) |
-| sobe.it        | expired | —         | —             | high           | high   | 6      | —                                              |
-| aid.ink        | expired | —         | —             | high           | low    | 3      | Spaceship, Inc.                                |
-| velvet.health  | expired | —         | —             | high           | low    | 6      | Spaceship, Inc.                                |
-| innsbruck.us   | expired | —         | —             | high           | low    | 9      | Sav.com, LLC - 3                               |
-| builder.ink    | expired | —         | —             | high           | low    | 7      | Sav.com, LLC - 5                               |
-| dns.bayern     | expired | —         | —             | high           | medium | 3      | PSI-USA, Inc. dba Domain Robot                 |
-| jewellery.casa | expired | —         | —             | high           | low    | 9      | NameCheap, Inc.                                |
-| bridges.health | expired | —         | —             | high           | low    | 7      | Spaceship, Inc.                                |
-| twittering.it  | expired | —         | —             | high           | medium | 10     | —                                              |
-| protective.one | expired | —         | —             | high           | low    | 10     | Dynadot Inc                                    |
-| wizard.health  | expired | —         | —             | high           | medium | 6      | Spaceship, Inc.                                |
-| chuck.one      | expired | —         | —             | high           | low    | 5      | Spaceship, Inc.                                |
-| leaf.wiki      | expired | —         | —             | high           | low    | 4      | Spaceship, Inc.                                |
+| domain         | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| -------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| icon.casa      | expired | —         | —             | high           | medium | 4      | Spaceship, Inc.                                         |
+| future.surf    | expired | —         | —             | high           | medium | 6      | Dynadot Inc                                             |
+| blastoff.uk    | expired | —         | —             | high           | low    | 8      | UK Internet Services Ltd                                |
+| token.casa     | expired | —         | —             | high           | medium | 5      | Sav.com LLC                                             |
+| fluid.wiki     | expired | —         | —             | high           | low    | 5      | Spaceship, Inc.                                         |
+| color.it       | expired | —         | —             | high           | low    | 5      | —                                                       |
+| pendulum.at    | expired | —         | —             | high           | low    | 8      | easyname GmbH ( https://nic.at/registrar/414 )          |
+| sobe.it        | expired | —         | —             | high           | high   | 6      | —                                                       |
+| aid.ink        | expired | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| velvet.health  | expired | —         | —             | high           | low    | 6      | Spaceship, Inc.                                         |
+| innsbruck.us   | expired | —         | —             | high           | low    | 9      | Sav.com, LLC - 3                                        |
+| builder.ink    | expired | —         | —             | high           | low    | 7      | Sav.com, LLC - 5                                        |
+| dns.bayern     | expired | —         | —             | high           | medium | 3      | PSI-USA, Inc. dba Domain Robot                          |
+| jewellery.casa | expired | —         | —             | high           | low    | 9      | NameCheap, Inc.                                         |
+| bridges.health | expired | —         | —             | high           | low    | 7      | Spaceship, Inc.                                         |
+| twittering.it  | expired | —         | —             | high           | medium | 10     | —                                                       |
+| wizard.health  | expired | —         | —             | high           | medium | 6      | Spaceship, Inc.                                         |
+| chuck.one      | expired | —         | —             | high           | low    | 5      | Spaceship, Inc.                                         |
+| leaf.wiki      | expired | —         | —             | high           | low    | 4      | Spaceship, Inc.                                         |
+| profits.at     | expired | —         | —             | high           | low    | 7      | Domainers Registrar AG ( https://nic.at/registrar/668 ) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,17 +91,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                             |
-| ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 4,578 live domains                         |
-| Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 4 high-demand names under $2,500           |
-| No persistence          | Radar, saved search, and alerts            |
-| No founder workflow     | Project, shortlist, and next-step workflow |
+| GitHub extract          | Unique Domains                                       |
+| ----------------------- | ---------------------------------------------------- |
+| 1,000-row public sample | 4,578 live domains                                   |
+| Static CSV / JSON       | live search and daily refresh                        |
+| Basic exported fields   | 4 high-demand names under $2,500                     |
+| No persistence          | Radar, saved search, and alerts                      |
+| No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/expired?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/expired?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/expired?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_create_radar) · [Start a naming Radar](https://unique.domains/domains/expired?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_open_search)
-- [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_methodology)
+- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
