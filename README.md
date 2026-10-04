@@ -1,10 +1,10 @@
-# Expired One-Word Domains (4,733)
+# Expired One-Word Domains (4,527)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C733%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C527%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a list of expired one-word domain names spanning 506 TLDs, updated daily. The median ask across the set is $3,961. Most names fall under $500, with a smaller tier priced at $10k or more, and top TLDs include .it, .us, .store, and .co.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,733 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,527 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,733 domains · **Median ask:** $117.14 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 4,527 domains · **Median ask:** $193.37 · **High-demand under $2,500:** 4
 
 **Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/domains/expired`
@@ -25,7 +25,7 @@ This is a list of expired one-word domain names spanning 506 TLDs, updated daily
 <p align="center">
   <a href="https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./expired.csv">CSV</a> / <a href="./expired.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -66,24 +66,24 @@ print(df.head())
 | ---------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
 | active.wiki      | expired | $657.80   | $65.99        | high           | low    | 6      | GoDaddy.com, LLC                                                   |
 | alumna.so        | expired | $68.98    | —             | high           | low    | 6      | namecheap                                                          |
-| azotic.eu        | expired | $4.99     | $11.99        | medium         | low    | 6      | name.com                                                           |
-| stumps.it        | expired | $25.99    | —             | medium         | low    | 6      | name.com                                                           |
 | abysmal.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                          |
 | amiably.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                          |
 | ceramics.so      | expired | $68.98    | —             | high           | high   | 8      | namecheap                                                          |
-| grandpas.it      | expired | $25.99    | —             | medium         | low    | 8      | name.com                                                           |
-| thumping.de      | expired | $5.99     | $5.99         | medium         | low    | 8      | namesilo                                                           |
-| adductive.de     | expired | $19.99    | $19.99        | medium         | low    | 9      | name.com                                                           |
 | adsorbent.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                          |
 | longitude.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                          |
-| aberdonian.de    | expired | $19.99    | $19.99        | medium         | low    | 10     | name.com                                                           |
-| centesimal.eu    | expired | $4.99     | $10.99        | medium         | low    | 10     | name.com                                                           |
 | replacement.so   | expired | $68.98    | —             | high           | low    | 11     | namecheap                                                          |
-| structurally.it  | expired | $25.99    | —             | medium         | low    | 12     | name.com                                                           |
 | communication.so | expired | $68.98    | —             | high           | low    | 13     | namecheap                                                          |
 | aca.it           | expired | —         | —             | high           | low    | 3      | —                                                                  |
 | agm.energy       | expired | —         | —             | high           | low    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | aid.ink          | expired | —         | —             | high           | low    | 3      | Spaceship, Inc.                                                    |
+| alp.bayern       | expired | —         | —             | high           | low    | 3      | PSI-USA, Inc. dba Domain Robot                                     |
+| aww.gg           | expired | —         | —             | high           | high   | 3      | Porkbun LLC (https://porkbun.com/)                                 |
+| bag.earth        | expired | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
+| bbc.sex          | expired | —         | —             | high           | medium | 3      | Nom-iq Ltd. dba COM LAUDE                                          |
+| boa.ventures     | expired | —         | —             | high           | low    | 3      | Name.com, Inc.                                                     |
+| did.ventures     | expired | —         | —             | high           | low    | 3      | Sav.com, LLC - 36                                                  |
+| dns.bayern       | expired | —         | —             | high           | medium | 3      | PSI-USA, Inc. dba Domain Robot                                     |
+| dns.fm           | expired | —         | —             | high           | medium | 3      | Porkbun LLC                                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 4,733 live domains                                   |
+| 1,000-row public sample | 4,527 live domains                                   |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 4 high-demand names under $2,500                     |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
