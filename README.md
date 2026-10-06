@@ -16,7 +16,7 @@ This is a list of expired one-word domain names spanning 506 TLDs, updated daily
 
 **Public extract:** 1,000 rows · **Live catalog:** 4,527 domains · **Median ask:** $193.37 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/domains/expired`
 **Best for:** investors, acquisition teams
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | ---------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| active.wiki      | expired | $657.80   | $65.99        | high           | low    | 6      | GoDaddy.com, LLC                                                   |
-| alumna.so        | expired | $68.98    | —             | high           | low    | 6      | namecheap                                                          |
 | abysmal.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                          |
-| amiably.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                          |
-| ceramics.so      | expired | $68.98    | —             | high           | high   | 8      | namecheap                                                          |
-| adsorbent.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                          |
 | longitude.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                          |
 | replacement.so   | expired | $68.98    | —             | high           | low    | 11     | namecheap                                                          |
 | communication.so | expired | $68.98    | —             | high           | low    | 13     | namecheap                                                          |
-| aca.it           | expired | —         | —             | high           | low    | 3      | —                                                                  |
 | agm.energy       | expired | —         | —             | high           | low    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| aid.ink          | expired | —         | —             | high           | low    | 3      | Spaceship, Inc.                                                    |
-| alp.bayern       | expired | —         | —             | high           | low    | 3      | PSI-USA, Inc. dba Domain Robot                                     |
+| ane.digital      | expired | —         | —             | high           | low    | 3      | Sav.com, LLC - 20                                                  |
+| any.agency       | expired | —         | —             | high           | medium | 3      | Netregistry Wholesale Pty Ltd                                      |
+| ash.ventures     | expired | —         | —             | high           | low    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 | aww.gg           | expired | —         | —             | high           | high   | 3      | Porkbun LLC (https://porkbun.com/)                                 |
 | bag.earth        | expired | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
-| bbc.sex          | expired | —         | —             | high           | medium | 3      | Nom-iq Ltd. dba COM LAUDE                                          |
-| boa.ventures     | expired | —         | —             | high           | low    | 3      | Name.com, Inc.                                                     |
-| did.ventures     | expired | —         | —             | high           | low    | 3      | Sav.com, LLC - 36                                                  |
-| dns.bayern       | expired | —         | —             | high           | medium | 3      | PSI-USA, Inc. dba Domain Robot                                     |
+| bee.makeup       | expired | —         | —             | high           | medium | 3      | Spaceship, Inc.                                                    |
+| bio.christmas    | expired | —         | —             | high           | medium | 3      | Spaceship, Inc.                                                    |
+| bud.camp         | expired | —         | —             | high           | low    | 3      | Sav.com, LLC                                                       |
 | dns.fm           | expired | —         | —             | high           | medium | 3      | Porkbun LLC                                                        |
+| eon.fm           | expired | —         | —             | high           | low    | 3      | Porkbun LLC                                                        |
+| fan.church       | expired | —         | —             | high           | medium | 3      | Sav.com, LLC                                                       |
+| fit.schule       | expired | —         | —             | high           | medium | 3      | Porkbun LLC                                                        |
+| fix.xxx          | expired | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
+| god.army         | expired | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                                   |
+| jot.at           | expired | —         | —             | high           | low    | 3      | edomains LLC ( https://nic.at/registrar/728 )                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
