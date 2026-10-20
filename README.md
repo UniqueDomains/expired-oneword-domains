@@ -16,7 +16,7 @@ This is a list of expired one-word domain names spanning 506 TLDs, updated daily
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,133 domains · **Median ask:** $554.94 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-10-19
+**Last updated:** 2026-10-20
 **Canonical page:** `https://unique.domains/domains/expired`
 **Best for:** investors, acquisition teams
 
@@ -69,7 +69,6 @@ print(df.head())
 | replacement.so   | expired | $68.98    | —             | high           | low    | 11     | namecheap                                                          |
 | communication.so | expired | $68.98    | —             | high           | low    | 13     | namecheap                                                          |
 | act.domains      | expired | —         | —             | high           | low    | 3      | Dynadot Inc                                                        |
-| ada.law          | expired | —         | —             | high           | medium | 3      | united-domains GmbH                                                |
 | ads.cx           | expired | —         | —             | high           | medium | 3      | West263 International Limited                                      |
 | ads.uk           | expired | —         | —             | high           | medium | 3      | Bonus Media Ltd                                                    |
 | agm.energy       | expired | —         | —             | high           | low    | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
@@ -84,6 +83,7 @@ print(df.head())
 | fix.xxx          | expired | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                                   |
 | god.army         | expired | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                                   |
 | gyn.fm           | expired | —         | —             | high           | low    | 3      | NameCheap, Inc.                                                    |
+| hym.im           | expired | —         | —             | medium         | low    | 3      | —                                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-10-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-10-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
