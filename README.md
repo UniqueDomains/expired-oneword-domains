@@ -1,10 +1,10 @@
-# Expired One-Word Domains (11,353)
+# Expired One-Word Domains (11,489)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C353%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C489%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a list of expired one-word domain names spanning 506 TLDs, updated daily. The median ask across the set is $3,961. Most names fall under $500, with a smaller tier priced at $10k or more, and top TLDs include .it, .us, .store, and .co.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,353 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,489 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,353 domains · **Median ask:** $817.03 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 11,489 domains · **Median ask:** $789.00 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-11-01
+**Last updated:** 2026-11-02
 **Canonical page:** `https://unique.domains/domains/expired`
 **Best for:** investors, acquisition teams
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| power.supply        | expired | —         | —             | high           | high   | 5      | Porkbun LLC                                               |
-| kielbasa.io         | expired | —         | —             | high           | high   | 8      | NameCheap, Inc.                                           |
-| developer.expert    | expired | —         | —             | high           | high   | 9      | NameCheap, Inc.                                           |
-| art.taxi            | expired | —         | —             | high           | high   | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| present.today       | expired | —         | —             | high           | low    | 7      | Sav.com, LLC - 2                                          |
-| technology.insure   | expired | —         | —             | high           | medium | 10     | GoDaddy.com, LLC                                          |
-| brain.credit        | expired | —         | —             | high           | high   | 5      | Sav.com, LLC                                              |
-| eggs.club           | expired | —         | —             | high           | medium | 4      | 1API GmbH                                                 |
-| original.it         | expired | —         | —             | high           | low    | 8      | —                                                         |
-| innovation.buzz     | expired | —         | —             | high           | high   | 10     | Spaceship, Inc.                                           |
-| doctor.organic      | expired | —         | —             | high           | medium | 6      | Sav.com, LLC - 28                                         |
-| strength.technology | expired | —         | —             | high           | medium | 8      | GoDaddy.com, LLC                                          |
-| novel.center        | expired | —         | —             | high           | high   | 5      | Registrar of Domain Names REG.RU LLC                      |
-| plan.guru           | expired | —         | —             | high           | high   | 4      | Sav.com, LLC - 43                                         |
-| science.charity     | expired | —         | —             | high           | high   | 7      | Porkbun LLC                                               |
-| developer.de        | expired | —         | —             | high           | high   | 9      | —                                                         |
-| only.support        | expired | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| radio.beer          | expired | —         | —             | high           | medium | 5      | Spaceship, Inc.                                           |
-| bike.team           | expired | —         | —             | high           | high   | 4      | Infomaniak Network SA                                     |
-| investigation.net   | expired | —         | —             | high           | low    | 13     | GoDaddy.com, LLC                                          |
+| domain           | status  | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| abysmal.so       | expired | $68.98    | —             | high           | low    | 7      | namecheap                                                 |
+| longitude.so     | expired | $68.98    | —             | high           | low    | 9      | namecheap                                                 |
+| replacement.so   | expired | $68.98    | —             | high           | low    | 11     | namecheap                                                 |
+| communication.so | expired | $68.98    | —             | high           | low    | 13     | namecheap                                                 |
+| ads.cx           | expired | —         | —             | high           | low    | 3      | West263 International Limited                             |
+| ads.uk           | expired | —         | —             | high           | low    | 3      | Bonus Media Ltd                                           |
+| art.taxi         | expired | —         | —             | high           | high   | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ass.guru         | expired | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
+| bag.earth        | expired | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| bed.baby         | expired | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| bil.it           | expired | —         | —             | high           | low    | 3      | —                                                         |
+| biz.new          | expired | —         | —             | high           | low    | 3      | Namecheap Inc.                                            |
+| cda.horse        | expired | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| ceu.digital      | expired | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| cmc.party        | expired | —         | —             | high           | low    | 3      | Dominet (HK) Limited                                      |
+| ewe.one          | expired | —         | —             | high           | low    | 3      | One.com A/S                                               |
+| fab.computer     | expired | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
+| fix.xxx          | expired | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| fly.pics         | expired | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| hdl.biz          | expired | —         | —             | high           | low    | 3      | InternetX GmbH                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 11,353 live domains                                  |
+| 1,000-row public sample | 11,489 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 2 high-demand names under $2,500                     |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Expired One-Word Domains*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Expired One-Word Domains*. Version 2026-11-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
