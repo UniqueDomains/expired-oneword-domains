@@ -1,6 +1,6 @@
-# Expired One-Word Domains (11,229)
+# Expired One-Word Domains (11,240)
 
-11,229 names in this list today, refreshed every night.
+11,240 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/expired](https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_page)
 
@@ -30,20 +30,20 @@ The first 20 rows of the file, in the file's order.
 | regulators.it    | expired | —              | —             | high           | low    | 10     |
 | data.wedding     | expired | —              | —             | high           | high   | 4      |
 | sane.biz         | expired | —              | —             | high           | low    | 4      |
-| pomodoro.lol     | expired | —              | —             | high           | medium | 8      |
 | kilowatt.site    | expired | —              | —             | high           | low    | 8      |
 | legibility.co    | expired | —              | —             | high           | low    | 10     |
 | web.one          | expired | —              | —             | high           | high   | 3      |
 | ads.cx           | expired | —              | —             | high           | low    | 3      |
 | finale.beer      | expired | —              | —             | high           | low    | 6      |
 | coincident.dev   | expired | —              | —             | high           | low    | 10     |
-| reviewers.us     | expired | —              | —             | high           | low    | 9      |
 | conservatory.pro | expired | —              | —             | high           | low    | 12     |
 | closeout.info    | expired | —              | —             | high           | low    | 9      |
 | quicksand.site   | expired | —              | —             | high           | low    | 9      |
 | desirable.uk     | expired | —              | —             | high           | low    | 9      |
 | educated.at      | expired | —              | —             | high           | low    | 8      |
 | perplex.club     | expired | —              | —             | high           | low    | 7      |
+| grow.photo       | expired | —              | —             | high           | medium | 4      |
+| blinker.at       | expired | —              | —             | high           | low    | 7      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 11,229 names in the live list today.
+- The files hold 1,000 rows of the 11,240 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
