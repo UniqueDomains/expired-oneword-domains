@@ -1,6 +1,6 @@
-# Expired One-Word Domains (11,544)
+# Expired One-Word Domains (11,525)
 
-11,544 names in this list today, refreshed every night.
+11,525 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/expired](https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_page)
 
@@ -30,6 +30,7 @@ The first 20 rows of the file, in the file's order.
 | regulators.it    | expired | —              | —             | high           | low    | 10     |
 | data.wedding     | expired | —              | —             | high           | high   | 4      |
 | sane.biz         | expired | —              | —             | high           | low    | 4      |
+| bootcamp.nyc     | expired | —              | —             | high           | medium | 8      |
 | kilowatt.site    | expired | —              | —             | high           | low    | 8      |
 | legibility.co    | expired | —              | —             | high           | low    | 10     |
 | web.one          | expired | —              | —             | high           | high   | 3      |
@@ -38,7 +39,6 @@ The first 20 rows of the file, in the file's order.
 | coincident.dev   | expired | —              | —             | high           | low    | 10     |
 | conservatory.pro | expired | —              | —             | high           | low    | 12     |
 | closeout.info    | expired | —              | —             | high           | low    | 9      |
-| quicksand.site   | expired | —              | —             | high           | low    | 9      |
 | desirable.uk     | expired | —              | —             | high           | low    | 9      |
 | educated.at      | expired | —              | —             | high           | low    | 8      |
 | perplex.club     | expired | —              | —             | high           | low    | 7      |
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 11,544 names in the live list today.
+- The files hold 1,000 rows of the 11,525 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
