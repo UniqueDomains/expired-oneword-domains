@@ -1,6 +1,6 @@
-# Expired One-Word Domains (11,525)
+# Expired One-Word Domains (11,516)
 
-11,525 names in this list today, refreshed every night.
+11,516 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/expired](https://unique.domains/domains/expired?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_page)
 
@@ -36,9 +36,9 @@ The first 20 rows of the file, in the file's order.
 | web.one          | expired | —              | —             | high           | high   | 3      |
 | ads.cx           | expired | —              | —             | high           | low    | 3      |
 | finale.beer      | expired | —              | —             | high           | low    | 6      |
-| coincident.dev   | expired | —              | —             | high           | low    | 10     |
 | conservatory.pro | expired | —              | —             | high           | low    | 12     |
 | closeout.info    | expired | —              | —             | high           | low    | 9      |
+| awaits.site      | expired | —              | —             | medium         | low    | 6      |
 | desirable.uk     | expired | —              | —             | high           | low    | 9      |
 | educated.at      | expired | —              | —             | high           | low    | 8      |
 | perplex.club     | expired | —              | —             | high           | low    | 7      |
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 11,525 names in the live list today.
+- The files hold 1,000 rows of the 11,516 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
@@ -104,5 +104,7 @@ Every ending Unique Domains tracks: [unique.domains/tld](https://unique.domains/
 ## About Unique Domains
 
 [Unique Domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
+
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
 Questions and corrections: `kai@unique.domains`
