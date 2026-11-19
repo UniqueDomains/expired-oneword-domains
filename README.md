@@ -1,6 +1,6 @@
-# Expired One-Word Domains (10,801)
+# Expired One-Word Domains (10,860)
 
-1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,801 names are in [the list](https://unique.domains/domains/expired) today.
+1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,860 names are in [the list](https://unique.domains/domains/expired) today.
 
 You are not the only one reading it: drop catchers and investors follow expiry lists every day. A name may have been renewed or registered again, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -27,6 +27,7 @@ The first 20 rows of the file, in the file's order.
 | domain           | status  | purchase_price | renewal_price | attractiveness | demand | length |
 | ---------------- | ------- | -------------- | ------------- | -------------- | ------ | ------ |
 | couple.one       | expired | —              | —             | high           | low    | 6      |
+| arena.pw         | expired | —              | —             | high           | medium | 5      |
 | address.im       | expired | —              | —             | high           | low    | 7      |
 | data.wedding     | expired | —              | —             | high           | high   | 4      |
 | web.one          | expired | —              | —             | high           | high   | 3      |
@@ -45,7 +46,6 @@ The first 20 rows of the file, in the file's order.
 | bme.gold         | expired | —              | —             | high           | low    | 3      |
 | show.science     | expired | —              | —             | high           | high   | 4      |
 | headache.health  | expired | —              | —             | high           | low    | 8      |
-| appro.club       | expired | —              | —             | high           | low    | 5      |
 
 ## What is in the data
 
@@ -64,7 +64,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 10,801 names in the live list today.
+- The files hold 1,000 rows of the 10,860 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
