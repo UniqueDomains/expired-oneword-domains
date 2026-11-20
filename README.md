@@ -1,6 +1,6 @@
-# Expired One-Word Domains (10,860)
+# Expired One-Word Domains (10,928)
 
-1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,860 names are in [the list](https://unique.domains/domains/expired) today.
+1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,928 names are in [the list](https://unique.domains/domains/expired) today.
 
 You are not the only one reading it: drop catchers and investors follow expiry lists every day. A name may have been renewed or registered again, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -31,6 +31,7 @@ The first 20 rows of the file, in the file's order.
 | address.im       | expired | —              | —             | high           | low    | 7      |
 | data.wedding     | expired | —              | —             | high           | high   | 4      |
 | web.one          | expired | —              | —             | high           | high   | 3      |
+| cyber.earth      | expired | —              | —             | high           | high   | 5      |
 | ads.cx           | expired | —              | —             | high           | low    | 3      |
 | finale.beer      | expired | —              | —             | high           | low    | 6      |
 | conservatory.pro | expired | —              | —             | high           | low    | 12     |
@@ -44,8 +45,7 @@ The first 20 rows of the file, in the file's order.
 | blinker.at       | expired | —              | —             | high           | low    | 7      |
 | goods.yoga       | expired | —              | —             | high           | high   | 5      |
 | bme.gold         | expired | —              | —             | high           | low    | 3      |
-| show.science     | expired | —              | —             | high           | high   | 4      |
-| headache.health  | expired | —              | —             | high           | low    | 8      |
+| bombshell.biz    | expired | —              | —             | high           | low    | 9      |
 
 ## What is in the data
 
@@ -64,7 +64,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 10,860 names in the live list today.
+- The files hold 1,000 rows of the 10,928 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
