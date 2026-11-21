@@ -1,6 +1,8 @@
-# Expired One-Word Domains (10,928)
+# Expired One-Word Domains (10,726)
 
-1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,928 names are in [the list](https://unique.domains/domains/expired) today.
+**Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_home).
+
+1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,726 names are in [the list](https://unique.domains/domains/expired) today.
 
 You are not the only one reading it: drop catchers and investors follow expiry lists every day. A name may have been renewed or registered again, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -26,11 +28,13 @@ The first 20 rows of the file, in the file's order.
 
 | domain           | status  | purchase_price | renewal_price | attractiveness | demand | length |
 | ---------------- | ------- | -------------- | ------------- | -------------- | ------ | ------ |
+| badge.zone       | expired | —              | —             | high           | low    | 5      |
 | couple.one       | expired | —              | —             | high           | low    | 6      |
 | arena.pw         | expired | —              | —             | high           | medium | 5      |
 | address.im       | expired | —              | —             | high           | low    | 7      |
 | data.wedding     | expired | —              | —             | high           | high   | 4      |
 | web.one          | expired | —              | —             | high           | high   | 3      |
+| mindbender.tv    | expired | —              | —             | high           | low    | 10     |
 | cyber.earth      | expired | —              | —             | high           | high   | 5      |
 | ads.cx           | expired | —              | —             | high           | low    | 3      |
 | finale.beer      | expired | —              | —             | high           | low    | 6      |
@@ -44,8 +48,6 @@ The first 20 rows of the file, in the file's order.
 | error.games      | expired | —              | —             | high           | medium | 5      |
 | blinker.at       | expired | —              | —             | high           | low    | 7      |
 | goods.yoga       | expired | —              | —             | high           | high   | 5      |
-| bme.gold         | expired | —              | —             | high           | low    | 3      |
-| bombshell.biz    | expired | —              | —             | high           | low    | 9      |
 
 ## What is in the data
 
@@ -64,7 +66,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 10,928 names in the live list today.
+- The files hold 1,000 rows of the 10,726 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
