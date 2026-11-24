@@ -1,8 +1,8 @@
-# Expired One-Word Domains (10,779)
+# Expired One-Word Domains (10,874)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_home).
 
-1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,779 names are in [the list](https://unique.domains/domains/expired) today.
+1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,874 names are in [the list](https://unique.domains/domains/expired) today.
 
 You are not the only one reading it: drop catchers and investors follow expiry lists every day. A name may have been renewed or registered again, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -21,6 +21,8 @@ import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/expired-oneword-domains/main/expired.csv")
 print(df.head())
 ```
+
+Also on [Kaggle](https://www.kaggle.com/datasets/uniquedomains/expired-one-word-domains).
 
 ## Sample rows
 
@@ -41,7 +43,7 @@ The first 20 rows of the file, in the file's order.
 | finale.beer      | expired | —              | —             | high           | low    | 6      |
 | conservatory.pro | expired | —              | —             | high           | low    | 12     |
 | closeout.info    | expired | —              | —             | high           | low    | 9      |
-| awaits.site      | expired | —              | —             | medium         | low    | 6      |
+| awaits.site      | expired | —              | —             | high           | low    | 6      |
 | educated.at      | expired | —              | —             | high           | low    | 8      |
 | perplex.club     | expired | —              | —             | high           | low    | 7      |
 | star.garden      | expired | —              | —             | high           | medium | 4      |
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 10,779 names in the live list today.
+- The files hold 1,000 rows of the 10,874 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
