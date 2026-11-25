@@ -1,8 +1,8 @@
-# Expired One-Word Domains (10,874)
+# Expired One-Word Domains (10,818)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_home).
 
-1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,874 names are in [the list](https://unique.domains/domains/expired) today.
+1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,818 names are in [the list](https://unique.domains/domains/expired) today.
 
 You are not the only one reading it: drop catchers and investors follow expiry lists every day. A name may have been renewed or registered again, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -31,10 +31,12 @@ The first 20 rows of the file, in the file's order.
 | domain           | status  | purchase_price | renewal_price | attractiveness | demand | length |
 | ---------------- | ------- | -------------- | ------------- | -------------- | ------ | ------ |
 | badge.zone       | expired | —              | —             | high           | low    | 5      |
+| abracadabra.one  | expired | —              | —             | high           | high   | 11     |
 | couple.one       | expired | —              | —             | high           | low    | 6      |
 | arena.pw         | expired | —              | —             | high           | medium | 5      |
 | address.im       | expired | —              | —             | high           | low    | 7      |
 | data.wedding     | expired | —              | —             | high           | high   | 4      |
+| credit.city      | expired | —              | —             | high           | medium | 6      |
 | web.one          | expired | —              | —             | high           | high   | 3      |
 | mindbender.tv    | expired | —              | —             | high           | low    | 10     |
 | cyber.earth      | expired | —              | —             | high           | high   | 5      |
@@ -48,8 +50,6 @@ The first 20 rows of the file, in the file's order.
 | perplex.club     | expired | —              | —             | high           | low    | 7      |
 | star.garden      | expired | —              | —             | high           | medium | 4      |
 | grow.photo       | expired | —              | —             | high           | medium | 4      |
-| garden.cafe      | expired | —              | —             | high           | high   | 6      |
-| error.games      | expired | —              | —             | high           | medium | 5      |
 
 ## What is in the data
 
@@ -68,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 10,874 names in the live list today.
+- The files hold 1,000 rows of the 10,818 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
@@ -110,6 +110,6 @@ Every ending Unique.domains tracks: [unique.domains/tld](https://unique.domains/
 
 [Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts.
 
-From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install domain-name-api`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
 Questions and corrections: `kai@unique.domains`

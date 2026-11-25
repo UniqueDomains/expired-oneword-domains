@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-11-24
+## 2026-11-25
 
 - Rebuilt the public extract: 1,000 rows.
-- The live list holds 10,874 names today.
+- The live list holds 10,818 names today.
 
 For a stable reference, cite a dated release: each one is archived on Zenodo with its own DOI.
