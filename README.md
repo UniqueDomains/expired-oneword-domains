@@ -1,8 +1,8 @@
-# Expired One-Word Domains (10,768)
+# Expired One-Word Domains (10,787)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_expired_oneword_domains&utm_content=top_home).
 
-1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,768 names are in [the list](https://unique.domains/domains/expired) today.
+1,000 one-word domain names whose registration has expired, refreshed every night. Each word exists once on each ending, so an expired name is that word coming back, once. 10,787 names are in [the list](https://unique.domains/domains/expired) today.
 
 You are not the only one reading it: drop catchers and investors follow expiry lists every day. A name may have been renewed or registered again, so [check a name](https://unique.domains/availability) before you act on it.
 
@@ -33,23 +33,23 @@ The first 20 rows of the file, in the file's order.
 | badge.zone       | expired | —              | —             | high           | low    | 5      |
 | abracadabra.one  | expired | —              | —             | high           | high   | 11     |
 | couple.one       | expired | —              | —             | high           | low    | 6      |
-| arena.pw         | expired | —              | —             | high           | medium | 5      |
+| sobremesa.us     | expired | —              | —             | high           | medium | 9      |
 | address.im       | expired | —              | —             | high           | low    | 7      |
 | data.wedding     | expired | —              | —             | high           | high   | 4      |
 | credit.city      | expired | —              | —             | high           | medium | 6      |
 | web.one          | expired | —              | —             | high           | high   | 3      |
 | mindbender.tv    | expired | —              | —             | high           | low    | 10     |
 | cyber.earth      | expired | —              | —             | high           | high   | 5      |
-| fill.design      | expired | —              | —             | high           | medium | 4      |
 | ads.cx           | expired | —              | —             | high           | low    | 3      |
 | finale.beer      | expired | —              | —             | high           | low    | 6      |
 | conservatory.pro | expired | —              | —             | high           | low    | 12     |
 | closeout.info    | expired | —              | —             | high           | low    | 9      |
 | adjuster.net     | expired | —              | —             | high           | low    | 8      |
 | awaits.site      | expired | —              | —             | high           | low    | 6      |
-| quickdraw.net    | expired | —              | —             | high           | low    | 9      |
 | educated.at      | expired | —              | —             | high           | low    | 8      |
 | perplex.club     | expired | —              | —             | high           | low    | 7      |
+| star.garden      | expired | —              | —             | high           | medium | 4      |
+| grow.photo       | expired | —              | —             | high           | medium | 4      |
 
 ## What is in the data
 
@@ -68,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 10,768 names in the live list today.
+- The files hold 1,000 rows of the 10,787 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
